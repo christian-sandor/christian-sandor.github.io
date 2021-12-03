@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aitor Rovira | XRL</title>
+    <link>https://xr-lab.org/authors/aitor-rovira/</link>
+      <atom:link href="https://xr-lab.org/authors/aitor-rovira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aitor Rovira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Aitor Rovira</title>
+      <link>https://xr-lab.org/authors/aitor-rovira/</link>
+    </image>
+    
+    <item>
+      <title>EyeAR: Refocusable Augmented Reality Content through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-2017-mdpi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-2017-mdpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] EyeAR: Refocusable Augmented Reality Content through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EyeAR: Empiric Evaluation of a Refocusable Augmented Reality System</title>
+      <link>https://xr-lab.org/publication/rovira-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rovira-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

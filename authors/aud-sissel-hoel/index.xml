@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aud Sissel Hoel | XRL</title>
+    <link>https://xr-lab.org/authors/aud-sissel-hoel/</link>
+      <atom:link href="https://xr-lab.org/authors/aud-sissel-hoel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aud Sissel Hoel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Aud Sissel Hoel</title>
+      <link>https://xr-lab.org/authors/aud-sissel-hoel/</link>
+    </image>
+    
+    <item>
+      <title>A-me and BrainCloud: Art-Science Interrogations of Localization in Neuroscience</title>
+      <link>https://xr-lab.org/publication/puig-art-science-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/puig-art-science-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-me: augmented memories</title>
+      <link>https://xr-lab.org/publication/puig-me-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/puig-me-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

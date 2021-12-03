@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/pui-chung-wong/</link>
+      <atom:link href="https://xr-lab.org/authors/pui-chung-wong/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/pui-chung-wong/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Eyes-Free Bezel-Initiated Swipe on Round Smartwatches</title>
+      <link>https://xr-lab.org/publication/pui-chung-chi-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pui-chung-chi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TipText: Eyes-Free Text Entry on a Fingertip Keyboard</title>
+      <link>https://xr-lab.org/publication/pui-chung-acm-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pui-chung-acm-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FingerT9: Leveraging Thumb-to-Finger Interaction for Same-Side-Hand Text Entry on Smartwatches</title>
+      <link>https://xr-lab.org/publication/pui-chung-chi-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pui-chung-chi-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO]FingerT9: Leveraging Thumb-to-Finger Interaction for One-Handed Text Entry on Smartwatches</title>
+      <link>https://xr-lab.org/publication/pui-chung-sig-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pui-chung-sig-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back-Mirror: Back-of-Device One-Handed Interaction on Smartphones</title>
+      <link>https://xr-lab.org/publication/pui-chung-sig-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pui-chung-sig-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic Gesture Recognition</title>
+      <link>https://xr-lab.org/project/finger-device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/finger-device/</guid>
+      <description>&lt;p&gt;This project aims to build the connection between humans and digital content through an easy to set up and natural interaction method that turns everyday objects into intuitive and creative interfaces. This could be achieved by acoustic gesture recognition which adds interactivity on the object surfaces by detecting the sound produced when performing a gesture. This technique will be used to enable interaction on physical objects for manipulation in the Internet of Things (IoT) , peripheral smart devices, Augmented Reality (AR), and Virtual Reality (VR) environments. It is also possible to customize tangible interfaces for specific applications and people with special needs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/alvaro-cassinelli/</link>
+      <atom:link href="https://xr-lab.org/authors/alvaro-cassinelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/alvaro-cassinelli/</link>
+    </image>
+    
+    <item>
+      <title>HORIZON</title>
+      <link>https://xr-lab.org/project/horizon/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/horizon/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/L328rF1m_qY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;HORIZON is an interactive audiovisual piece created for the 360 stereoscopic panorama Gallery in the school of creative media in CityU. The piece explores the relationship between space and horizon while experimenting with visual and spatial codes and illusions that tap into the sensory perception of horizontality and motion.  The fact that the visual and the balance system in human perception are interrelated and are prone to illusions open the door to the search for new interesting effects. The work intends to tap into phenomena like fake horizon illusion, Autokenesis and other effects related to sensorimotor feedback loops, exploiting these effects to find new narrative codes within this unexplored big format. The goal was to create an immersive real-time experience, building tools and workflows to produce high-end cinematic computer graphics that were edited and modified live with a certain degree of interactivity while developing workflows to render the content using cutting edge real-time distributed rendering systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classifying Cycling Hazards in Egocentric Data</title>
+      <link>https://xr-lab.org/publication/haebich-2021-classifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/haebich-2021-classifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychophysical Effects of Experiencing Burning Hands in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eckhoff_eurovr_20/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff_eurovr_20/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Can interactive Augmented Reality (AR) experiences induce involuntary sensations through additional modalities? In this paper we report on our AR experience that enables users to see and hear their own hands burning while looking through a Video See-Through Head-Mounted Display (VST-HMD). In an exploratory study (n=12, within-subject design), we investigated whether this will lead to an involuntary heat sensation based on visual and auditory stimuli. A think-aloud-protocol and an AR presence questionnaire indicated that six out of twelve participants experienced an involuntary heat sensation on their hands.
+Despite no significant change of perceived anxiety, we found a significant increase in skin conductance during the experiment for all participants; participants who reported an involuntary heat sensation had higher skin conductance responses than participants who did not report a heat sensation. Our results support our initial hypothesis as we found evidence of cross-modal audiovisual-to-thermal transfers. This is an example of virtual synaesthesia, a sensation occurring when single-modal (or multi-modal) stimulus sets off the simultaneous sensation over other senses&amp;mdash;involuntarily and automatically. We believe that our results contribute to the scientific understanding of AR induced synaesthesia as well as inform practical applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AURA</title>
+      <link>https://xr-lab.org/project/aura/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/aura/</guid>
+      <description>&lt;p&gt;AURA is an interactive installation designed for the 360° projection theatre immersive system. Besides the circular projection wall, this project utilizes two TV screen through which the users can interact with the projected image. The first TV screen works as an AR mirror. It augments metallic surface onto the viewers’ body. The metallic material reflects the environment. While the user is standing in front of the AR mirror the system saves a still 3D mesh of its body. The captured then gets projected onto the second TV screen. On the middle of this screen, the user can find an attached knob and after rotating it the mesh colour is changed. When the users pick their colour the mesh appears on the wall. Every time a new user goes through this interaction process, its body will be projected onto the wall and a gradually growing timeline of the user&amp;rsquo;s body is going to be created. After the user detaches the knob from the TV screen the knob allows him to control the projected image. The knob’s rotation rotates the timeline of the bodies along a spiralling spline. The viewer can scroll forward or backwards and explore the people who previously occupied the space&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classifying Cycling Hazards in Egocentric Data</title>
+      <link>https://xr-lab.org/project/cycling/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/cycling/</guid>
+      <description>&lt;p&gt;Since cyclists are highly sensitive to road surface conditions and hazards they require more detailed information when navigating their route. To facilitate a better understanding of what causes hazardous conditions to cyclists we created a dataset of classified hazardous cycling conditions. Egocentric cycling footage and IMU data was collected in Hong Kong and Australia on various types of cycling infrastructure using sensors attached to the cyclist. By collecting both video and IMU data we were able to identify moments where the cyclist was experiencing sudden braking or uncomfortable cycling conditions as indicated by the IMU. We then extracted videos from these moments and classified them using Amazon Mechanical Turk.&lt;/p&gt;
+
+&lt;p&gt;This project was sponsored by Amazon and was created for the  EPIC @ CVPR 2020 Dataset challenge. This data is publicly available at the link below for anyone to use or modify under the Creative Commons Attribution 4.0 International License.&lt;/p&gt;
+
+&lt;p&gt;This dataset can be downloaded from the following link:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1htHvoTT7OHlfCrQsivGa3W6aRV38BTHw&#34; target=&#34;_blank&#34;&gt;Dataset&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When using this data set please cite the following paper:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xr-lab.org/publication/haebich-2021-classifying/&#34; target=&#34;_blank&#34;&gt;Classifying Cycling Hazards in Egocentric Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Context-Based 3D Haptic Grid</title>
+      <link>https://xr-lab.org/project/haptic-grid/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/haptic-grid/</guid>
+      <description>&lt;p&gt;The Context-Based 3D Haptic Grid extends the visual and haptic feedback of the real-world to help users do precise mid-air 3D manipulations. Our system creates 3D grids that surround each object (virtual and real) in the scene to help users see the object&amp;rsquo;s transformation. It also provides haptic feedback to helps users do precise manipulations without constraining their actions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Light Field Manipulators</title>
+      <link>https://xr-lab.org/project/lightfield-manipulator/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/lightfield-manipulator/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Vu4Bgv0S_Ds&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+This project explores scalable methods for repurposing existing fields of light (e.g. from the sun or conventional electric lights). Using a combination of commodity components, we are creating mechanisms to steer and calibrate arrays of mirrors to synthesise fields of light which can be used for rendering images, redirecting thermal energy, and providing illumination. We intend to research and develop mechanisms at both larger scales (&amp;gt;10m arrays) to micro scale (&amp;lt;wavelength of light).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Minimal Latency Laser Graphics Pipeline</title>
+      <link>https://xr-lab.org/publication/haebich-sa-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/haebich-sa-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Forgotten Exercise?</title>
+      <link>https://xr-lab.org/artwork/aforgottonexercise/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/artwork/aforgottonexercise/</guid>
+      <description>&lt;p&gt;We are at a loss when words or pictures refuse to reveal their immediate purpose. Yet despite its graphical profusion, Leonardo Da Vinci’s Codex is very lucid in this respect: every page offers immediate enjoyment, regardless of a professional grasp　of the subject matter.
+I maintain that this accessibility is not just due to the general familiarity with the works of Leonardo Da Vinci. The master’s feverish daydreaming coupled with his unparalleled erudition produces something that is more accessible than the scribblings of the scientist, and more touching than the sketches of the artist, because it reminds us of the all encompassing curiosity of a child. Every page of the Codex is soul food for thought.&lt;/p&gt;
+
+&lt;p&gt;I also fill notebooks, and treasure ship-logging my own mental navigations in a similarly obsessive manner. This practice helps me retrace forgotten routes in an otherwise disorienting ocean of facts and ideas. Of course it is humbling to show my souvenirs alongside Leonardo Da Vinci’s more far reaching circumnavigation of the mind. Perhaps involuntarily, Leonardo Da Vinci elevated an early form of multimedia documenting to the level of Art. In any case, I offer my own attempt at it, because it remains to be seen if this intimate practice will survive in the age of the mind-mapping software, the standard presentation format, or the insidious takeover of auto-correction tools as applied to text, images, and ultimately to curiosity and life itself.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/2_hub7d8c3e84a3c52b5734c09a37ba85d7c_3429654_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/3.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/3_hub7d8c3e84a3c52b5734c09a37ba85d7c_3214570_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/4.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/4_hu88863fab187aed6bf41e5228886cdb49_2633118_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Perceptual and Cognitive Effects of Extreme Augmented Reality Experiences</title>
+      <link>https://xr-lab.org/publication/eckhoff_ismar_19/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff_ismar_19/</guid>
+      <description>
+
+&lt;p&gt;We will investigate perceptual and cognitive responses of users of several extreme Augmented Reality experiences on an Optical See-Through Head-Mounted Display (a). They will see their hands: on fire (b), being covered by dirt &amp;copy;, affected by arthritis (d), a wound (e), and applied with virtual bandage.&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;In this proposed Ph.D. research, we are aiming to create several extreme Augmented Reality (AR) that evoke measurable physiological and neurological responses in the human brain.&lt;/p&gt;
+
+&lt;p&gt;These experiments will run on a platform capable of tracking the user’s body and recreating a volumetric representations of it. On a Head-Mounted Display, we will overlay real-time photo-realistic stereoscopic graphics on the user’s body.&lt;/p&gt;
+
+&lt;p&gt;To investigate our hypotheses, we will build a set of systems each capable of measuring various biomarkers, including cardiac biomarkers, skin conductance, muscle tension, electroencephalogram (EEG) and hormone levels. Additionally, we will use questionnaires and think aloud protocols.&lt;/p&gt;
+
+&lt;p&gt;This research allows insights into the perceptual and cognitive effects unique to AR experiences that can’t be reproduced in VR. These insights are from a highly significant clinical interest in psychology, possibly capable of creating new non-invasive ways of treating or accelerating the therapy of many diseases; e.g., mental disorders such as phobias or Obsessive-Compulsive disorder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tactile Radar: experimenting a computer game with visually disabled</title>
+      <link>https://xr-lab.org/publication/kastrup-tactile-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kastrup-tactile-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radar Tatil: Experimentando um jogo de computador para pessoas com deficiencia visual</title>
+      <link>https://xr-lab.org/publication/virginia-radar-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/virginia-radar-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-me and BrainCloud: Art-Science Interrogations of Localization in Neuroscience</title>
+      <link>https://xr-lab.org/publication/puig-art-science-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/puig-art-science-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radar Tatil: experimentando um dispositivo de entrada em jogos digitais para pessoas com deficiencia visual</title>
+      <link>https://xr-lab.org/publication/alvaro-radar-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-radar-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real or Virtual Matter -- or How I Learned to Stop Worrying and Love the Matrix</title>
+      <link>https://xr-lab.org/publication/alvaro-real-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-real-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les intelligences artificielles, entre realite et fantasmes, on est ou?</title>
+      <link>https://xr-lab.org/publication/alvaro-les-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-les-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapters dedicated to my former Meta-Perception Group</title>
+      <link>https://xr-lab.org/publication/alvaro-chapters-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-chapters-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Flow, Spatial Physical Computing</title>
+      <link>https://xr-lab.org/publication/cassinelli-data-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-data-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ouroboros</title>
+      <link>https://xr-lab.org/publication/alvaro-ouroboros-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-ouroboros-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ratchair: furniture learns to move itself with vibration SIG E-tech</title>
+      <link>https://xr-lab.org/publication/parshakova-ratchair-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/parshakova-ratchair-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking the Barriers to True Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-breaking-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-breaking-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do blind people move more confidently with the Tactile Radar?</title>
+      <link>https://xr-lab.org/publication/cassinelli-blind-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-blind-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pair of diopter-adjustable eyeglasses for presbyopia correction</title>
+      <link>https://xr-lab.org/publication/gregory-pair-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/gregory-pair-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An assessment method of augmented reality interface using volumetric virtual object overlay system</title>
+      <link>https://xr-lab.org/publication/takahashi-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/takahashi-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic method for crafting deformable interfaces to physically augment smartphones</title>
+      <link>https://xr-lab.org/publication/watanabe-generic-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/watanabe-generic-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-me: augmented memories</title>
+      <link>https://xr-lab.org/publication/puig-me-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/puig-me-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neuroscience social network project</title>
+      <link>https://xr-lab.org/publication/puig-neuroscience-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/puig-neuroscience-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skin Games</title>
+      <link>https://xr-lab.org/publication/alvaro-skin-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-skin-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Displays take new shape: an agenda for future interactive surfaces</title>
+      <link>https://xr-lab.org/publication/steimle-displays-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/steimle-displays-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiencing interactivity in public spaces (eips)</title>
+      <link>https://xr-lab.org/publication/vaananen-vainio-mattila-experiencing-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/vaananen-vainio-mattila-experiencing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skin Games</title>
+      <link>https://xr-lab.org/publication/cassinelli-skin-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-skin-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LightArrays</title>
+      <link>https://xr-lab.org/publication/danielle-lightarrays-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/danielle-lightarrays-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Volume Slicing Display: a tangible interface for slicing and annotation of volumetric data[invited talk]</title>
+      <link>https://xr-lab.org/publication/alvaro-thevolume-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-thevolume-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EARLIDS &amp; Entacoustic performance &amp; To Blink or Not To Blink</title>
+      <link>https://xr-lab.org/publication/alvaro-earlids-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-earlids-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Laser Aura: a prosthesis for emotional expression</title>
+      <link>https://xr-lab.org/publication/cassinelli-laser-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-laser-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invoked computing Spatial audio and video AR invoked through miming</title>
+      <link>https://xr-lab.org/publication/lihui-invoked-nodate/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lihui-invoked-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upwards, not Northward</title>
+      <link>https://xr-lab.org/publication/alvaro-upwards-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-upwards-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-air typing interface for mobile devices with vibration feedback</title>
+      <link>https://xr-lab.org/publication/niikura-air-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/niikura-air-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EARLIDS &amp; Entacoustic Performance</title>
+      <link>https://xr-lab.org/publication/noauthor-earlids-2010/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/noauthor-earlids-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Blink or Not To Blink</title>
+      <link>https://xr-lab.org/publication/alvaro-blink-2010/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-blink-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Display System based on Adaptive Image Projection to a Deformable Tangible Screen</title>
+      <link>https://xr-lab.org/publication/yoshihiro-2010/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yoshihiro-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camera-less Smart Laser Projector</title>
+      <link>https://xr-lab.org/publication/cassinelli-camera-2010/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-camera-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethical Aspects of Video Game Experiments</title>
+      <link>https://xr-lab.org/publication/reynolds-ethical-2010/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/reynolds-ethical-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kicked up from Flatland: some examples of 2.5 dimensional interactive displays</title>
+      <link>https://xr-lab.org/publication/alvaro-kicked-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-kicked-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scoreLight</title>
+      <link>https://xr-lab.org/publication/cassinelli-scorelight-2009/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-scorelight-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Haptic Radar</title>
+      <link>https://xr-lab.org/publication/zerroug-virtual-2009/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zerroug-virtual-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volume slicing display</title>
+      <link>https://xr-lab.org/publication/cassinelli-volume-2009/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-volume-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Self - Sacrifice</title>
+      <link>https://xr-lab.org/publication/reynolds-machine-nodate/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/reynolds-machine-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am near my navel: learning mappings between location and skin</title>
+      <link>https://xr-lab.org/publication/reynolds-i-2009/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/reynolds-i-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghostly images appearing in moving human eyes and still machine eyes</title>
+      <link>https://xr-lab.org/publication/ando-ghostly-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ando-ghostly-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The deformable workspace: A membrane between real and virtual space</title>
+      <link>https://xr-lab.org/publication/watanabe-deformable-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/watanabe-deformable-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aural Antennae</title>
+      <link>https://xr-lab.org/publication/cassinelli-aural-nodate/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-aural-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boxed Ego</title>
+      <link>https://xr-lab.org/publication/alvaro-boxed-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-boxed-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial coverage vs. sensorial fidelity in VR</title>
+      <link>https://xr-lab.org/publication/zerroug-spatial-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zerroug-spatial-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khronos Projector: essay</title>
+      <link>https://xr-lab.org/publication/alvaro-khronos-2008/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-khronos-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-perception: reflexes and bodies as part of the interface</title>
+      <link>https://xr-lab.org/publication/reynolds-meta-perception-2008/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/reynolds-meta-perception-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Perception [Invited talk]</title>
+      <link>https://xr-lab.org/publication/noauthor-meta-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/noauthor-meta-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timescape</title>
+      <link>https://xr-lab.org/publication/alvaro-timescape-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-timescape-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manipulating Perception</title>
+      <link>https://xr-lab.org/publication/stetten-manipulating-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/stetten-manipulating-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economically Autonomous Robotic Entities</title>
+      <link>https://xr-lab.org/publication/reynolds-economically-nodate/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/reynolds-economically-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Object Representation Using a Tangible Screen</title>
+      <link>https://xr-lab.org/publication/takahito-2006/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/takahito-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmenting spatial awareness with the Haptic Radar</title>
+      <link>https://xr-lab.org/publication/cassinelli-augmenting-2006/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-augmenting-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haptic radar / extended skin project</title>
+      <link>https://xr-lab.org/publication/cassinelli-haptic-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-haptic-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khronos projector</title>
+      <link>https://xr-lab.org/publication/cassinelli-khronos-2005-1/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-khronos-2005-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart laser-scanner for 3D human-machine interface</title>
+      <link>https://xr-lab.org/publication/cassinelli-smart-2005/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-smart-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load-balanced optical packet switching using two-stage time-slot interchangers</title>
+      <link>https://xr-lab.org/publication/cassinelli-load-balanced-2004/</link>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-load-balanced-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesture recognition using laser-based tracking system</title>
+      <link>https://xr-lab.org/publication/perrin-gesture-2004/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/perrin-gesture-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markerless laser-based tracking for real-time 3D gesture acquisition</title>
+      <link>https://xr-lab.org/publication/cassinelli-markerless-2004/</link>
+      <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-markerless-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A load-balanced optical packet switch architecture with an O(1) scheduling complexity</title>
+      <link>https://xr-lab.org/publication/goulet-load-balanced-2004/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/goulet-load-balanced-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multistage Network With Globally Controlled Switching Stages and Its Implementation Using Optical Multi-Interconnection Modules</title>
+      <link>https://xr-lab.org/publication/cassinelli-multistage-2004/</link>
+      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-multistage-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-Based Finger Tracking System Suitable for MOEMS Integration</title>
+      <link>https://xr-lab.org/publication/perrin-laser-based-2003/</link>
+      <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/perrin-laser-based-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arbitration-free Time-Division Permutation Switching suitable for All-Optical Implementation</title>
+      <link>https://xr-lab.org/publication/cassinelli-arbitration-free-2003/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-arbitration-free-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stage-distributed time-division permutation routing in a multistage optically interconnected switching fabric</title>
+      <link>https://xr-lab.org/publication/cassinelli-stage-distributed-2003/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-stage-distributed-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable optical interconnections using multi-permutation-integrated fiber modules</title>
+      <link>https://xr-lab.org/publication/cassinelli-reconfigurable-2003/</link>
+      <pubDate>Sat, 01 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-reconfigurable-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-dimensional fiber array with integrated topology for short-distance optical interconnections</title>
+      <link>https://xr-lab.org/publication/naruse-two-dimensional-2002/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/naruse-two-dimensional-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elemental optical fiber-based blocks for building modular computing parallel architectures</title>
+      <link>https://xr-lab.org/publication/cassinelli-elemental-2002/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-elemental-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quad-tree Image Compression using reconfigurable free-space optical interconnections and pipelined parallel processors</title>
+      <link>https://xr-lab.org/publication/cassinelli-quad-tree-2002/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-quad-tree-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A modular, guided-wave approach to plane-to-plane optical interconnects for multistage interconnection networks</title>
+      <link>https://xr-lab.org/publication/cassinelli-modular-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-modular-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dedicated Optoelectronic Stochastic Parallel Processor (OSPP) for real-time image processing: motion detection demonstration and design of a hybrid CMOS/SEED based prototype</title>
+      <link>https://xr-lab.org/publication/alvaro-ao-2001/</link>
+      <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-ao-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optoelectronic Stochastic Parallel Processors for real time image processing &amp; application to motion detection</title>
+      <link>https://xr-lab.org/publication/alvaro-optoelectronic-2000/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-optoelectronic-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of Optoelectronic implementation of cellular automata for complex vision algorithms</title>
+      <link>https://xr-lab.org/publication/chavel-optoelectronic-2001/</link>
+      <pubDate>Thu, 01 Jun 2000 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/chavel-optoelectronic-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optoelectronic cellular automata for video real-time vision</title>
+      <link>https://xr-lab.org/publication/chavel-optoelectronic-2000/</link>
+      <pubDate>Mon, 01 May 2000 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/chavel-optoelectronic-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of video-rate optoelectronic parallel processors for noise cleaning in binary images by simulated annealing</title>
+      <link>https://xr-lab.org/publication/cassinelli-demonstration-1998/</link>
+      <pubDate>Fri, 01 May 1998 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-demonstration-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video-Rate Optoelectronic Parallel Processors for Image Processing using Simulated Annealing</title>
+      <link>https://xr-lab.org/publication/cassinelli-video-rate-1998/</link>
+      <pubDate>Fri, 01 May 1998 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-video-rate-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generateurs et amplificateurs parametriques optiques monomode transverse</title>
+      <link>https://xr-lab.org/publication/pankoke-generateurs-1995/</link>
+      <pubDate>Thu, 01 Jun 1995 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pankoke-generateurs-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic Gesture Recognition</title>
+      <link>https://xr-lab.org/project/finger-device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/finger-device/</guid>
+      <description>&lt;p&gt;This project aims to build the connection between humans and digital content through an easy to set up and natural interaction method that turns everyday objects into intuitive and creative interfaces. This could be achieved by acoustic gesture recognition which adds interactivity on the object surfaces by detecting the sound produced when performing a gesture. This technique will be used to enable interaction on physical objects for manipulation in the Internet of Things (IoT) , peripheral smart devices, Augmented Reality (AR), and Virtual Reality (VR) environments. It is also possible to customize tangible interfaces for specific applications and people with special needs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AR Therapies for PTSD</title>
+      <link>https://xr-lab.org/project/ar-ptsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/ar-ptsd/</guid>
+      <description>&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/project/ar-ptsd/teaser.png&#34; /&gt;
+    &lt;/div&gt;
+    
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&amp;ldquo;Globally, it is estimated that up to 1 billion children aged 2–17 years, have experienced physical, sexual, emotional violence and neglect” [1], and 30% of the abused child is likely to develop Post-traumatic stress disorder (PTSD) [2]; 354 million adult war survivors are suffering from PTSD [3]; At where the natural disaster occurred, 70.7% of survivors will suffer from acute PTSD [4]. PTSD has not only high prevalence but also high lethality, which is accompanied by multiple physical and mental comorbidities as well as strong suicidal tendencies [5-7]. This doctoral research aims to contribute to the development of PTSD treatment by investigating the potential of Augmented Reality (AR) narrative in treating PTSD. This four-year research project consists of three steps. In the first stage of research, we will conduct a comparative study between AR and VR narratives with participants without mental illnesses to verify whether AR narratives work better in eliciting the emotional engagement of the participants than VR narratives. In the second stage, we will create a system that integrates AR narratives with prolonged exposure (PE) treatment and experiment it with PTSD patients to verify its treatment efficacy. In the final stage, a semi-automatic and patient-authored AR system is expected to be achieved, through which the patients can design their unique exposure environment via voice input. This doctoral research project will provide valuable experimental samples and scientific evidences for the research of psychotherapy, narrative studies, and AR application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AvatarMeeting: An Augmented Reality Remote Interaction System With Personalized Avatars</title>
+      <link>https://xr-lab.org/project/avatar-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/avatar-meeting/</guid>
+      <description>&lt;p&gt;To further enhance the immersion, we involve avatars in remote interactions harnessing Head Mounted Display (HMD) based Augmented Reality (AR). In this demonstration, we present AvatarMeeting to enable users to meet with remote peers through interactive, personalized avatars, just like face to face. Specifically, we propose a novel framework including a consumer-grade set-up, a complete transmission scheme, and a processing pipeline, which consists of prescan modeling, pose detection, and action reconstruction. Moreover, we introduce an angle based reconstruction approach to empower the avatar to perform the same actions as each real remote person does in real-time smoothly while keeping a good avatar shape.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Immersive Projection</title>
+      <link>https://xr-lab.org/project/interactive-immersive-proj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/interactive-immersive-proj/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Spiritual World&amp;rdquo; is an interactive immersive projection trying to build an inner world to show the self-reflection process of participants visually and show the relationship between participants. Experiencing the &amp;ldquo;Spiritual World&amp;rdquo; is like entering other people&amp;rsquo;s inner world or let other people get into your inner world. The interaction between participants will be visually displayed to the surrounding.&lt;/p&gt;
+
+&lt;p&gt;The image and skeleton of audiences will be captured by Azure Kinect, then the captured data will be projected to the TV mirror and the surrounding walls to create the &amp;ldquo;Spiritual World&amp;rdquo;, aiming to turn the indescribable and uncertain interaction and intimacy between people into raw and surreal visuals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VIRTUAL PSYCHOTECHNICS: SIMULATING THE VISUAL PHENOMENOLOGY OF HALLUCINATION</title>
+      <link>https://xr-lab.org/project/psychotechnics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/psychotechnics/</guid>
+      <description>&lt;p&gt;This research investigates the capacity for immersive virtual reality (VR) and augmented reality (AR) to simulate the perceptual phenomena of altered states of consciousness. The thesis aims to answer the following question; what are the philosophical, scientific and technological links between altered states of consciousness and technology which have given rise to the increasing use of VR and AR as empirical tools for simulating meditative and psychedelic brain states. The hypothesis of this research draws from the philosophy of technology and theories of consciousness in the neurosciences to argue that the immersive qualities of VR and AR technologies mediate altered states of consciousness. These theoretical frameworks will inform the production of AR and VR systems that will be used in experimental studies to determine whether these technologies have the capacity for capturing the visual phenomenology of profound psychological experiences which physiological brain imaging technologies are incapable of articulating.  The first experiment will involve the development of a VR meditation system that digitally simulates the visualization techniques in Vajrayana buddhist meditation while using EEG brain computer interface to create bio feedback between the virtual simulations of buddhist cosmology and the users meditative state. This artwork proposes that VR buddhist meditation apps are the continuation of a tradition of visual art used as meditation aids in Tibetan and Tantric Buddhism.  The second experiment is an art science collaboration that draws from neuroimaging research on psychedelic brain states which has demonstrated increased cerebral blood flow and decreased alpha brain wave activity as key indicators of altered states of consciousness. Alpha activity is usually associated with filtering ‘stimulus irrelevant’ input in the visual cortex and reduced alpha is proposed to have a ‘disinhibitory’ effect producing anarchic patterns of stimulation associated with hallucinations. An acknowledged gap in this research is that examining only the ‘neural correlates of consciousness’ of hallucination neglects the visual phenomenological experience of these states which would be aided by the ‘improved capture of visual hallucinations.’ A mixed reality system will be developed for inducing hallucinations based on predictive processing and sensorimotor contingency theories of visual consciousness through the simulation of simple and complex imagery which is responsive to the eye tracking of the hololens system.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

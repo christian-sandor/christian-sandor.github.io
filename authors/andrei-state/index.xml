@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrei State | XRL</title>
+    <link>https://xr-lab.org/authors/andrei-state/</link>
+      <atom:link href="https://xr-lab.org/authors/andrei-state/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrei State</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Andrei State</title>
+      <link>https://xr-lab.org/authors/andrei-state/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Eye Convergence for Head-mounted Displays Improves User Performance in Virtual Environments</title>
+      <link>https://xr-lab.org/publication/sherstyuk-12-i-3-d/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sherstyuk-12-i-3-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

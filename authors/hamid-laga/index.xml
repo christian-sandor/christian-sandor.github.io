@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hamid Laga | XRL</title>
+    <link>https://xr-lab.org/authors/hamid-laga/</link>
+      <atom:link href="https://xr-lab.org/authors/hamid-laga/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hamid Laga</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Hamid Laga</title>
+      <link>https://xr-lab.org/authors/hamid-laga/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Visuo-Haptic Augmented Reality User Interfaces for Stereo- Tactic Neurosurgery Planning</title>
+      <link>https://xr-lab.org/publication/eck-miar-16/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-miar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Perception of Co-Location Errors during Tool Interaction in Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-icvr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-icvr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise Haptic Device Co-Location for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-vcg-15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-vcg-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Comprehensive Workspace Calibration for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-ismar/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Workspace Calibration for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

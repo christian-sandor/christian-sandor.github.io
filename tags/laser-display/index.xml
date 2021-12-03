@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>laser display | XRL</title>
+    <link>https://xr-lab.org/tags/laser-display/</link>
+      <atom:link href="https://xr-lab.org/tags/laser-display/index.xml" rel="self" type="application/rss+xml" />
+    <description>laser display</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>laser display</title>
+      <link>https://xr-lab.org/tags/laser-display/</link>
+    </image>
+    
+    <item>
+      <title>Interactive Minimal Latency Laser Graphics Pipeline</title>
+      <link>https://xr-lab.org/publication/haebich-sa-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/haebich-sa-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

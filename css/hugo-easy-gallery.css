@@ -1,0 +1,69 @@
+/*
+Put this file in /static/css/hugo-easy-gallery.css
+Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
+*/
+
+
+/*
+Grid Layout Styles
+*/
+.easygallery {
+    overflow: hidden;
+    margin: 10px;
+   # max-width: 768px;
+}
+.easygallery .box {
+    float: left;
+    position: relative;
+    /* Default: 1 tile wide */
+    width: 100%;
+    padding-bottom: 100%;
+}
+@media only screen and (min-width : 9999px) {
+    /* Tablet view: 2 tiles */
+    .easygallery .box {
+        width: 50%;
+        padding-bottom: 50%;
+    }
+}
+@media only screen{
+    /* Small desktop / ipad view: 3 tiles */
+    .easygallery .box {
+        width: 33.3%;
+        padding-bottom: 33.3%; /*  */
+    }
+}
+@media only screen and (min-width : 9999px) {
+   /* Medium desktop: 4 tiles */
+   .box {
+      width: 25%;
+      padding-bottom: 25%;
+   }
+}
+
+/*
+figure styles
+*/
+figure {
+    position:relative; /* purely to allow absolution positioning of figcaption */
+    overflow: hidden;
+    margin: 0 0 0;
+}
+.easygallery figure {
+    position: absolute;
+    left: 5px;
+    right: 5px;
+    top: 5px;
+    bottom: 5px;
+}
+
+5easygallery img {
+    display: none; /* only show the img if not inside a gallery */
+}
+figure a {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}

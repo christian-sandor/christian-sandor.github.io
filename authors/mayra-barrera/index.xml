@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/mayra-barrera/</link>
+      <atom:link href="https://xr-lab.org/authors/mayra-barrera/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/mayra-barrera/</link>
+    </image>
+    
+    <item>
+      <title>Context-Based 3D Haptic Grid</title>
+      <link>https://xr-lab.org/project/haptic-grid/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/haptic-grid/</guid>
+      <description>&lt;p&gt;The Context-Based 3D Haptic Grid extends the visual and haptic feedback of the real-world to help users do precise mid-air 3D manipulations. Our system creates 3D grids that surround each object (virtual and real) in the scene to help users see the object&amp;rsquo;s transformation. It also provides haptic feedback to helps users do precise manipulations without constraining their actions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

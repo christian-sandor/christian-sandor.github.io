@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taketomi Takafumi | XRL</title>
+    <link>https://xr-lab.org/authors/taketomi-takafumi/</link>
+      <atom:link href="https://xr-lab.org/authors/taketomi-takafumi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taketomi Takafumi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Taketomi Takafumi</title>
+      <link>https://xr-lab.org/authors/taketomi-takafumi/</link>
+    </image>
+    
+    <item>
+      <title>知覚量に基づく光投影による色制御実現に向けた色知覚モデルの検討</title>
+      <link>https://xr-lab.org/publication/akiyama-sigmr-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-sigmr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>運動学習のための顔交換技術の初期検討</title>
+      <link>https://xr-lab.org/publication/matsumura-sigmr-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/matsumura-sigmr-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

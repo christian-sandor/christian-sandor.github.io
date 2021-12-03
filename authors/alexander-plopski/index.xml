@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Plopski | XRL</title>
+    <link>https://xr-lab.org/authors/alexander-plopski/</link>
+      <atom:link href="https://xr-lab.org/authors/alexander-plopski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Plopski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Alexander Plopski</title>
+      <link>https://xr-lab.org/authors/alexander-plopski/</link>
+    </image>
+    
+    <item>
+      <title>Illusory light: Perceptual appearance control using a projection-induced illusion</title>
+      <link>https://xr-lab.org/publication/akiyama-illusory-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-illusory-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards large scale high fidelity collaborative augmented reality</title>
+      <link>https://xr-lab.org/publication/rompapas-towards-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-towards-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Reflectance Estimation for Projection-Based Appearance Control in a Dynamic Light Environment</title>
+      <link>https://xr-lab.org/publication/akiyama-robust-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-robust-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of Augmented Reality with Pressing Evaluation and Training System for Finger Force Training</title>
+      <link>https://xr-lab.org/publication/ty-integration-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ty-integration-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Positioning Method for Berthing Support Using Fusion of Tightly Coupled GNSS Carrier Phase with IMU and Visual Odometry.</title>
+      <link>https://xr-lab.org/publication/nakamura-robust-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/nakamura-robust-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Missing Interface: Micro-Gestures on Augmented Objects</title>
+      <link>https://xr-lab.org/publication/copic-pucihar-missing-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/copic-pucihar-missing-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Appearance Control by Projection-Induced Illusion</title>
+      <link>https://xr-lab.org/publication/akiyama-perceptual-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-perceptual-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] HoloRoyale: A Large Scale High Fidelity Augmented Reality Game</title>
+      <link>https://xr-lab.org/publication/rompapas-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] HoloRoyale: A Large Scale High Fidelity Augmented Reality Game</title>
+      <link>https://xr-lab.org/publication/rompapas-ismar-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-ismar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>色恒常性を利用したプロジェクタの色域の知覚的拡張</title>
+      <link>https://xr-lab.org/publication/akiyama-miru-18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-miru-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AR-PETS: Development of an Augmented Reality Supported Pressing Evaluation Training System</title>
+      <link>https://xr-lab.org/publication/plopski-itap-18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/plopski-itap-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient In-Situ Creation of Augmented Reality Tutorials</title>
+      <link>https://xr-lab.org/publication/plopski-mfi-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/plopski-mfi-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Fence Obstacle Removal for Images with Color Consistency</title>
+      <link>https://xr-lab.org/publication/matsui-apmar-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/matsui-apmar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrightView: Increasing Perceived Brightness of Optical See-Through Head-Mounted Displays through Unnoticeable Incident Light Reduction</title>
+      <link>https://xr-lab.org/publication/mori-2018-vr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/mori-2018-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Projection-Induced Illusion for Controlling Object Color</title>
+      <link>https://xr-lab.org/publication/akiyama-vr-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-vr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Situated Game Level Editing in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/ng-tei-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ng-tei-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Situated Knee Trajectory Visualization for Self Analysis in Cycling</title>
+      <link>https://xr-lab.org/publication/kaplan-ieeevr-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-ieeevr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferability of Spatial Maps: Augmented Versus Virtual Reality Training</title>
+      <link>https://xr-lab.org/publication/caluya-2018-vr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/caluya-2018-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Preference for SharpView-Enhanced Virtual Text during Non-Fixated Viewing</title>
+      <link>https://xr-lab.org/publication/cook-2018-vr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cook-2018-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Augmented Reality – Augmenting Auditory-Tactile Feedback to Change the Perception of Thickness</title>
+      <link>https://xr-lab.org/publication/lugtenberg-2018-mmm/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lugtenberg-2018-mmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Preliminary Study on the Effects of Virtual and Augmented Reality on the Psychological Response of Users when Hurting Avatars Depicting Friends and Strangers</title>
+      <link>https://xr-lab.org/publication/ty-sigmr-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ty-sigmr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusion of VSLAM/GNSS/INS for Augmented Reality Navigation in Ports</title>
+      <link>https://xr-lab.org/publication/nakamura-gnss-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/nakamura-gnss-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>知覚量に基づく光投影による色制御実現に向けた色知覚モデルの検討</title>
+      <link>https://xr-lab.org/publication/akiyama-sigmr-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-sigmr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>運動学習のための顔交換技術の初期検討</title>
+      <link>https://xr-lab.org/publication/matsumura-sigmr-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/matsumura-sigmr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER] BrightView: Increasing Perceived Brightness in Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-17-2/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-17-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Depth Restoration via Regularization in Curvelet Domain</title>
+      <link>https://xr-lab.org/publication/zhang-apmar-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zhang-apmar-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of IoT and Augmented Reality Combination</title>
+      <link>https://xr-lab.org/publication/akiyama-apmar-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-apmar-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EyeAR: Refocusable Augmented Reality Content through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-2017-mdpi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-2017-mdpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Poster]Video Guides on Head-Mounted Displays: The Effect of Misalignments on Manual Task Performance</title>
+      <link>https://xr-lab.org/publication/pathirathna-icart-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pathirathna-icart-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>退屈な筋力トレーニング法からの脱却の提案: 持続率と生体機能の更なる向上を目指して</title>
+      <link>https://xr-lab.org/publication/kaplan-kjsg-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-kjsg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Contents Arrangement in Handheld Augmented Reality Application Based on Gravity Vector</title>
+      <link>https://xr-lab.org/publication/taketomi-iwmari-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/taketomi-iwmari-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye-Gaze Tracking in Near-Eye Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/plopskiismar/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/plopskiismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] EyeAR: Refocusable Augmented Reality Content through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing Perception of Physical Properties Using Multimodal Augmented Reality: Position Paper</title>
+      <link>https://xr-lab.org/publication/lugtenberg-mvar-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lugtenberg-mvar-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

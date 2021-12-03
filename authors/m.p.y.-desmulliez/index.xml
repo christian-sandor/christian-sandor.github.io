@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.P.Y. Desmulliez | XRL</title>
+    <link>https://xr-lab.org/authors/m.p.y.-desmulliez/</link>
+      <atom:link href="https://xr-lab.org/authors/m.p.y.-desmulliez/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.P.Y. Desmulliez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>M.P.Y. Desmulliez</title>
+      <link>https://xr-lab.org/authors/m.p.y.-desmulliez/</link>
+    </image>
+    
+    <item>
+      <title>Dedicated Optoelectronic Stochastic Parallel Processor (OSPP) for real-time image processing: motion detection demonstration and design of a hybrid CMOS/SEED based prototype</title>
+      <link>https://xr-lab.org/publication/alvaro-ao-2001/</link>
+      <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-ao-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

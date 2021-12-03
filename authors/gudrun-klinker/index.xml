@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gudrun Klinker | XRL</title>
+    <link>https://xr-lab.org/authors/gudrun-klinker/</link>
+      <atom:link href="https://xr-lab.org/authors/gudrun-klinker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gudrun Klinker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Gudrun Klinker</title>
+      <link>https://xr-lab.org/authors/gudrun-klinker/</link>
+    </image>
+    
+    <item>
+      <title>Precise Haptic Device Co-Location for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-vcg-15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-vcg-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER] Towards Estimating Usability Ratings of Handheld Augmented Reality Using Accelerometer Data</title>
+      <link>https://xr-lab.org/publication/santos-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subjective Evaluation of a Semi-Automatic Optical See-Through Head-Mounted Display Calibration Technique</title>
+      <link>https://xr-lab.org/publication/kenny-ieeevr-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kenny-ieeevr-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Comprehensive Workspace Calibration for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-ismar/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Workspace Calibration for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empiric Evaluation of Confirmation Methods for Optical See-Through Head-Mounted Display Calibration</title>
+      <link>https://xr-lab.org/publication/maier-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/maier-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empiric Evaluation of Confirmation Methods for Optical See-Through Head-Mounted Display Calibration</title>
+      <link>https://xr-lab.org/publication/maier-ismar-11/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/maier-ismar-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive prototyping for ubiquitous augmented reality user interfaces</title>
+      <link>https://xr-lab.org/publication/hilliges-iui-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hilliges-iui-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons Learned in Designing Ubiquitous Augmented Reality User Interfaces</title>
+      <link>https://xr-lab.org/publication/sandor-2006-uibook/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2006-uibook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Approach to Automatic Layout for User Interface Elements in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/georgel-05-ismar/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/georgel-05-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rapid Prototyping Software Infrastructure for User Interfaces in Ubiquitous Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Evaluation of an Augmented Reality Visualization for Directing a Car Driver&#39;s Attention</title>
+      <link>https://xr-lab.org/publication/toennis-ismar-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/toennis-ismar-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Approach for Experimenting with Tangible Interaction Metaphors</title>
+      <link>https://xr-lab.org/publication/hilliges-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hilliges-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An AR Workbench for Experimenting with Attentive User Interfaces</title>
+      <link>https://xr-lab.org/publication/novak-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/novak-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Development Methodology for Augmented Reality User Interfaces</title>
+      <link>https://xr-lab.org/publication/kulas-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kulas-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herding Sheep: Live System Development for Distributed Augmented Reality</title>
+      <link>https://xr-lab.org/publication/macwilli-2003-sheep/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/macwilli-2003-sheep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Studierstube and DWARF</title>
+      <link>https://xr-lab.org/publication/dwarf-2003-integrating/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dwarf-2003-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Architecture Concept for Ubiqutous Computing Aware Wearable Computers</title>
+      <link>https://xr-lab.org/publication/bauer-2002/</link>
+      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/bauer-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHEEP: The Shared Environment Entertainment Pasture</title>
+      <link>https://xr-lab.org/publication/sandor-02-ismar/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-02-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Component-Based Augmented Reality Framework</title>
+      <link>https://xr-lab.org/publication/dwarf-2001-design/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dwarf-2001-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

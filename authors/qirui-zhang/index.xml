@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qirui Zhang | XRL</title>
+    <link>https://xr-lab.org/authors/qirui-zhang/</link>
+      <atom:link href="https://xr-lab.org/authors/qirui-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qirui Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Qirui Zhang</title>
+      <link>https://xr-lab.org/authors/qirui-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Generative Fence Obstacle Removal for Images with Color Consistency</title>
+      <link>https://xr-lab.org/publication/matsui-apmar-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/matsui-apmar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Depth Restoration via Regularization in Curvelet Domain</title>
+      <link>https://xr-lab.org/publication/zhang-apmar-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zhang-apmar-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自然特徴点に基づく拘束を付加したDTAMによる三次元形状復元精度の定量評価</title>
+      <link>https://xr-lab.org/publication/sakai-sigmr-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sakai-sigmr-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER]Exploiting Depth Information from Tracked Feature Points in Dense Reconstruction for Monocular Cameras</title>
+      <link>https://xr-lab.org/publication/zhang-sigmr-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zhang-sigmr-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

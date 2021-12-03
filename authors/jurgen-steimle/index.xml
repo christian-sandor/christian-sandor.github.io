@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jürgen Steimle | XRL</title>
+    <link>https://xr-lab.org/authors/jurgen-steimle/</link>
+      <atom:link href="https://xr-lab.org/authors/jurgen-steimle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jürgen Steimle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Jürgen Steimle</title>
+      <link>https://xr-lab.org/authors/jurgen-steimle/</link>
+    </image>
+    
+    <item>
+      <title>TipText: Eyes-Free Text Entry on a Fingertip Keyboard</title>
+      <link>https://xr-lab.org/publication/pui-chung-acm-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pui-chung-acm-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Displays take new shape: an agenda for future interactive surfaces</title>
+      <link>https://xr-lab.org/publication/steimle-displays-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/steimle-displays-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

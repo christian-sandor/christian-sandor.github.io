@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spyros Polychronopoulos | XRL</title>
+    <link>https://xr-lab.org/authors/spyros-polychronopoulos/</link>
+      <atom:link href="https://xr-lab.org/authors/spyros-polychronopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spyros Polychronopoulos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Spyros Polychronopoulos</title>
+      <link>https://xr-lab.org/authors/spyros-polychronopoulos/</link>
+    </image>
+    
+    <item>
+      <title>SoundBender: Dynamic Acoustic Control Behind Obstacles</title>
+      <link>https://xr-lab.org/publication/10-1145-3242587-3242590/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3242587-3242590/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

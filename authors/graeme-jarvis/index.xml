@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graeme Jarvis | XRL</title>
+    <link>https://xr-lab.org/authors/graeme-jarvis/</link>
+      <atom:link href="https://xr-lab.org/authors/graeme-jarvis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graeme Jarvis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Graeme Jarvis</title>
+      <link>https://xr-lab.org/authors/graeme-jarvis/</link>
+    </image>
+    
+    <item>
+      <title>Tablet versus Phone: Depth Perception in Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/dey-12-ismar/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dey-12-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evaluation of Augmented Reality X-Ray Vision for Outdoor Navigation</title>
+      <link>https://xr-lab.org/publication/dey-11-icat/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dey-11-icat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Space-Distorting Visualizations for Rapid Environment Exploration in Mobile Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Space-Distorting Visualizations for Rapid Environment Exploration in Mobile Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-09/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

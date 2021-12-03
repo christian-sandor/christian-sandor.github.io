@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liem Hoang | XRL</title>
+    <link>https://xr-lab.org/authors/liem-hoang/</link>
+      <atom:link href="https://xr-lab.org/authors/liem-hoang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liem Hoang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Liem Hoang</title>
+      <link>https://xr-lab.org/authors/liem-hoang/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Perception of Co-Location Errors during Tool Interaction in Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-icvr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-icvr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Learning Support System using Camera Tracking for High School Physics Experiments</title>
+      <link>https://xr-lab.org/publication/shalika-ec-36/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/shalika-ec-36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Illumination for Augmented Reality on Mobile Phones</title>
+      <link>https://xr-lab.org/publication/csongei-ieeevr-14/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/csongei-ieeevr-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClonAR: Rapid Redesign of Real-World Objects</title>
+      <link>https://xr-lab.org/publication/csongei-12-ismar/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/csongei-12-ismar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

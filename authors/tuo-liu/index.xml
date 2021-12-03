@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tuo Liu | XRL</title>
+    <link>https://xr-lab.org/authors/tuo-liu/</link>
+      <atom:link href="https://xr-lab.org/authors/tuo-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tuo Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Tuo Liu</title>
+      <link>https://xr-lab.org/authors/tuo-liu/</link>
+    </image>
+    
+    <item>
+      <title>Psychophysical Effects of Experiencing Burning Hands in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eckhoff_eurovr_20/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff_eurovr_20/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Can interactive Augmented Reality (AR) experiences induce involuntary sensations through additional modalities? In this paper we report on our AR experience that enables users to see and hear their own hands burning while looking through a Video See-Through Head-Mounted Display (VST-HMD). In an exploratory study (n=12, within-subject design), we investigated whether this will lead to an involuntary heat sensation based on visual and auditory stimuli. A think-aloud-protocol and an AR presence questionnaire indicated that six out of twelve participants experienced an involuntary heat sensation on their hands.
+Despite no significant change of perceived anxiety, we found a significant increase in skin conductance during the experiment for all participants; participants who reported an involuntary heat sensation had higher skin conductance responses than participants who did not report a heat sensation. Our results support our initial hypothesis as we found evidence of cross-modal audiovisual-to-thermal transfers. This is an example of virtual synaesthesia, a sensation occurring when single-modal (or multi-modal) stimulus sets off the simultaneous sensation over other senses&amp;mdash;involuntarily and automatically. We believe that our results contribute to the scientific understanding of AR induced synaesthesia as well as inform practical applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

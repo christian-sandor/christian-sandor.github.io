@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programmable matter | XRL</title>
+    <link>https://xr-lab.org/tags/programmable-matter/</link>
+      <atom:link href="https://xr-lab.org/tags/programmable-matter/index.xml" rel="self" type="application/rss+xml" />
+    <description>programmable matter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>programmable matter</title>
+      <link>https://xr-lab.org/tags/programmable-matter/</link>
+    </image>
+    
+    <item>
+      <title>Tangible Drops: A Visio-Tactile Display Using Actuated Liquid-Metal Droplets</title>
+      <link>https://xr-lab.org/publication/10-1145-3173574-3173751/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3173574-3173751/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

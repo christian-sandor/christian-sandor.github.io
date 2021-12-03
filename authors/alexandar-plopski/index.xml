@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandar Plopski | XRL</title>
+    <link>https://xr-lab.org/authors/alexandar-plopski/</link>
+      <atom:link href="https://xr-lab.org/authors/alexandar-plopski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandar Plopski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Alexandar Plopski</title>
+      <link>https://xr-lab.org/authors/alexandar-plopski/</link>
+    </image>
+    
+    <item>
+      <title>Promoting Short-Term Gains in Physical Exercise Through Digital Media Creation</title>
+      <link>https://xr-lab.org/publication/kaplan-ace-17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-ace-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

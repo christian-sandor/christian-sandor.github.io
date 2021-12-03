@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yamamoto Goshiro | XRL</title>
+    <link>https://xr-lab.org/authors/yamamoto-goshiro/</link>
+      <atom:link href="https://xr-lab.org/authors/yamamoto-goshiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yamamoto Goshiro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Yamamoto Goshiro</title>
+      <link>https://xr-lab.org/authors/yamamoto-goshiro/</link>
+    </image>
+    
+    <item>
+      <title>EyeAR: Refocusable Augmented Reality Content through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-2017-mdpi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-2017-mdpi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

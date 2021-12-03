@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fumito Kubota | XRL</title>
+    <link>https://xr-lab.org/authors/fumito-kubota/</link>
+      <atom:link href="https://xr-lab.org/authors/fumito-kubota/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fumito Kubota</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Fumito Kubota</title>
+      <link>https://xr-lab.org/authors/fumito-kubota/</link>
+    </image>
+    
+    <item>
+      <title>Load-balanced optical packet switching using two-stage time-slot interchangers</title>
+      <link>https://xr-lab.org/publication/cassinelli-load-balanced-2004/</link>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-load-balanced-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A load-balanced optical packet switch architecture with an O(1) scheduling complexity</title>
+      <link>https://xr-lab.org/publication/goulet-load-balanced-2004/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/goulet-load-balanced-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multistage Network With Globally Controlled Switching Stages and Its Implementation Using Optical Multi-Interconnection Modules</title>
+      <link>https://xr-lab.org/publication/cassinelli-multistage-2004/</link>
+      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-multistage-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A modular, guided-wave approach to plane-to-plane optical interconnects for multistage interconnection networks</title>
+      <link>https://xr-lab.org/publication/cassinelli-modular-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-modular-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

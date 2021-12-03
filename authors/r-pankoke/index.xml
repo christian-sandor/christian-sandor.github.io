@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“R Pankoke” | XRL</title>
+    <link>https://xr-lab.org/authors/r-pankoke/</link>
+      <atom:link href="https://xr-lab.org/authors/r-pankoke/index.xml" rel="self" type="application/rss+xml" />
+    <description>“R Pankoke”</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 1995 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>“R Pankoke”</title>
+      <link>https://xr-lab.org/authors/r-pankoke/</link>
+    </image>
+    
+    <item>
+      <title>Generateurs et amplificateurs parametriques optiques monomode transverse</title>
+      <link>https://xr-lab.org/publication/pankoke-generateurs-1995/</link>
+      <pubDate>Thu, 01 Jun 1995 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pankoke-generateurs-1995/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

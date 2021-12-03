@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jayzon F. Ty | XRL</title>
+    <link>https://xr-lab.org/authors/jayzon-f.-ty/</link>
+      <atom:link href="https://xr-lab.org/authors/jayzon-f.-ty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jayzon F. Ty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Jayzon F. Ty</title>
+      <link>https://xr-lab.org/authors/jayzon-f.-ty/</link>
+    </image>
+    
+    <item>
+      <title>Transferability of Spatial Maps: Augmented Versus Virtual Reality Training</title>
+      <link>https://xr-lab.org/publication/caluya-2018-vr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/caluya-2018-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoring Augmented Reality as Situated Multimedia</title>
+      <link>https://xr-lab.org/publication/santos-icce-14-b/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-14-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

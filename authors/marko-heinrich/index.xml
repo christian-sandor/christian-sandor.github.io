@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marko Heinrich | XRL</title>
+    <link>https://xr-lab.org/authors/marko-heinrich/</link>
+      <atom:link href="https://xr-lab.org/authors/marko-heinrich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marko Heinrich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Marko Heinrich</title>
+      <link>https://xr-lab.org/authors/marko-heinrich/</link>
+    </image>
+    
+    <item>
+      <title>An Augmented Reality Weather System</title>
+      <link>https://xr-lab.org/publication/heinrich-ace-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/heinrich-ace-08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maya Inamura | XRL</title>
+    <link>https://xr-lab.org/authors/maya-inamura/</link>
+      <atom:link href="https://xr-lab.org/authors/maya-inamura/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maya Inamura</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Maya Inamura</title>
+      <link>https://xr-lab.org/authors/maya-inamura/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of Nutritional Information and Proposal of Active Planning Support Method for Diet Therapy</title>
+      <link>https://xr-lab.org/publication/kojima-mve-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kojima-mve-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatsuya Sonobe | XRL</title>
+    <link>https://xr-lab.org/authors/tatsuya-sonobe/</link>
+      <atom:link href="https://xr-lab.org/authors/tatsuya-sonobe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tatsuya Sonobe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Tatsuya Sonobe</title>
+      <link>https://xr-lab.org/authors/tatsuya-sonobe/</link>
+    </image>
+    
+    <item>
+      <title>Robust Positioning Method for Berthing Support Using Fusion of Tightly Coupled GNSS Carrier Phase with IMU and Visual Odometry.</title>
+      <link>https://xr-lab.org/publication/nakamura-robust-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/nakamura-robust-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusion of VSLAM/GNSS/INS for Augmented Reality Navigation in Ports</title>
+      <link>https://xr-lab.org/publication/nakamura-gnss-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/nakamura-gnss-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

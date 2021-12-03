@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Julier | XRL</title>
+    <link>https://xr-lab.org/authors/simon-julier/</link>
+      <atom:link href="https://xr-lab.org/authors/simon-julier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Julier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Simon Julier</title>
+      <link>https://xr-lab.org/authors/simon-julier/</link>
+    </image>
+    
+    <item>
+      <title>Proceedings of the IEEE International Symposium on Mixed and Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

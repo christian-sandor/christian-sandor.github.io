@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Perkis | XRL</title>
+    <link>https://xr-lab.org/authors/andrew-perkis/</link>
+      <atom:link href="https://xr-lab.org/authors/andrew-perkis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Perkis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Andrew Perkis</title>
+      <link>https://xr-lab.org/authors/andrew-perkis/</link>
+    </image>
+    
+    <item>
+      <title>A-me: augmented memories</title>
+      <link>https://xr-lab.org/publication/puig-me-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/puig-me-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neuroscience social network project</title>
+      <link>https://xr-lab.org/publication/puig-neuroscience-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/puig-neuroscience-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

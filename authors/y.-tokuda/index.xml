@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Tokuda | XRL</title>
+    <link>https://xr-lab.org/authors/y.-tokuda/</link>
+      <atom:link href="https://xr-lab.org/authors/y.-tokuda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Tokuda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Y. Tokuda</title>
+      <link>https://xr-lab.org/authors/y.-tokuda/</link>
+    </image>
+    
+    <item>
+      <title>Digital Full-Face Mask Display with Expression Recognition using Embedded Photo Reflective Sensor Arrays</title>
+      <link>https://xr-lab.org/publication/9284683/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/9284683/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortex ring based display</title>
+      <link>https://xr-lab.org/publication/5665968/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/5665968/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

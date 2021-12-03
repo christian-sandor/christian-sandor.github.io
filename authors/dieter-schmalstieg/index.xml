@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dieter Schmalstieg | XRL</title>
+    <link>https://xr-lab.org/authors/dieter-schmalstieg/</link>
+      <atom:link href="https://xr-lab.org/authors/dieter-schmalstieg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dieter Schmalstieg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Dieter Schmalstieg</title>
+      <link>https://xr-lab.org/authors/dieter-schmalstieg/</link>
+    </image>
+    
+    <item>
+      <title>Augmented Reality Visualization Techniques</title>
+      <link>https://xr-lab.org/publication/kalkofen-2011-book/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kalkofen-2011-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Studierstube and DWARF</title>
+      <link>https://xr-lab.org/publication/dwarf-2003-integrating/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dwarf-2003-integrating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Weir | XRL</title>
+    <link>https://xr-lab.org/authors/peter-weir/</link>
+      <atom:link href="https://xr-lab.org/authors/peter-weir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Weir</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Peter Weir</title>
+      <link>https://xr-lab.org/authors/peter-weir/</link>
+    </image>
+    
+    <item>
+      <title>BurnAR: Involuntary Heat Sensations in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/weir-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/weir-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BurnAR: Feel the Heat</title>
+      <link>https://xr-lab.org/publication/weir-12-ismar/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/weir-12-ismar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

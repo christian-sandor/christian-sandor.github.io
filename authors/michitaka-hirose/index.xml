@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michitaka Hirose | XRL</title>
+    <link>https://xr-lab.org/authors/michitaka-hirose/</link>
+      <atom:link href="https://xr-lab.org/authors/michitaka-hirose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michitaka Hirose</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Michitaka Hirose</title>
+      <link>https://xr-lab.org/authors/michitaka-hirose/</link>
+    </image>
+    
+    <item>
+      <title>Aerial Imaging by Retro Reflection with Transparent Retro Reflector</title>
+      <link>https://xr-lab.org/publication/ytokuda-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ytokuda-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R2D2 w/ AIRR: Real Time &amp; Real Space Double-Layered Display with Aerial Imaging by Retro-Reflection</title>
+      <link>https://xr-lab.org/publication/10-1145-2818466-2818484/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-2818466-2818484/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Material Combinations for Bright and Clear Floating Image by Retro-reflective Re-imaging Technique</title>
+      <link>https://xr-lab.org/publication/ytokuda-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ytokuda-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Use of a Remote Movable Avatar Robot with an Immersive Interface for Seniors</title>
+      <link>https://xr-lab.org/publication/10-1007-978-3-319-07446-7-62/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1007-978-3-319-07446-7-62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication Pedometer: A Discussion of Gamified Communication Focused on Frequency of Smiles</title>
+      <link>https://xr-lab.org/publication/10-1145-2459236-2459272/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-2459236-2459272/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Mobile Embodied 3D Avatar as Telepresence Vehicle</title>
+      <link>https://xr-lab.org/publication/10-1007-978-3-642-39194-1-77/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1007-978-3-642-39194-1-77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Display</title>
+      <link>https://xr-lab.org/publication/10-1145-1971630-1971640/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-1971630-1971640/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree-shaded screen: A Propeller type screen for Public Art</title>
+      <link>https://xr-lab.org/publication/egve-jvrc-09-101-104/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/egve-jvrc-09-101-104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable Vortex Display</title>
+      <link>https://xr-lab.org/publication/10-1145-1400885-1400939/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-1400885-1400939/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

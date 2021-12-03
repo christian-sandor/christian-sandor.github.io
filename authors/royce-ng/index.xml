@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/royce-ng/</link>
+      <atom:link href="https://xr-lab.org/authors/royce-ng/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/royce-ng/</link>
+    </image>
+    
+    <item>
+      <title>VIRTUAL PSYCHOTECHNICS: SIMULATING THE VISUAL PHENOMENOLOGY OF HALLUCINATION</title>
+      <link>https://xr-lab.org/project/psychotechnics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/psychotechnics/</guid>
+      <description>&lt;p&gt;This research investigates the capacity for immersive virtual reality (VR) and augmented reality (AR) to simulate the perceptual phenomena of altered states of consciousness. The thesis aims to answer the following question; what are the philosophical, scientific and technological links between altered states of consciousness and technology which have given rise to the increasing use of VR and AR as empirical tools for simulating meditative and psychedelic brain states. The hypothesis of this research draws from the philosophy of technology and theories of consciousness in the neurosciences to argue that the immersive qualities of VR and AR technologies mediate altered states of consciousness. These theoretical frameworks will inform the production of AR and VR systems that will be used in experimental studies to determine whether these technologies have the capacity for capturing the visual phenomenology of profound psychological experiences which physiological brain imaging technologies are incapable of articulating.  The first experiment will involve the development of a VR meditation system that digitally simulates the visualization techniques in Vajrayana buddhist meditation while using EEG brain computer interface to create bio feedback between the virtual simulations of buddhist cosmology and the users meditative state. This artwork proposes that VR buddhist meditation apps are the continuation of a tradition of visual art used as meditation aids in Tibetan and Tantric Buddhism.  The second experiment is an art science collaboration that draws from neuroimaging research on psychedelic brain states which has demonstrated increased cerebral blood flow and decreased alpha brain wave activity as key indicators of altered states of consciousness. Alpha activity is usually associated with filtering ‘stimulus irrelevant’ input in the visual cortex and reduced alpha is proposed to have a ‘disinhibitory’ effect producing anarchic patterns of stimulation associated with hallucinations. An acknowledged gap in this research is that examining only the ‘neural correlates of consciousness’ of hallucination neglects the visual phenomenological experience of these states which would be aided by the ‘improved capture of visual hallucinations.’ A mixed reality system will be developed for inducing hallucinations based on predictive processing and sensorimotor contingency theories of visual consciousness through the simulation of simple and complex imagery which is responsive to the eye tracking of the hololens system.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

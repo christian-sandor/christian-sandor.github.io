@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Otmar Hilliges | XRL</title>
+    <link>https://xr-lab.org/authors/otmar-hilliges/</link>
+      <atom:link href="https://xr-lab.org/authors/otmar-hilliges/index.xml" rel="self" type="application/rss+xml" />
+    <description>Otmar Hilliges</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Otmar Hilliges</title>
+      <link>https://xr-lab.org/authors/otmar-hilliges/</link>
+    </image>
+    
+    <item>
+      <title>Interactive prototyping for ubiquitous augmented reality user interfaces</title>
+      <link>https://xr-lab.org/publication/hilliges-iui-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hilliges-iui-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Approach for Experimenting with Tangible Interaction Metaphors</title>
+      <link>https://xr-lab.org/publication/hilliges-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hilliges-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Studierstube and DWARF</title>
+      <link>https://xr-lab.org/publication/dwarf-2003-integrating/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dwarf-2003-integrating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

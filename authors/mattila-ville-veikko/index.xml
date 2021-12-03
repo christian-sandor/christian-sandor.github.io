@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mattila Ville-Veikko | XRL</title>
+    <link>https://xr-lab.org/authors/mattila-ville-veikko/</link>
+      <atom:link href="https://xr-lab.org/authors/mattila-ville-veikko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mattila Ville-Veikko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Mattila Ville-Veikko</title>
+      <link>https://xr-lab.org/authors/mattila-ville-veikko/</link>
+    </image>
+    
+    <item>
+      <title>Method and Apparatus for an Augmented Reality X-Ray. US Patent application 12/785,170 (Filed 21 May 2010). Available online at google patent search.</title>
+      <link>https://xr-lab.org/publication/sandor-patent-09/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-patent-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ishikawa Masatoshi | XRL</title>
+    <link>https://xr-lab.org/authors/ishikawa-masatoshi/</link>
+      <atom:link href="https://xr-lab.org/authors/ishikawa-masatoshi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ishikawa Masatoshi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Ishikawa Masatoshi</title>
+      <link>https://xr-lab.org/authors/ishikawa-masatoshi/</link>
+    </image>
+    
+    <item>
+      <title>Proposal and fundamental study of a display method relying on afterimage and a flying tracked object as support for projection</title>
+      <link>https://xr-lab.org/publication/yasui-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yasui-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Volume Slicing Display: a tangible interface for slicing and annotation of volumetric data[invited talk]</title>
+      <link>https://xr-lab.org/publication/alvaro-thevolume-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-thevolume-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mouse Chair --- a restless-interface</title>
+      <link>https://xr-lab.org/publication/leo-mouse-nodate/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/leo-mouse-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boxed Ego</title>
+      <link>https://xr-lab.org/publication/alvaro-boxed-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-boxed-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Perception [Invited talk]</title>
+      <link>https://xr-lab.org/publication/noauthor-meta-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/noauthor-meta-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable optical interconnections using multi-permutation-integrated fiber modules</title>
+      <link>https://xr-lab.org/publication/cassinelli-reconfigurable-2003/</link>
+      <pubDate>Sat, 01 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-reconfigurable-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

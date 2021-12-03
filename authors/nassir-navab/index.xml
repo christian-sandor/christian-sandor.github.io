@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nassir Navab | XRL</title>
+    <link>https://xr-lab.org/authors/nassir-navab/</link>
+      <atom:link href="https://xr-lab.org/authors/nassir-navab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nassir Navab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Nassir Navab</title>
+      <link>https://xr-lab.org/authors/nassir-navab/</link>
+    </image>
+    
+    <item>
+      <title>Reflective-AR Display: An Interaction Methodology for Virtual-to-Real Alignment in Medical Robotics</title>
+      <link>https://xr-lab.org/publication/fotouhi-ieeeral-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/fotouhi-ieeeral-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Study of Non-Reversing Magic Mirrors for Augmented Reality Anatomy Learning</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Visuo-Haptic Augmented Reality User Interfaces for Stereo- Tactic Neurosurgery Planning</title>
+      <link>https://xr-lab.org/publication/eck-miar-16/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-miar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinect for Interactive AR Anatomy Learning</title>
+      <link>https://xr-lab.org/publication/meng-ismar-13/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/meng-ismar-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

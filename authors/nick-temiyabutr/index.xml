@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick Temiyabutr | XRL</title>
+    <link>https://xr-lab.org/authors/nick-temiyabutr/</link>
+      <atom:link href="https://xr-lab.org/authors/nick-temiyabutr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nick Temiyabutr</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Nick Temiyabutr</title>
+      <link>https://xr-lab.org/authors/nick-temiyabutr/</link>
+    </image>
+    
+    <item>
+      <title>Visual End User Configuration of Hybrid User Interfaces</title>
+      <link>https://xr-lab.org/publication/sandor-2004-hybrid/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2004-hybrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

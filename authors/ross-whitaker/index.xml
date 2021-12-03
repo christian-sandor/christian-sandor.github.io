@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ross Whitaker | XRL</title>
+    <link>https://xr-lab.org/authors/ross-whitaker/</link>
+      <atom:link href="https://xr-lab.org/authors/ross-whitaker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ross Whitaker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Ross Whitaker</title>
+      <link>https://xr-lab.org/authors/ross-whitaker/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Approach to Automatic Layout for User Interface Elements in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/georgel-05-ismar/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/georgel-05-ismar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

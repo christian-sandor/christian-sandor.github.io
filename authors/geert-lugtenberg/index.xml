@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geert Lugtenberg | XRL</title>
+    <link>https://xr-lab.org/authors/geert-lugtenberg/</link>
+      <atom:link href="https://xr-lab.org/authors/geert-lugtenberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geert Lugtenberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Geert Lugtenberg</title>
+      <link>https://xr-lab.org/authors/geert-lugtenberg/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Augmented Reality – Augmenting Auditory-Tactile Feedback to Change the Perception of Thickness</title>
+      <link>https://xr-lab.org/publication/lugtenberg-2018-mmm/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lugtenberg-2018-mmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing Perception of Physical Properties Using Multimodal Augmented Reality: Position Paper</title>
+      <link>https://xr-lab.org/publication/lugtenberg-mvar-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lugtenberg-mvar-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

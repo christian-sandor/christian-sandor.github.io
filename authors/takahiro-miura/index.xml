@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takahiro Miura | XRL</title>
+    <link>https://xr-lab.org/authors/takahiro-miura/</link>
+      <atom:link href="https://xr-lab.org/authors/takahiro-miura/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takahiro Miura</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Takahiro Miura</title>
+      <link>https://xr-lab.org/authors/takahiro-miura/</link>
+    </image>
+    
+    <item>
+      <title>Practical Use of a Remote Movable Avatar Robot with an Immersive Interface for Seniors</title>
+      <link>https://xr-lab.org/publication/10-1007-978-3-319-07446-7-62/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1007-978-3-319-07446-7-62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication Pedometer: A Discussion of Gamified Communication Focused on Frequency of Smiles</title>
+      <link>https://xr-lab.org/publication/10-1145-2459236-2459272/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-2459236-2459272/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Mobile Embodied 3D Avatar as Telepresence Vehicle</title>
+      <link>https://xr-lab.org/publication/10-1007-978-3-642-39194-1-77/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1007-978-3-642-39194-1-77/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

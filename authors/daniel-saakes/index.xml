@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Saakes | XRL</title>
+    <link>https://xr-lab.org/authors/daniel-saakes/</link>
+      <atom:link href="https://xr-lab.org/authors/daniel-saakes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Saakes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Daniel Saakes</title>
+      <link>https://xr-lab.org/authors/daniel-saakes/</link>
+    </image>
+    
+    <item>
+      <title>Towards large scale high fidelity collaborative augmented reality</title>
+      <link>https://xr-lab.org/publication/rompapas-towards-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-towards-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] HoloRoyale: A Large Scale High Fidelity Augmented Reality Game</title>
+      <link>https://xr-lab.org/publication/rompapas-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] HoloRoyale: A Large Scale High Fidelity Augmented Reality Game</title>
+      <link>https://xr-lab.org/publication/rompapas-ismar-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-ismar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Situated Game Level Editing in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/ng-tei-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ng-tei-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of IoT and Augmented Reality Combination</title>
+      <link>https://xr-lab.org/publication/akiyama-apmar-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-apmar-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Flow, Spatial Physical Computing</title>
+      <link>https://xr-lab.org/publication/cassinelli-data-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-data-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ratchair: furniture learns to move itself with vibration SIG E-tech</title>
+      <link>https://xr-lab.org/publication/parshakova-ratchair-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/parshakova-ratchair-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

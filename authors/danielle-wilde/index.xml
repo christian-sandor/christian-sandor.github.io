@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“Danielle Wilde” | XRL</title>
+    <link>https://xr-lab.org/authors/danielle-wilde/</link>
+      <atom:link href="https://xr-lab.org/authors/danielle-wilde/index.xml" rel="self" type="application/rss+xml" />
+    <description>“Danielle Wilde”</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>“Danielle Wilde”</title>
+      <link>https://xr-lab.org/authors/danielle-wilde/</link>
+    </image>
+    
+    <item>
+      <title>Light Arrays: a system for extended engagement</title>
+      <link>https://xr-lab.org/publication/wilde-light-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/wilde-light-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Arrays: a system for extended engagement</title>
+      <link>https://xr-lab.org/publication/wilde-light-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/wilde-light-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

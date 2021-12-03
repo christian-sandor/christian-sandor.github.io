@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goshiro Yamamoto | XRL</title>
+    <link>https://xr-lab.org/authors/goshiro-yamamoto/</link>
+      <atom:link href="https://xr-lab.org/authors/goshiro-yamamoto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Goshiro Yamamoto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Goshiro Yamamoto</title>
+      <link>https://xr-lab.org/authors/goshiro-yamamoto/</link>
+    </image>
+    
+    <item>
+      <title>Illusory light: Perceptual appearance control using a projection-induced illusion</title>
+      <link>https://xr-lab.org/publication/akiyama-illusory-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-illusory-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Reflectance Estimation for Projection-Based Appearance Control in a Dynamic Light Environment</title>
+      <link>https://xr-lab.org/publication/akiyama-robust-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-robust-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Appearance Control by Projection-Induced Illusion</title>
+      <link>https://xr-lab.org/publication/akiyama-perceptual-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-perceptual-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>色恒常性を利用したプロジェクタの色域の知覚的拡張</title>
+      <link>https://xr-lab.org/publication/akiyama-miru-18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-miru-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handheld Guides in Inspection Tasks: Augmented Reality vs. Picture</title>
+      <link>https://xr-lab.org/publication/polvi-vcg-17/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-vcg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Projection-Induced Illusion for Controlling Object Color</title>
+      <link>https://xr-lab.org/publication/akiyama-vr-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-vr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Situated Knee Trajectory Visualization for Self Analysis in Cycling</title>
+      <link>https://xr-lab.org/publication/kaplan-ieeevr-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-ieeevr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality versus Virtual Reality for 3D Object Manipulation</title>
+      <link>https://xr-lab.org/publication/krichenbauer-tvcg-17/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-tvcg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoting Short-Term Gains in Physical Exercise Through Digital Media Creation</title>
+      <link>https://xr-lab.org/publication/kaplan-ace-17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-ace-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Ground Reaction Force Visualization onto Training Video for Sprint Training Support System</title>
+      <link>https://xr-lab.org/publication/taketomi-icat-17/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/taketomi-icat-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>知覚量に基づく光投影による色制御実現に向けた色知覚モデルの検討</title>
+      <link>https://xr-lab.org/publication/akiyama-sigmr-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-sigmr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effect of Positional Head-Tracking on Task Performance in 3D Modeling User Interfaces</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ccg-17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ccg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Assistive Tabletop Projector-Camera System for the Elderly with Cognitive and Motor Skill Impairments</title>
+      <link>https://xr-lab.org/publication/hyry-itemta-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hyry-itemta-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imperceptible On-Screen Markers for Mobile Interaction on Public Large Displays</title>
+      <link>https://xr-lab.org/publication/yamamoto-2017-ieice/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2017-ieice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>短距離走トレーニングのための三次元床反力の提示方法の検討</title>
+      <link>https://xr-lab.org/publication/taketomi-kjsg-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/taketomi-kjsg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>退屈な筋力トレーニング法からの脱却の提案: 持続率と生体機能の更なる向上を目指して</title>
+      <link>https://xr-lab.org/publication/kaplan-kjsg-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-kjsg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The COMPASS Framework for Digital Entertainment: Discussing Augmented Reality Activities for Scouts</title>
+      <link>https://xr-lab.org/publication/santos-icacet-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icacet-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Situ Visualization of Pedaling Forces on Cycling Training Videos</title>
+      <link>https://xr-lab.org/publication/kaplan-smc-16/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-smc-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positional Head-Tracking in Immersive VR for 3D Designers</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Assistance for Elderly to Find Hidden Objects in a Kitchen</title>
+      <link>https://xr-lab.org/publication/asghar-iotcare-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/asghar-iotcare-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Oriented Light Estimation for Outdoor Mobile Augmented Reality</title>
+      <link>https://xr-lab.org/publication/lubke-apmr-16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lubke-apmr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Nutritional Information and Proposal of Active Planning Support Method for Diet Therapy</title>
+      <link>https://xr-lab.org/publication/kojima-mve-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kojima-mve-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appearance Control in Dynamic Light Environments with a Projector-Camera System</title>
+      <link>https://xr-lab.org/publication/akiyama-ieeevr-16-ws/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-ieeevr-16-ws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Perception of Co-Location Errors during Tool Interaction in Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-icvr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-icvr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-3-dui-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-3-dui-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-ieeevr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-ieeevr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Usability Analytics and Beyond with Human-Centered Data Science</title>
+      <link>https://xr-lab.org/publication/santos-cscw-16/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-cscw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality as Multimedia: the Case for Situated Vocabulary Learning</title>
+      <link>https://xr-lab.org/publication/santos-rptel-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-rptel-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-pattern Indicating Interface for Ambient Assisted Living</title>
+      <link>https://xr-lab.org/publication/yamamoto-nsp-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-nsp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-frame Delayを考慮したローリングシャッターカメラのトラッキング手法の検討</title>
+      <link>https://xr-lab.org/publication/seto-sigmr-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/seto-sigmr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking the Barriers to True Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-breaking-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-breaking-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SlidAR: A 3D Positioning Method for SLAM-based Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/polvi-cag-15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-cag-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Guidelines for Designing Handheld Augmented Reality in Learning Support</title>
+      <link>https://xr-lab.org/publication/santos-icce-15/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] EyeAR: Physically-Based Depth of Field through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-demo-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-demo-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] SharpView: Improved Legibility of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] SlidAR: A 3D Positioning Technique for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/polvi-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Doctoral Consortium] User Study on Augmented Reality User Interfaces for 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER] Towards Estimating Usability Ratings of Handheld Augmented Reality Using Accelerometer Data</title>
+      <link>https://xr-lab.org/publication/santos-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Legibility of Augmented Reality X-Ray</title>
+      <link>https://xr-lab.org/publication/santos-mta-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-mta-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自然特徴点に基づく拘束を付加したDTAMによる三次元形状復元精度の定量評価</title>
+      <link>https://xr-lab.org/publication/sakai-sigmr-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sakai-sigmr-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Standard Usability Questionnaires for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/santos-cga-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-cga-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Learning Support System using Camera Tracking for High School Physics Experiments</title>
+      <link>https://xr-lab.org/publication/shalika-ec-36/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/shalika-ec-36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User Interface Design for the Elderly using a Projection Tabletop System</title>
+      <link>https://xr-lab.org/publication/yamamoto-2015-vaat/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2015-vaat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER]Exploiting Depth Information from Tracked Feature Points in Dense Reconstruction for Monocular Cameras</title>
+      <link>https://xr-lab.org/publication/zhang-sigmr-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zhang-sigmr-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Imperceptible On-Screen Markers with Unsynchronized Cameras</title>
+      <link>https://xr-lab.org/publication/sampaio-sigmr-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sampaio-sigmr-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Dynamic Augmented Reality X-Ray on Google Glass</title>
+      <link>https://xr-lab.org/publication/rompapas-siggraphasia-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-siggraphasia-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoring Augmented Reality as Situated Multimedia</title>
+      <link>https://xr-lab.org/publication/santos-icce-14-b/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-14-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Augmented Reality for Situated Vocabulary Learning</title>
+      <link>https://xr-lab.org/publication/santos-icce-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Usability Scale for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/santos-vrst-14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-vrst-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Towards Augmented Reality User Interfaces in 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-14-b/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-14-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating a SLAM-based Handheld Augmented Reality Guidance System</title>
+      <link>https://xr-lab.org/publication/polvi-sui-14/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-sui-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-pattern Indicating Interface for Ambient Assisted Living</title>
+      <link>https://xr-lab.org/publication/yamamoto-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Use of Handheld Augmented Reality Authoring and Guidance in Unknown Environments</title>
+      <link>https://xr-lab.org/publication/polvi-kjmr-14/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-kjmr-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Towards Augmented Reality User Interfaces in 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Augmented Reality User Interfaces in 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

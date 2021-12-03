@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ville-Veikko Mattila | XRL</title>
+    <link>https://xr-lab.org/authors/ville-veikko-mattila/</link>
+      <atom:link href="https://xr-lab.org/authors/ville-veikko-mattila/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ville-Veikko Mattila</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Ville-Veikko Mattila</title>
+      <link>https://xr-lab.org/authors/ville-veikko-mattila/</link>
+    </image>
+    
+    <item>
+      <title>An Evaluation of Augmented Reality X-Ray Vision for Outdoor Navigation</title>
+      <link>https://xr-lab.org/publication/dey-11-icat/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dey-11-icat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Augmented Reality X-Ray System Based on Visual Saliency</title>
+      <link>https://xr-lab.org/publication/sandor-10-ismar/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-10-ismar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

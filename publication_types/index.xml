@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | XRL</title>
+    <link>https://xr-lab.org/publication_types/</link>
+      <atom:link href="https://xr-lab.org/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Publication_types</title>
+      <link>https://xr-lab.org/publication_types/</link>
+    </image>
+    
+    <item>
+      <title>0</title>
+      <link>https://xr-lab.org/publication_types/0/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://xr-lab.org/publication_types/1/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://xr-lab.org/publication_types/2/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>https://xr-lab.org/publication_types/6/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>11</title>
+      <link>https://xr-lab.org/publication_types/11/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9</title>
+      <link>https://xr-lab.org/publication_types/9/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8</title>
+      <link>https://xr-lab.org/publication_types/8/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10</title>
+      <link>https://xr-lab.org/publication_types/10/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://xr-lab.org/publication_types/5/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>https://xr-lab.org/publication_types/7/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication_types/7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

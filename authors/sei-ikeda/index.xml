@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sei Ikeda | XRL</title>
+    <link>https://xr-lab.org/authors/sei-ikeda/</link>
+      <atom:link href="https://xr-lab.org/authors/sei-ikeda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sei Ikeda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Sei Ikeda</title>
+      <link>https://xr-lab.org/authors/sei-ikeda/</link>
+    </image>
+    
+    <item>
+      <title>BrightView: Increasing Perceived Brightness of Optical See-Through Head-Mounted Displays through Unnoticeable Incident Light Reduction</title>
+      <link>https://xr-lab.org/publication/mori-2018-vr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/mori-2018-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER] BrightView: Increasing Perceived Brightness in Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-17-2/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-17-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EyeAR: Refocusable Augmented Reality Content through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-2017-mdpi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-2017-mdpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] EyeAR: Refocusable Augmented Reality Content through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EyeAR: Empiric Evaluation of a Refocusable Augmented Reality System</title>
+      <link>https://xr-lab.org/publication/rovira-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rovira-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-3-dui-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-3-dui-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-ieeevr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-ieeevr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] EyeAR: Physically-Based Depth of Field through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-demo-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-demo-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] SharpView: Improved Legibility of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

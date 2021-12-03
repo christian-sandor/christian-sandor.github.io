@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Ericson Chavez Santos | XRL</title>
+    <link>https://xr-lab.org/authors/marc-ericson-chavez-santos/</link>
+      <atom:link href="https://xr-lab.org/authors/marc-ericson-chavez-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Ericson Chavez Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Marc Ericson Chavez Santos</title>
+      <link>https://xr-lab.org/authors/marc-ericson-chavez-santos/</link>
+    </image>
+    
+    <item>
+      <title>The COMPASS Framework for Digital Entertainment: Discussing Augmented Reality Activities for Scouts</title>
+      <link>https://xr-lab.org/publication/santos-icacet-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icacet-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Usability Analytics and Beyond with Human-Centered Data Science</title>
+      <link>https://xr-lab.org/publication/santos-cscw-16/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-cscw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Guidelines for Designing Handheld Augmented Reality in Learning Support</title>
+      <link>https://xr-lab.org/publication/santos-icce-15/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER] Towards Estimating Usability Ratings of Handheld Augmented Reality Using Accelerometer Data</title>
+      <link>https://xr-lab.org/publication/santos-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Standard Usability Questionnaires for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/santos-cga-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-cga-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoring Augmented Reality as Situated Multimedia</title>
+      <link>https://xr-lab.org/publication/santos-icce-14-b/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-14-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Augmented Reality for Situated Vocabulary Learning</title>
+      <link>https://xr-lab.org/publication/santos-icce-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Usability Scale for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/santos-vrst-14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-vrst-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asa MacWilliams | XRL</title>
+    <link>https://xr-lab.org/authors/asa-macwilliams/</link>
+      <atom:link href="https://xr-lab.org/authors/asa-macwilliams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Asa MacWilliams</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Asa MacWilliams</title>
+      <link>https://xr-lab.org/authors/asa-macwilliams/</link>
+    </image>
+    
+    <item>
+      <title>Herding Sheep: Live System Development for Distributed Augmented Reality</title>
+      <link>https://xr-lab.org/publication/macwilli-2003-sheep/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/macwilli-2003-sheep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Studierstube and DWARF</title>
+      <link>https://xr-lab.org/publication/dwarf-2003-integrating/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dwarf-2003-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Begrenzt offen: Mac OS X als Portierungsziel</title>
+      <link>https://xr-lab.org/publication/macwilli-2003-ix/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/macwilli-2003-ix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Architecture Concept for Ubiqutous Computing Aware Wearable Computers</title>
+      <link>https://xr-lab.org/publication/bauer-2002/</link>
+      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/bauer-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHEEP: The Shared Environment Entertainment Pasture</title>
+      <link>https://xr-lab.org/publication/sandor-02-ismar/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-02-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Component-Based Augmented Reality Framework</title>
+      <link>https://xr-lab.org/publication/dwarf-2001-design/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dwarf-2001-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

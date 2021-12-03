@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sirawat Pitaksarit | XRL</title>
+    <link>https://xr-lab.org/authors/sirawat-pitaksarit/</link>
+      <atom:link href="https://xr-lab.org/authors/sirawat-pitaksarit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sirawat Pitaksarit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Sirawat Pitaksarit</title>
+      <link>https://xr-lab.org/authors/sirawat-pitaksarit/</link>
+    </image>
+    
+    <item>
+      <title>A Learning Support System using Camera Tracking for High School Physics Experiments</title>
+      <link>https://xr-lab.org/publication/shalika-ec-36/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/shalika-ec-36/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Cunningham | XRL</title>
+    <link>https://xr-lab.org/authors/andrew-cunningham/</link>
+      <atom:link href="https://xr-lab.org/authors/andrew-cunningham/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Cunningham</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Andrew Cunningham</title>
+      <link>https://xr-lab.org/authors/andrew-cunningham/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating Depth Perception of Photorealistic Mixed Reality Visualizations for Occluded Objects in Outdoor Environments</title>
+      <link>https://xr-lab.org/publication/dey-10-vrst/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dey-10-vrst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Augmented Reality X-Ray System Based on Visual Saliency</title>
+      <link>https://xr-lab.org/publication/sandor-10-ismar/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-10-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and Apparatus for an Augmented Reality X-Ray. US Patent application 12/785,170 (Filed 21 May 2010). Available online at google patent search.</title>
+      <link>https://xr-lab.org/publication/sandor-patent-09/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-patent-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Space-Distorting Visualizations for Rapid Environment Exploration in Mobile Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Space-Distorting Visualizations for Rapid Environment Exploration in Mobile Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-09/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

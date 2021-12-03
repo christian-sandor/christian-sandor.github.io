@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sriram Subramanian | XRL</title>
+    <link>https://xr-lab.org/authors/sriram-subramanian/</link>
+      <atom:link href="https://xr-lab.org/authors/sriram-subramanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sriram Subramanian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Sriram Subramanian</title>
+      <link>https://xr-lab.org/authors/sriram-subramanian/</link>
+    </image>
+    
+    <item>
+      <title>Flowcuits: Crafting Tangible and Interactive Electrical Components with Liquid Metal Circuits</title>
+      <link>https://xr-lab.org/publication/10-1145-3430524-3440654/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3430524-3440654/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PickCells: A Physically Reconfigurable Cell-Composed Touchscreen</title>
+      <link>https://xr-lab.org/publication/10-1145-3290605-3300503/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3290605-3300503/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoundBender: Dynamic Acoustic Control Behind Obstacles</title>
+      <link>https://xr-lab.org/publication/10-1145-3242587-3242590/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3242587-3242590/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tangible Drops: A Visio-Tactile Display Using Actuated Liquid-Metal Droplets</title>
+      <link>https://xr-lab.org/publication/10-1145-3173574-3173751/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3173574-3173751/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JDLED: Towards Visio-Tactile Displays Based on Electrochemical Locomotion of Liquid-Metal Janus Droplets</title>
+      <link>https://xr-lab.org/publication/10-1145-3131785-3131793/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3131785-3131793/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MistForm: Adaptive Shape Changing Fog Screens</title>
+      <link>https://xr-lab.org/publication/10-1145-3025453-3025608/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3025453-3025608/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable Liquid Matter: 2D Shape Deformation of Highly Conductive Liquid Metals in a Dynamic Electric Field</title>
+      <link>https://xr-lab.org/publication/10-1145-3132272-3134132/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3132272-3134132/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable Liquid Matter: 2D Shape Drawing of Liquid Metals by Dynamic Electric Field</title>
+      <link>https://xr-lab.org/publication/10-1145-3132272-3132289/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-3132272-3132289/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

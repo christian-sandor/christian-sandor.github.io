@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masatosh iIshikawa | XRL</title>
+    <link>https://xr-lab.org/authors/masatosh-iishikawa/</link>
+      <atom:link href="https://xr-lab.org/authors/masatosh-iishikawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masatosh iIshikawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Masatosh iIshikawa</title>
+      <link>https://xr-lab.org/authors/masatosh-iishikawa/</link>
+    </image>
+    
+    <item>
+      <title>Arbitration-free Time-Division Permutation Switching suitable for All-Optical Implementation</title>
+      <link>https://xr-lab.org/publication/cassinelli-arbitration-free-2003/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-arbitration-free-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

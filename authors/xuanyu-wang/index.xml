@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/xuanyu-wang/</link>
+      <atom:link href="https://xr-lab.org/authors/xuanyu-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/xuanyu-wang/</link>
+    </image>
+    
+    <item>
+      <title>AvatarMeeting: An Augmented Reality Remote Interaction System With Personalized Avatars</title>
+      <link>https://xr-lab.org/publication/wang-acm-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/wang-acm-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AvatarMeeting: An Augmented Reality Remote Interaction System With Personalized Avatars</title>
+      <link>https://xr-lab.org/project/avatar-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/avatar-meeting/</guid>
+      <description>&lt;p&gt;To further enhance the immersion, we involve avatars in remote interactions harnessing Head Mounted Display (HMD) based Augmented Reality (AR). In this demonstration, we present AvatarMeeting to enable users to meet with remote peers through interactive, personalized avatars, just like face to face. Specifically, we propose a novel framework including a consumer-grade set-up, a complete transmission scheme, and a processing pipeline, which consists of prescan modeling, pose detection, and action reconstruction. Moreover, we introduce an angle based reconstruction approach to empower the avatar to perform the same actions as each real remote person does in real-time smoothly while keeping a good avatar shape.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

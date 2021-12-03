@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arno Lubke | XRL</title>
+    <link>https://xr-lab.org/authors/arno-lubke/</link>
+      <atom:link href="https://xr-lab.org/authors/arno-lubke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arno Lubke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Arno Lubke</title>
+      <link>https://xr-lab.org/authors/arno-lubke/</link>
+    </image>
+    
+    <item>
+      <title>Eye-Gaze Tracking in Near-Eye Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/plopskiismar/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/plopskiismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Dynamic Augmented Reality X-Ray on Google Glass</title>
+      <link>https://xr-lab.org/publication/rompapas-siggraphasia-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-siggraphasia-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoring Augmented Reality as Situated Multimedia</title>
+      <link>https://xr-lab.org/publication/santos-icce-14-b/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-14-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Augmented Reality for Situated Vocabulary Learning</title>
+      <link>https://xr-lab.org/publication/santos-icce-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

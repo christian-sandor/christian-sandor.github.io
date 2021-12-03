@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Billinghurst | XRL</title>
+    <link>https://xr-lab.org/authors/mark-billinghurst/</link>
+      <atom:link href="https://xr-lab.org/authors/mark-billinghurst/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Billinghurst</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Mark Billinghurst</title>
+      <link>https://xr-lab.org/authors/mark-billinghurst/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating a SLAM-based Handheld Augmented Reality Guidance System</title>
+      <link>https://xr-lab.org/publication/polvi-sui-14/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-sui-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Use of Handheld Augmented Reality Authoring and Guidance in Unknown Environments</title>
+      <link>https://xr-lab.org/publication/polvi-kjmr-14/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-kjmr-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

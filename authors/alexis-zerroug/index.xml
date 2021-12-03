@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexis Zerroug | XRL</title>
+    <link>https://xr-lab.org/authors/alexis-zerroug/</link>
+      <atom:link href="https://xr-lab.org/authors/alexis-zerroug/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexis Zerroug</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Alexis Zerroug</title>
+      <link>https://xr-lab.org/authors/alexis-zerroug/</link>
+    </image>
+    
+    <item>
+      <title>Light Arrays: a system for extended engagement</title>
+      <link>https://xr-lab.org/publication/wilde-light-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/wilde-light-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Laser Aura: a prosthesis for emotional expression</title>
+      <link>https://xr-lab.org/publication/cassinelli-laser-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-laser-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Arrays: a system for extended engagement</title>
+      <link>https://xr-lab.org/publication/wilde-light-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/wilde-light-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camera-less Smart Laser Projector</title>
+      <link>https://xr-lab.org/publication/cassinelli-camera-2010/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-camera-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Haptic Radar</title>
+      <link>https://xr-lab.org/publication/zerroug-virtual-2009/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zerroug-virtual-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial coverage vs. sensorial fidelity in VR</title>
+      <link>https://xr-lab.org/publication/zerroug-spatial-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zerroug-spatial-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

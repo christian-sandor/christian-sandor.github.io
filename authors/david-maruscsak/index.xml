@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/david-maruscsak/</link>
+      <atom:link href="https://xr-lab.org/authors/david-maruscsak/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/david-maruscsak/</link>
+    </image>
+    
+    <item>
+      <title>AURA</title>
+      <link>https://xr-lab.org/project/aura/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/aura/</guid>
+      <description>&lt;p&gt;AURA is an interactive installation designed for the 360° projection theatre immersive system. Besides the circular projection wall, this project utilizes two TV screen through which the users can interact with the projected image. The first TV screen works as an AR mirror. It augments metallic surface onto the viewers’ body. The metallic material reflects the environment. While the user is standing in front of the AR mirror the system saves a still 3D mesh of its body. The captured then gets projected onto the second TV screen. On the middle of this screen, the user can find an attached knob and after rotating it the mesh colour is changed. When the users pick their colour the mesh appears on the wall. Every time a new user goes through this interaction process, its body will be projected onto the wall and a gradually growing timeline of the user&amp;rsquo;s body is going to be created. After the user detaches the knob from the TV screen the knob allows him to control the projected image. The knob’s rotation rotates the timeline of the bodies along a spiralling spline. The viewer can scroll forward or backwards and explore the people who previously occupied the space&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

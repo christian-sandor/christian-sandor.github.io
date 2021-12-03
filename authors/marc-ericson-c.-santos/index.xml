@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Ericson C. Santos | XRL</title>
+    <link>https://xr-lab.org/authors/marc-ericson-c.-santos/</link>
+      <atom:link href="https://xr-lab.org/authors/marc-ericson-c.-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Ericson C. Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Marc Ericson C. Santos</title>
+      <link>https://xr-lab.org/authors/marc-ericson-c.-santos/</link>
+    </image>
+    
+    <item>
+      <title>Augmented Reality as Multimedia: the Case for Situated Vocabulary Learning</title>
+      <link>https://xr-lab.org/publication/santos-rptel-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-rptel-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Legibility of Augmented Reality X-Ray</title>
+      <link>https://xr-lab.org/publication/santos-mta-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-mta-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Learning Support System using Camera Tracking for High School Physics Experiments</title>
+      <link>https://xr-lab.org/publication/shalika-ec-36/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/shalika-ec-36/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niklas Bergstrom | XRL</title>
+    <link>https://xr-lab.org/authors/niklas-bergstrom/</link>
+      <atom:link href="https://xr-lab.org/authors/niklas-bergstrom/index.xml" rel="self" type="application/rss+xml" />
+    <description>Niklas Bergstrom</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Niklas Bergstrom</title>
+      <link>https://xr-lab.org/authors/niklas-bergstrom/</link>
+    </image>
+    
+    <item>
+      <title>Tactile Radar: experimenting a computer game with visually disabled</title>
+      <link>https://xr-lab.org/publication/kastrup-tactile-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kastrup-tactile-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radar Tatil: Experimentando um jogo de computador para pessoas com deficiencia visual</title>
+      <link>https://xr-lab.org/publication/virginia-radar-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/virginia-radar-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

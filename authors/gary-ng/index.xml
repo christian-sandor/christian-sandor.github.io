@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gary Ng | XRL</title>
+    <link>https://xr-lab.org/authors/gary-ng/</link>
+      <atom:link href="https://xr-lab.org/authors/gary-ng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gary Ng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Gary Ng</title>
+      <link>https://xr-lab.org/authors/gary-ng/</link>
+    </image>
+    
+    <item>
+      <title>Situated Game Level Editing in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/ng-tei-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ng-tei-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

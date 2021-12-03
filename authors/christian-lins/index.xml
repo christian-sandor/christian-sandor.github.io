@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Lins | XRL</title>
+    <link>https://xr-lab.org/authors/christian-lins/</link>
+      <atom:link href="https://xr-lab.org/authors/christian-lins/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Lins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jul 2019 16:55:31 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Christian Lins</title>
+      <link>https://xr-lab.org/authors/christian-lins/</link>
+    </image>
+    
+    <item>
+      <title>Cardiopulmonary resuscitation quality parameters from motion capture data using Differential Evolution fitting of sinusoids</title>
+      <link>https://xr-lab.org/publication/lins-asc19/</link>
+      <pubDate>Wed, 31 Jul 2019 16:55:31 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lins-asc19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TutAR: Augmented Reality Tutorials for Hands-Only Procedures</title>
+      <link>https://xr-lab.org/publication/eckhoff-vrcai-18/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff-vrcai-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] TutAR: Semi-Automatic Generation of Augmented Reality Tutorials for Medical Education</title>
+      <link>https://xr-lab.org/publication/eckhoff-ismar-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff-ismar-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

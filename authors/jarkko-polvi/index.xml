@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jarkko Polvi | XRL</title>
+    <link>https://xr-lab.org/authors/jarkko-polvi/</link>
+      <atom:link href="https://xr-lab.org/authors/jarkko-polvi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jarkko Polvi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Jarkko Polvi</title>
+      <link>https://xr-lab.org/authors/jarkko-polvi/</link>
+    </image>
+    
+    <item>
+      <title>Handheld Guides in Inspection Tasks: Augmented Reality vs. Picture</title>
+      <link>https://xr-lab.org/publication/polvi-vcg-17/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-vcg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient In-Situ Creation of Augmented Reality Tutorials</title>
+      <link>https://xr-lab.org/publication/plopski-mfi-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/plopski-mfi-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Usability Analytics and Beyond with Human-Centered Data Science</title>
+      <link>https://xr-lab.org/publication/santos-cscw-16/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-cscw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SlidAR: A 3D Positioning Method for SLAM-based Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/polvi-cag-15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-cag-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] SlidAR: A 3D Positioning Technique for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/polvi-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Standard Usability Questionnaires for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/santos-cga-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-cga-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Usability Scale for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/santos-vrst-14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-vrst-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating a SLAM-based Handheld Augmented Reality Guidance System</title>
+      <link>https://xr-lab.org/publication/polvi-sui-14/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-sui-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Use of Handheld Augmented Reality Authoring and Guidance in Unknown Environments</title>
+      <link>https://xr-lab.org/publication/polvi-kjmr-14/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-kjmr-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

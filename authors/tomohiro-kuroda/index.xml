@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomohiro Kuroda | XRL</title>
+    <link>https://xr-lab.org/authors/tomohiro-kuroda/</link>
+      <atom:link href="https://xr-lab.org/authors/tomohiro-kuroda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tomohiro Kuroda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Tomohiro Kuroda</title>
+      <link>https://xr-lab.org/authors/tomohiro-kuroda/</link>
+    </image>
+    
+    <item>
+      <title>Imperceptible On-Screen Markers for Mobile Interaction on Public Large Displays</title>
+      <link>https://xr-lab.org/publication/yamamoto-2017-ieice/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2017-ieice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-pattern Indicating Interface for Ambient Assisted Living</title>
+      <link>https://xr-lab.org/publication/yamamoto-nsp-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-nsp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-pattern Indicating Interface for Ambient Assisted Living</title>
+      <link>https://xr-lab.org/publication/yamamoto-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

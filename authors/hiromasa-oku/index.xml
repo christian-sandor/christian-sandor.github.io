@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“Hiromasa Oku” | XRL</title>
+    <link>https://xr-lab.org/authors/hiromasa-oku/</link>
+      <atom:link href="https://xr-lab.org/authors/hiromasa-oku/index.xml" rel="self" type="application/rss+xml" />
+    <description>“Hiromasa Oku”</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>“Hiromasa Oku”</title>
+      <link>https://xr-lab.org/authors/hiromasa-oku/</link>
+    </image>
+    
+    <item>
+      <title>A pair of diopter-adjustable eyeglasses for presbyopia correction</title>
+      <link>https://xr-lab.org/publication/gregory-pair-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/gregory-pair-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invoked computing Spatial audio and video AR invoked through miming</title>
+      <link>https://xr-lab.org/publication/lihui-invoked-nodate/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lihui-invoked-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real World Oriented Interaction System with Microorganisms and Its Preliminary Study</title>
+      <link>https://xr-lab.org/publication/naoko-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/naoko-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

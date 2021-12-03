@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilde Danielle | XRL</title>
+    <link>https://xr-lab.org/authors/wilde-danielle/</link>
+      <atom:link href="https://xr-lab.org/authors/wilde-danielle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wilde Danielle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Wilde Danielle</title>
+      <link>https://xr-lab.org/authors/wilde-danielle/</link>
+    </image>
+    
+    <item>
+      <title>LightArrays</title>
+      <link>https://xr-lab.org/publication/danielle-lightarrays-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/danielle-lightarrays-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

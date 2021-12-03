@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alavro Cassinelli | XRL</title>
+    <link>https://xr-lab.org/authors/alavro-cassinelli/</link>
+      <atom:link href="https://xr-lab.org/authors/alavro-cassinelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alavro Cassinelli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Alavro Cassinelli</title>
+      <link>https://xr-lab.org/authors/alavro-cassinelli/</link>
+    </image>
+    
+    <item>
+      <title>Proposal and fundamental study of a display method relying on afterimage and a flying tracked object as support for projection</title>
+      <link>https://xr-lab.org/publication/yasui-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yasui-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Arrays: a system for extended engagement</title>
+      <link>https://xr-lab.org/publication/wilde-light-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/wilde-light-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Arrays: a system for extended engagement</title>
+      <link>https://xr-lab.org/publication/wilde-light-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/wilde-light-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scoreLight: playing with a human sized laser pickup</title>
+      <link>https://xr-lab.org/publication/cassinelli-scorelight-2010/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-scorelight-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real World Oriented Interaction System with Microorganisms and Its Preliminary Study</title>
+      <link>https://xr-lab.org/publication/naoko-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/naoko-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Yu | XRL</title>
+    <link>https://xr-lab.org/authors/kevin-yu/</link>
+      <atom:link href="https://xr-lab.org/authors/kevin-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Kevin Yu</title>
+      <link>https://xr-lab.org/authors/kevin-yu/</link>
+    </image>
+    
+    <item>
+      <title>Empirical Study of Non-Reversing Magic Mirrors for Augmented Reality Anatomy Learning</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

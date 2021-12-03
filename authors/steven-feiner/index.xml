@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Feiner | XRL</title>
+    <link>https://xr-lab.org/authors/steven-feiner/</link>
+      <atom:link href="https://xr-lab.org/authors/steven-feiner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven Feiner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Steven Feiner</title>
+      <link>https://xr-lab.org/authors/steven-feiner/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Effect of Positional Head-Tracking on Task Performance in 3D Modeling User Interfaces</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ccg-17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ccg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positional Head-Tracking in Immersive VR for 3D Designers</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking the Barriers to True Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-breaking-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-breaking-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersive Mixed-Reality Configuration of Hybrid User Interfaces</title>
+      <link>https://xr-lab.org/publication/hybrid-ismar/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hybrid-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual End User Configuration of Hybrid User Interfaces</title>
+      <link>https://xr-lab.org/publication/sandor-2004-hybrid/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2004-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual End User Configuration of Hybrid User Interfaces</title>
+      <link>https://xr-lab.org/publication/sandor-04-sigmm/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-04-sigmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

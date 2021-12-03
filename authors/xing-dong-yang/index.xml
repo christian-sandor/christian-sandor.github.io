@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xing-Dong Yang | XRL</title>
+    <link>https://xr-lab.org/authors/xing-dong-yang/</link>
+      <atom:link href="https://xr-lab.org/authors/xing-dong-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xing-Dong Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Xing-Dong Yang</title>
+      <link>https://xr-lab.org/authors/xing-dong-yang/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Eyes-Free Bezel-Initiated Swipe on Round Smartwatches</title>
+      <link>https://xr-lab.org/publication/pui-chung-chi-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pui-chung-chi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TipText: Eyes-Free Text Entry on a Fingertip Keyboard</title>
+      <link>https://xr-lab.org/publication/pui-chung-acm-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pui-chung-acm-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

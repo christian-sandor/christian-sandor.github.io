@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sylvia Beatriz Joffily | XRL</title>
+    <link>https://xr-lab.org/authors/sylvia-beatriz-joffily/</link>
+      <atom:link href="https://xr-lab.org/authors/sylvia-beatriz-joffily/index.xml" rel="self" type="application/rss+xml" />
+    <description>sylvia Beatriz Joffily</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>sylvia Beatriz Joffily</title>
+      <link>https://xr-lab.org/authors/sylvia-beatriz-joffily/</link>
+    </image>
+    
+    <item>
+      <title>Do blind people move more confidently with the Tactile Radar?</title>
+      <link>https://xr-lab.org/publication/cassinelli-blind-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-blind-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

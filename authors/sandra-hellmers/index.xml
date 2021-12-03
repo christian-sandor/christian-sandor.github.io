@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandra Hellmers | XRL</title>
+    <link>https://xr-lab.org/authors/sandra-hellmers/</link>
+      <atom:link href="https://xr-lab.org/authors/sandra-hellmers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandra Hellmers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jul 2019 16:55:31 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Sandra Hellmers</title>
+      <link>https://xr-lab.org/authors/sandra-hellmers/</link>
+    </image>
+    
+    <item>
+      <title>Cardiopulmonary resuscitation quality parameters from motion capture data using Differential Evolution fitting of sinusoids</title>
+      <link>https://xr-lab.org/publication/lins-asc19/</link>
+      <pubDate>Wed, 31 Jul 2019 16:55:31 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lins-asc19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

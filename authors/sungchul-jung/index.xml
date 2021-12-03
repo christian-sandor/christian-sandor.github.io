@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sungchul Jung | XRL</title>
+    <link>https://xr-lab.org/authors/sungchul-jung/</link>
+      <atom:link href="https://xr-lab.org/authors/sungchul-jung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sungchul Jung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Sungchul Jung</title>
+      <link>https://xr-lab.org/authors/sungchul-jung/</link>
+    </image>
+    
+    <item>
+      <title>Over My Hand: Using a Personalized Hand in VR to Improve Object Size Estimation, Body Ownership, and Presence</title>
+      <link>https://xr-lab.org/publication/jung-sui-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/jung-sui-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RealME: The Influence of Body and Hand Representations on Body Ownership and Presence</title>
+      <link>https://xr-lab.org/publication/jung-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/jung-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

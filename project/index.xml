@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | XRL</title>
+    <link>https://xr-lab.org/project/</link>
+      <atom:link href="https://xr-lab.org/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Projects</title>
+      <link>https://xr-lab.org/project/</link>
+    </image>
+    
+    <item>
+      <title>HORIZON</title>
+      <link>https://xr-lab.org/project/horizon/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/horizon/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/L328rF1m_qY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;HORIZON is an interactive audiovisual piece created for the 360 stereoscopic panorama Gallery in the school of creative media in CityU. The piece explores the relationship between space and horizon while experimenting with visual and spatial codes and illusions that tap into the sensory perception of horizontality and motion.  The fact that the visual and the balance system in human perception are interrelated and are prone to illusions open the door to the search for new interesting effects. The work intends to tap into phenomena like fake horizon illusion, Autokenesis and other effects related to sensorimotor feedback loops, exploiting these effects to find new narrative codes within this unexplored big format. The goal was to create an immersive real-time experience, building tools and workflows to produce high-end cinematic computer graphics that were edited and modified live with a certain degree of interactivity while developing workflows to render the content using cutting edge real-time distributed rendering systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AURA</title>
+      <link>https://xr-lab.org/project/aura/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/aura/</guid>
+      <description>&lt;p&gt;AURA is an interactive installation designed for the 360° projection theatre immersive system. Besides the circular projection wall, this project utilizes two TV screen through which the users can interact with the projected image. The first TV screen works as an AR mirror. It augments metallic surface onto the viewers’ body. The metallic material reflects the environment. While the user is standing in front of the AR mirror the system saves a still 3D mesh of its body. The captured then gets projected onto the second TV screen. On the middle of this screen, the user can find an attached knob and after rotating it the mesh colour is changed. When the users pick their colour the mesh appears on the wall. Every time a new user goes through this interaction process, its body will be projected onto the wall and a gradually growing timeline of the user&amp;rsquo;s body is going to be created. After the user detaches the knob from the TV screen the knob allows him to control the projected image. The knob’s rotation rotates the timeline of the bodies along a spiralling spline. The viewer can scroll forward or backwards and explore the people who previously occupied the space&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classifying Cycling Hazards in Egocentric Data</title>
+      <link>https://xr-lab.org/project/cycling/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/cycling/</guid>
+      <description>&lt;p&gt;Since cyclists are highly sensitive to road surface conditions and hazards they require more detailed information when navigating their route. To facilitate a better understanding of what causes hazardous conditions to cyclists we created a dataset of classified hazardous cycling conditions. Egocentric cycling footage and IMU data was collected in Hong Kong and Australia on various types of cycling infrastructure using sensors attached to the cyclist. By collecting both video and IMU data we were able to identify moments where the cyclist was experiencing sudden braking or uncomfortable cycling conditions as indicated by the IMU. We then extracted videos from these moments and classified them using Amazon Mechanical Turk.&lt;/p&gt;
+
+&lt;p&gt;This project was sponsored by Amazon and was created for the  EPIC @ CVPR 2020 Dataset challenge. This data is publicly available at the link below for anyone to use or modify under the Creative Commons Attribution 4.0 International License.&lt;/p&gt;
+
+&lt;p&gt;This dataset can be downloaded from the following link:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1htHvoTT7OHlfCrQsivGa3W6aRV38BTHw&#34; target=&#34;_blank&#34;&gt;Dataset&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When using this data set please cite the following paper:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xr-lab.org/publication/haebich-2021-classifying/&#34; target=&#34;_blank&#34;&gt;Classifying Cycling Hazards in Egocentric Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Context-Based 3D Haptic Grid</title>
+      <link>https://xr-lab.org/project/haptic-grid/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/haptic-grid/</guid>
+      <description>&lt;p&gt;The Context-Based 3D Haptic Grid extends the visual and haptic feedback of the real-world to help users do precise mid-air 3D manipulations. Our system creates 3D grids that surround each object (virtual and real) in the scene to help users see the object&amp;rsquo;s transformation. It also provides haptic feedback to helps users do precise manipulations without constraining their actions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Perceptual and Cognitive Effects of Extreme Augmented Reality Experience</title>
+      <link>https://xr-lab.org/project/arpsychophysics/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/arpsychophysics/</guid>
+      <description>&lt;p&gt;In this proposed Ph.D. research, we are aiming to create several extreme Augmented Reality (AR) that evoke measurable physiological and neurological responses in the human brain.&lt;/p&gt;
+
+&lt;p&gt;These experiments will run on a platform capable of tracking the user&amp;rsquo;s body and recreating a volumetric representations of it. On a Head-Mounted Display, we will overlay real-time photo-realistic stereoscopic graphics on the user&amp;rsquo;s body.&lt;/p&gt;
+
+&lt;p&gt;To investigate our hypotheses, we will build a set of systems each capable of measuring various biomarkers, including cardiac biomarkers, skin conductance, muscle tension, electroencephalogram (EEG) and hormone levels. Additionally, we will use questionnaires and think aloud protocols.&lt;/p&gt;
+
+&lt;p&gt;This research allows insights into the perceptual and cognitive effects unique to AR experiences that can&amp;rsquo;t be reproduced in VR. These insights are from a highly significant clinical interest in psychology, possibly capable of creating new non-invasive ways of treating or accelerating the therapy of many diseases; e.g., mental disorders such as phobias or Obsessive-Compulsive disorder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Light Field Manipulators</title>
+      <link>https://xr-lab.org/project/lightfield-manipulator/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/lightfield-manipulator/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Vu4Bgv0S_Ds&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+This project explores scalable methods for repurposing existing fields of light (e.g. from the sun or conventional electric lights). Using a combination of commodity components, we are creating mechanisms to steer and calibrate arrays of mirrors to synthesise fields of light which can be used for rendering images, redirecting thermal energy, and providing illumination. We intend to research and develop mechanisms at both larger scales (&amp;gt;10m arrays) to micro scale (&amp;lt;wavelength of light).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic Gesture Recognition</title>
+      <link>https://xr-lab.org/project/finger-device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/finger-device/</guid>
+      <description>&lt;p&gt;This project aims to build the connection between humans and digital content through an easy to set up and natural interaction method that turns everyday objects into intuitive and creative interfaces. This could be achieved by acoustic gesture recognition which adds interactivity on the object surfaces by detecting the sound produced when performing a gesture. This technique will be used to enable interaction on physical objects for manipulation in the Internet of Things (IoT) , peripheral smart devices, Augmented Reality (AR), and Virtual Reality (VR) environments. It is also possible to customize tangible interfaces for specific applications and people with special needs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AR Therapies for PTSD</title>
+      <link>https://xr-lab.org/project/ar-ptsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/ar-ptsd/</guid>
+      <description>&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/project/ar-ptsd/teaser.png&#34; /&gt;
+    &lt;/div&gt;
+    
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&amp;ldquo;Globally, it is estimated that up to 1 billion children aged 2–17 years, have experienced physical, sexual, emotional violence and neglect” [1], and 30% of the abused child is likely to develop Post-traumatic stress disorder (PTSD) [2]; 354 million adult war survivors are suffering from PTSD [3]; At where the natural disaster occurred, 70.7% of survivors will suffer from acute PTSD [4]. PTSD has not only high prevalence but also high lethality, which is accompanied by multiple physical and mental comorbidities as well as strong suicidal tendencies [5-7]. This doctoral research aims to contribute to the development of PTSD treatment by investigating the potential of Augmented Reality (AR) narrative in treating PTSD. This four-year research project consists of three steps. In the first stage of research, we will conduct a comparative study between AR and VR narratives with participants without mental illnesses to verify whether AR narratives work better in eliciting the emotional engagement of the participants than VR narratives. In the second stage, we will create a system that integrates AR narratives with prolonged exposure (PE) treatment and experiment it with PTSD patients to verify its treatment efficacy. In the final stage, a semi-automatic and patient-authored AR system is expected to be achieved, through which the patients can design their unique exposure environment via voice input. This doctoral research project will provide valuable experimental samples and scientific evidences for the research of psychotherapy, narrative studies, and AR application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AvatarMeeting: An Augmented Reality Remote Interaction System With Personalized Avatars</title>
+      <link>https://xr-lab.org/project/avatar-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/avatar-meeting/</guid>
+      <description>&lt;p&gt;To further enhance the immersion, we involve avatars in remote interactions harnessing Head Mounted Display (HMD) based Augmented Reality (AR). In this demonstration, we present AvatarMeeting to enable users to meet with remote peers through interactive, personalized avatars, just like face to face. Specifically, we propose a novel framework including a consumer-grade set-up, a complete transmission scheme, and a processing pipeline, which consists of prescan modeling, pose detection, and action reconstruction. Moreover, we introduce an angle based reconstruction approach to empower the avatar to perform the same actions as each real remote person does in real-time smoothly while keeping a good avatar shape.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Immersive Projection</title>
+      <link>https://xr-lab.org/project/interactive-immersive-proj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/interactive-immersive-proj/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Spiritual World&amp;rdquo; is an interactive immersive projection trying to build an inner world to show the self-reflection process of participants visually and show the relationship between participants. Experiencing the &amp;ldquo;Spiritual World&amp;rdquo; is like entering other people&amp;rsquo;s inner world or let other people get into your inner world. The interaction between participants will be visually displayed to the surrounding.&lt;/p&gt;
+
+&lt;p&gt;The image and skeleton of audiences will be captured by Azure Kinect, then the captured data will be projected to the TV mirror and the surrounding walls to create the &amp;ldquo;Spiritual World&amp;rdquo;, aiming to turn the indescribable and uncertain interaction and intimacy between people into raw and surreal visuals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser Sensing Display</title>
+      <link>https://xr-lab.org/project/lasersensingdisplay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/lasersensingdisplay/</guid>
+      <description>&lt;p&gt;Creating integrated laser display systems that are capable of sensing interaction without the use of external cameras. These display systems will be used to implement interactive spatial Augmented Reality interfaces and displays that present dynamic information on real world surfaces. Overlapping real and virtual environments to create seamless interfaces and displays where the use of existing headsets is not practical.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://xr-lab.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VIRTUAL PSYCHOTECHNICS: SIMULATING THE VISUAL PHENOMENOLOGY OF HALLUCINATION</title>
+      <link>https://xr-lab.org/project/psychotechnics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/psychotechnics/</guid>
+      <description>&lt;p&gt;This research investigates the capacity for immersive virtual reality (VR) and augmented reality (AR) to simulate the perceptual phenomena of altered states of consciousness. The thesis aims to answer the following question; what are the philosophical, scientific and technological links between altered states of consciousness and technology which have given rise to the increasing use of VR and AR as empirical tools for simulating meditative and psychedelic brain states. The hypothesis of this research draws from the philosophy of technology and theories of consciousness in the neurosciences to argue that the immersive qualities of VR and AR technologies mediate altered states of consciousness. These theoretical frameworks will inform the production of AR and VR systems that will be used in experimental studies to determine whether these technologies have the capacity for capturing the visual phenomenology of profound psychological experiences which physiological brain imaging technologies are incapable of articulating.  The first experiment will involve the development of a VR meditation system that digitally simulates the visualization techniques in Vajrayana buddhist meditation while using EEG brain computer interface to create bio feedback between the virtual simulations of buddhist cosmology and the users meditative state. This artwork proposes that VR buddhist meditation apps are the continuation of a tradition of visual art used as meditation aids in Tibetan and Tantric Buddhism.  The second experiment is an art science collaboration that draws from neuroimaging research on psychedelic brain states which has demonstrated increased cerebral blood flow and decreased alpha brain wave activity as key indicators of altered states of consciousness. Alpha activity is usually associated with filtering ‘stimulus irrelevant’ input in the visual cortex and reduced alpha is proposed to have a ‘disinhibitory’ effect producing anarchic patterns of stimulation associated with hallucinations. An acknowledged gap in this research is that examining only the ‘neural correlates of consciousness’ of hallucination neglects the visual phenomenological experience of these states which would be aided by the ‘improved capture of visual hallucinations.’ A mixed reality system will be developed for inducing hallucinations based on predictive processing and sensorimotor contingency theories of visual consciousness through the simulation of simple and complex imagery which is responsive to the eye tracking of the hololens system.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

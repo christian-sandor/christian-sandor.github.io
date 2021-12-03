@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuki Hirobe | XRL</title>
+    <link>https://xr-lab.org/authors/yuki-hirobe/</link>
+      <atom:link href="https://xr-lab.org/authors/yuki-hirobe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuki Hirobe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Yuki Hirobe</title>
+      <link>https://xr-lab.org/authors/yuki-hirobe/</link>
+    </image>
+    
+    <item>
+      <title>In-air typing interface for mobile devices with vibration feedback</title>
+      <link>https://xr-lab.org/publication/niikura-air-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/niikura-air-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

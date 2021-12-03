@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artworks | XRL</title>
+    <link>https://xr-lab.org/artwork/</link>
+      <atom:link href="https://xr-lab.org/artwork/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artworks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Artworks</title>
+      <link>https://xr-lab.org/artwork/</link>
+    </image>
+    
+    <item>
+      <title>A Forgotten Exercise?</title>
+      <link>https://xr-lab.org/artwork/aforgottonexercise/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/artwork/aforgottonexercise/</guid>
+      <description>&lt;p&gt;We are at a loss when words or pictures refuse to reveal their immediate purpose. Yet despite its graphical profusion, Leonardo Da Vinci’s Codex is very lucid in this respect: every page offers immediate enjoyment, regardless of a professional grasp　of the subject matter.
+I maintain that this accessibility is not just due to the general familiarity with the works of Leonardo Da Vinci. The master’s feverish daydreaming coupled with his unparalleled erudition produces something that is more accessible than the scribblings of the scientist, and more touching than the sketches of the artist, because it reminds us of the all encompassing curiosity of a child. Every page of the Codex is soul food for thought.&lt;/p&gt;
+
+&lt;p&gt;I also fill notebooks, and treasure ship-logging my own mental navigations in a similarly obsessive manner. This practice helps me retrace forgotten routes in an otherwise disorienting ocean of facts and ideas. Of course it is humbling to show my souvenirs alongside Leonardo Da Vinci’s more far reaching circumnavigation of the mind. Perhaps involuntarily, Leonardo Da Vinci elevated an early form of multimedia documenting to the level of Art. In any case, I offer my own attempt at it, because it remains to be seen if this intimate practice will survive in the age of the mind-mapping software, the standard presentation format, or the insidious takeover of auto-correction tools as applied to text, images, and ultimately to curiosity and life itself.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/2_hub7d8c3e84a3c52b5734c09a37ba85d7c_3429654_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/3.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/3_hub7d8c3e84a3c52b5734c09a37ba85d7c_3214570_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/4.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/aforgottonexercise/gallery/4_hu88863fab187aed6bf41e5228886cdb49_2633118_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leonardo da Vinci&#39;s Dreams</title>
+      <link>https://xr-lab.org/artwork/davincisdreams/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/artwork/davincisdreams/</guid>
+      <description>&lt;p&gt;Dreams are mainly driven by intuition, as the prefrontal cortex, responsible for planning and logic, exhibits decreased activity while dreaming. Therefore, seeing a person’s dreams would be the most direct path to understanding their intuitive cognitive processes.&lt;/p&gt;
+
+&lt;p&gt;The goal of this piece is to offer viewers a glimpse into Leonardo’s mental universe. To do so, I have trained a neural network to ‘dream up’ new notebook illustrations, similar in spirit to those of Leonardo. Viewers can interact with this generative process and explore the underlying cognitive processes that attempt to be a modern version of Leonardo’s Renaissance mind.&lt;/p&gt;
+
+&lt;p&gt;Neural networks imitate the learning process of a human Brian: through a combination of observation and trial and error, pathways in the brain leading to successful behavior are reinforced, whereas pathways leading to failure are inhibited. For understanding  signals as diverse as audio, images, and text, neural networks now offer the most successful means of doing so, in some cases even surpassing human accuracy.&lt;/p&gt;
+
+&lt;p&gt;To compress the slow human learning process into manageable time frames, neural networks are now being trained with huge amounts of data and computing power. For example, Nvidia’s StyleGAN was once trained on 2.8 million cat images with computing power equivalent to the world’s fastest supercomputer running for one hour. My approach has been to train StyleGAN with the 1119 pages contained in the Veneranda Biblioteca Ambrosiana’s Codex Atlanticus. This generative adversarial network then conjures up a new body of da Vinci-inspired illustrations.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/1_hu5b239e176d5de0ff6c0f391463ccce61_3765306_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/2_hub7d8c3e84a3c52b5734c09a37ba85d7c_3055481_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/3.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/3_hub7d8c3e84a3c52b5734c09a37ba85d7c_2929882_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://xr-lab.org/artworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/artworks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/elliot-woods/</link>
+      <atom:link href="https://xr-lab.org/authors/elliot-woods/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/elliot-woods/</link>
+    </image>
+    
+    <item>
+      <title>Light Field Manipulators</title>
+      <link>https://xr-lab.org/project/lightfield-manipulator/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/lightfield-manipulator/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Vu4Bgv0S_Ds&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+This project explores scalable methods for repurposing existing fields of light (e.g. from the sun or conventional electric lights). Using a combination of commodity components, we are creating mechanisms to steer and calibrate arrays of mirrors to synthesise fields of light which can be used for rendering images, redirecting thermal energy, and providing illumination. We intend to research and develop mechanisms at both larger scales (&amp;gt;10m arrays) to micro scale (&amp;lt;wavelength of light).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Edward Swan II | XRL</title>
+    <link>https://xr-lab.org/authors/j-edward-swan-ii/</link>
+      <atom:link href="https://xr-lab.org/authors/j-edward-swan-ii/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Edward Swan II</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>J Edward Swan II</title>
+      <link>https://xr-lab.org/authors/j-edward-swan-ii/</link>
+    </image>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-3-dui-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-3-dui-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-ieeevr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-ieeevr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visually Perceived Distance Judgments: Tablet-Based Augmented Reality versus the Real World</title>
+      <link>https://xr-lab.org/publication/swan-hci-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/swan-hci-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

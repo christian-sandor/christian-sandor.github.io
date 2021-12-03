@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tsuyoshi Kuroki | XRL</title>
+    <link>https://xr-lab.org/authors/tsuyoshi-kuroki/</link>
+      <atom:link href="https://xr-lab.org/authors/tsuyoshi-kuroki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tsuyoshi Kuroki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Tsuyoshi Kuroki</title>
+      <link>https://xr-lab.org/authors/tsuyoshi-kuroki/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Visuo-Haptic Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-prmu-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-prmu-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Processing Method and Apparatus. Japanese patent 2006118446 (Filed 5/2006).</title>
+      <link>https://xr-lab.org/publication/kuroki-2006/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kuroki-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Processing Method and Apparatus. Japanese patent number 2006118446 (Filed 5/2006).</title>
+      <link>https://xr-lab.org/publication/kuroki-patent-06/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kuroki-patent-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Processing Method and Apparatus. Japanese patent application P2007-293412A (Filed 4/2006)</title>
+      <link>https://xr-lab.org/publication/sandor-2006/</link>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information processing method and device for presenting haptics received from a virtual object. Japanese patent 2006117732 (Filed 4/2006). Patent in China, Europe, and US 8,378,997 (Filed 19 April 2007). Available online at google patent search.</title>
+      <link>https://xr-lab.org/publication/sandor-2006-a/</link>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information processing method and device for presenting haptics received from a virtual object. Japanese patent 2006117732 (Filed 4/2006). Patent in China, Europe, and US 8,378,997 (Filed 19 April 2007). Available online at google patent search.</title>
+      <link>https://xr-lab.org/publication/sandor-patent-06/</link>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-patent-06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

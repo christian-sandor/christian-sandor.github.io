@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/post/</link>
+      <atom:link href="https://xr-lab.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/post/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://xr-lab.org/post/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/post/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XRL Open House</title>
+      <link>https://xr-lab.org/post/openhouse/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/post/openhouse/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/wKvcUktWxW8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;On 17th December 2020, we hosted an open house showcasing our research outcome of the year to visitors and guests from SCM, different departments in CityU, and other universities in Hong Kong.&lt;/p&gt;
+
+&lt;p&gt;A list of all demos can be found &lt;a href=&#34;https://xr-lab.org/demo/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh12.JPG&#34; alt=&#34;Dávid Maruscsák shows his demo AURA to Prof. Jeffrey Shaw.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Dávid Maruscsák shows his demo AURA to Prof. Jeffrey Shaw.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh2.JPG&#34; alt=&#34; Alejandro Rodríguez shows his demo Horizon to guests.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt; Alejandro Rodríguez shows his demo Horizon to guests.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh14.JPG&#34; alt=&#34;Xuanyu Wang shows his demo AvatarMeeting.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Xuanyu Wang shows his demo AvatarMeeting.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh16.JPG&#34; alt=&#34;Chang Liu shows her demo Interactive AR Storytelling.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Chang Liu shows her demo Interactive AR Storytelling.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh17.JPG&#34; alt=&#34;Guest investigates Daniel Eckhoff’s demo BurnAR.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Guest investigates Daniel Eckhoff’s demo BurnAR.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh18.JPG&#34; alt=&#34;Guest investigates Ran Ju’s demo No Interaction.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Guest investigates Ran Ju’s demo No Interaction.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh19.JPG&#34; alt=&#34;Pui Chung Wong shows his demo Acoustic Gesture Recognition.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Pui Chung Wong shows his demo Acoustic Gesture Recognition.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh4.JPG&#34; alt=&#34;Alejandro Rodríguez shows his demo Horizon to guests.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Alejandro Rodríguez shows his demo Horizon to guests.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh3.JPG&#34; alt=&#34;Jayson Haebich shows his demo Interactive Minimal latency Laser Graphics to guests.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Jayson Haebich shows his demo Interactive Minimal latency Laser Graphics to guests.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh5.JPG&#34; alt=&#34;Pui Chung Wong shows his demo Acoustic Gesture Recognition.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Pui Chung Wong shows his demo Acoustic Gesture Recognition.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh7.JPG&#34; alt=&#34;Wanghin Hui shows his demo Spiritual World to guests.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Wanghin Hui shows his demo Spiritual World to guests.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh8.JPG&#34; alt=&#34;Dr. Alvaro Cassinelli explains the details of demo Veterinary Healthcare Training with AR to Vice-President Prof. Mengsu Yang.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Dr. Alvaro Cassinelli explains the details of demo Veterinary Healthcare Training with AR to Vice-President Prof. Mengsu Yang.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh9.JPG&#34; alt=&#34;Fonny Phan shows her demo Veterinary Healthcare Training with AR.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Fonny Phan shows her demo Veterinary Healthcare Training with AR.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh10.JPG&#34; alt=&#34;Dr. Christian Sandor explains the details of demo AvatarMeeting to Vice-President Prof. Mengsu Yang.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;Dr. Christian Sandor explains the details of demo AvatarMeeting to Vice-President Prof. Mengsu Yang.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh11.JPG&#34; alt=&#34; Qiaochu Wang shows his demo Veterinary Healthcare Training with AR to Prof. Nikolaus Osterrieder, the Dean of Jockey Club College of Veterinary Medicine and Life Sciences (JCC).&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt; Qiaochu Wang shows his demo Veterinary Healthcare Training with AR to Prof. Nikolaus Osterrieder, the Dean of Jockey Club College of Veterinary Medicine and Life Sciences (JCC).&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/img/news/openhouse/oh13.JPG&#34; alt=&#34; Prof. Robert Ransom (Head, Department of Neuroscience) investigates Chang Liu’s demo Interactive AR Storytelling.&#34;/&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt; Prof. Robert Ransom (Head, Department of Neuroscience) investigates Chang Liu’s demo Interactive AR Storytelling.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

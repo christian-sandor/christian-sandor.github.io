@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miyashita Leo | XRL</title>
+    <link>https://xr-lab.org/authors/miyashita-leo/</link>
+      <atom:link href="https://xr-lab.org/authors/miyashita-leo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miyashita Leo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Miyashita Leo</title>
+      <link>https://xr-lab.org/authors/miyashita-leo/</link>
+    </image>
+    
+    <item>
+      <title>The Mouse Chair --- a restless-interface</title>
+      <link>https://xr-lab.org/publication/leo-mouse-nodate/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/leo-mouse-nodate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

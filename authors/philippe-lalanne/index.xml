@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippe Lalanne | XRL</title>
+    <link>https://xr-lab.org/authors/philippe-lalanne/</link>
+      <atom:link href="https://xr-lab.org/authors/philippe-lalanne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philippe Lalanne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Philippe Lalanne</title>
+      <link>https://xr-lab.org/authors/philippe-lalanne/</link>
+    </image>
+    
+    <item>
+      <title>Demonstration of video-rate optoelectronic parallel processors for noise cleaning in binary images by simulated annealing</title>
+      <link>https://xr-lab.org/publication/cassinelli-demonstration-1998/</link>
+      <pubDate>Fri, 01 May 1998 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-demonstration-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video-Rate Optoelectronic Parallel Processors for Image Processing using Simulated Annealing</title>
+      <link>https://xr-lab.org/publication/cassinelli-video-rate-1998/</link>
+      <pubDate>Fri, 01 May 1998 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-video-rate-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

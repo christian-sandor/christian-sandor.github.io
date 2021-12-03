@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenneth R Moser | XRL</title>
+    <link>https://xr-lab.org/authors/kenneth-r-moser/</link>
+      <atom:link href="https://xr-lab.org/authors/kenneth-r-moser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kenneth R Moser</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Kenneth R Moser</title>
+      <link>https://xr-lab.org/authors/kenneth-r-moser/</link>
+    </image>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-3-dui-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-3-dui-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-ieeevr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-ieeevr-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

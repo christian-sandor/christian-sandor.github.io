@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charleston/Create Space | XRL</title>
+    <link>https://xr-lab.org/authors/charleston/create-space/</link>
+      <atom:link href="https://xr-lab.org/authors/charleston/create-space/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charleston/Create Space</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Charleston/Create Space</title>
+      <link>https://xr-lab.org/authors/charleston/create-space/</link>
+    </image>
+    
+    <item>
+      <title>EARLIDS &amp; Entacoustic performance &amp; To Blink or Not To Blink</title>
+      <link>https://xr-lab.org/publication/alvaro-earlids-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-earlids-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

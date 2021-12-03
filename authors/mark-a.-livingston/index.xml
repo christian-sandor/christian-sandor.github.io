@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark A. Livingston | XRL</title>
+    <link>https://xr-lab.org/authors/mark-a.-livingston/</link>
+      <atom:link href="https://xr-lab.org/authors/mark-a.-livingston/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark A. Livingston</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Mark A. Livingston</title>
+      <link>https://xr-lab.org/authors/mark-a.-livingston/</link>
+    </image>
+    
+    <item>
+      <title>Pursuit of X-ray Vision for Augmented Reality</title>
+      <link>https://xr-lab.org/publication/livingston-12-hfar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/livingston-12-hfar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph J. Park | XRL</title>
+    <link>https://xr-lab.org/authors/joseph-j.-park/</link>
+      <atom:link href="https://xr-lab.org/authors/joseph-j.-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseph J. Park</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Joseph J. Park</title>
+      <link>https://xr-lab.org/authors/joseph-j.-park/</link>
+    </image>
+    
+    <item>
+      <title>PTAMM-Plus: Refactoring and Extending PTAMM</title>
+      <link>https://xr-lab.org/publication/nguyen-10-icat/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/nguyen-10-icat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

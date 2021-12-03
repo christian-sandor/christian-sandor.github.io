@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/peter-chanthanakone/</link>
+      <atom:link href="https://xr-lab.org/authors/peter-chanthanakone/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/peter-chanthanakone/</link>
+    </image>
+    
+    <item>
+      <title>Augmented Reality and Animation in Thailand Context</title>
+      <link>https://xr-lab.org/publication/chanthanakone-cmap-18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/chanthanakone-cmap-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

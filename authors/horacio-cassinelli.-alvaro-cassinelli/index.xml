@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horacio Cassinelli. Alvaro Cassinelli | XRL</title>
+    <link>https://xr-lab.org/authors/horacio-cassinelli.-alvaro-cassinelli/</link>
+      <atom:link href="https://xr-lab.org/authors/horacio-cassinelli.-alvaro-cassinelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Horacio Cassinelli. Alvaro Cassinelli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Horacio Cassinelli. Alvaro Cassinelli</title>
+      <link>https://xr-lab.org/authors/horacio-cassinelli.-alvaro-cassinelli/</link>
+    </image>
+    
+    <item>
+      <title>ARCHEOptiques</title>
+      <link>https://xr-lab.org/publication/alvaro-archeop-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-archeop-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybernetic RattenKonig</title>
+      <link>https://xr-lab.org/publication/alvaro-cybernetic-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-cybernetic-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

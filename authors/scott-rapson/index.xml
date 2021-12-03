@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Rapson | XRL</title>
+    <link>https://xr-lab.org/authors/scott-rapson/</link>
+      <atom:link href="https://xr-lab.org/authors/scott-rapson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott Rapson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Scott Rapson</title>
+      <link>https://xr-lab.org/authors/scott-rapson/</link>
+    </image>
+    
+    <item>
+      <title>Visually Perceived Distance Judgments: Tablet-Based Augmented Reality versus the Real World</title>
+      <link>https://xr-lab.org/publication/swan-hci-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/swan-hci-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth Perception in Tablet-Based Augmented Reality at Medium- and Far-Field Distances</title>
+      <link>https://xr-lab.org/publication/kuparinen-sap-13/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kuparinen-sap-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

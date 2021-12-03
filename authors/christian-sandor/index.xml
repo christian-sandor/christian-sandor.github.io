@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/christian-sandor/</link>
+      <atom:link href="https://xr-lab.org/authors/christian-sandor/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/christian-sandor/</link>
+    </image>
+    
+    <item>
+      <title>HORIZON</title>
+      <link>https://xr-lab.org/project/horizon/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/horizon/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/L328rF1m_qY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;HORIZON is an interactive audiovisual piece created for the 360 stereoscopic panorama Gallery in the school of creative media in CityU. The piece explores the relationship between space and horizon while experimenting with visual and spatial codes and illusions that tap into the sensory perception of horizontality and motion.  The fact that the visual and the balance system in human perception are interrelated and are prone to illusions open the door to the search for new interesting effects. The work intends to tap into phenomena like fake horizon illusion, Autokenesis and other effects related to sensorimotor feedback loops, exploiting these effects to find new narrative codes within this unexplored big format. The goal was to create an immersive real-time experience, building tools and workflows to produce high-end cinematic computer graphics that were edited and modified live with a certain degree of interactivity while developing workflows to render the content using cutting edge real-time distributed rendering systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classifying Cycling Hazards in Egocentric Data</title>
+      <link>https://xr-lab.org/publication/haebich-2021-classifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/haebich-2021-classifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychophysical Effects of Experiencing Burning Hands in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eckhoff_eurovr_20/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff_eurovr_20/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Can interactive Augmented Reality (AR) experiences induce involuntary sensations through additional modalities? In this paper we report on our AR experience that enables users to see and hear their own hands burning while looking through a Video See-Through Head-Mounted Display (VST-HMD). In an exploratory study (n=12, within-subject design), we investigated whether this will lead to an involuntary heat sensation based on visual and auditory stimuli. A think-aloud-protocol and an AR presence questionnaire indicated that six out of twelve participants experienced an involuntary heat sensation on their hands.
+Despite no significant change of perceived anxiety, we found a significant increase in skin conductance during the experiment for all participants; participants who reported an involuntary heat sensation had higher skin conductance responses than participants who did not report a heat sensation. Our results support our initial hypothesis as we found evidence of cross-modal audiovisual-to-thermal transfers. This is an example of virtual synaesthesia, a sensation occurring when single-modal (or multi-modal) stimulus sets off the simultaneous sensation over other senses&amp;mdash;involuntarily and automatically. We believe that our results contribute to the scientific understanding of AR induced synaesthesia as well as inform practical applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Illusory light: Perceptual appearance control using a projection-induced illusion</title>
+      <link>https://xr-lab.org/publication/akiyama-illusory-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-illusory-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AURA</title>
+      <link>https://xr-lab.org/project/aura/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/aura/</guid>
+      <description>&lt;p&gt;AURA is an interactive installation designed for the 360° projection theatre immersive system. Besides the circular projection wall, this project utilizes two TV screen through which the users can interact with the projected image. The first TV screen works as an AR mirror. It augments metallic surface onto the viewers’ body. The metallic material reflects the environment. While the user is standing in front of the AR mirror the system saves a still 3D mesh of its body. The captured then gets projected onto the second TV screen. On the middle of this screen, the user can find an attached knob and after rotating it the mesh colour is changed. When the users pick their colour the mesh appears on the wall. Every time a new user goes through this interaction process, its body will be projected onto the wall and a gradually growing timeline of the user&amp;rsquo;s body is going to be created. After the user detaches the knob from the TV screen the knob allows him to control the projected image. The knob’s rotation rotates the timeline of the bodies along a spiralling spline. The viewer can scroll forward or backwards and explore the people who previously occupied the space&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classifying Cycling Hazards in Egocentric Data</title>
+      <link>https://xr-lab.org/project/cycling/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/cycling/</guid>
+      <description>&lt;p&gt;Since cyclists are highly sensitive to road surface conditions and hazards they require more detailed information when navigating their route. To facilitate a better understanding of what causes hazardous conditions to cyclists we created a dataset of classified hazardous cycling conditions. Egocentric cycling footage and IMU data was collected in Hong Kong and Australia on various types of cycling infrastructure using sensors attached to the cyclist. By collecting both video and IMU data we were able to identify moments where the cyclist was experiencing sudden braking or uncomfortable cycling conditions as indicated by the IMU. We then extracted videos from these moments and classified them using Amazon Mechanical Turk.&lt;/p&gt;
+
+&lt;p&gt;This project was sponsored by Amazon and was created for the  EPIC @ CVPR 2020 Dataset challenge. This data is publicly available at the link below for anyone to use or modify under the Creative Commons Attribution 4.0 International License.&lt;/p&gt;
+
+&lt;p&gt;This dataset can be downloaded from the following link:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1htHvoTT7OHlfCrQsivGa3W6aRV38BTHw&#34; target=&#34;_blank&#34;&gt;Dataset&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When using this data set please cite the following paper:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xr-lab.org/publication/haebich-2021-classifying/&#34; target=&#34;_blank&#34;&gt;Classifying Cycling Hazards in Egocentric Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Context-Based 3D Haptic Grid</title>
+      <link>https://xr-lab.org/project/haptic-grid/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/haptic-grid/</guid>
+      <description>&lt;p&gt;The Context-Based 3D Haptic Grid extends the visual and haptic feedback of the real-world to help users do precise mid-air 3D manipulations. Our system creates 3D grids that surround each object (virtual and real) in the scene to help users see the object&amp;rsquo;s transformation. It also provides haptic feedback to helps users do precise manipulations without constraining their actions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Light Field Manipulators</title>
+      <link>https://xr-lab.org/project/lightfield-manipulator/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/lightfield-manipulator/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Vu4Bgv0S_Ds&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+This project explores scalable methods for repurposing existing fields of light (e.g. from the sun or conventional electric lights). Using a combination of commodity components, we are creating mechanisms to steer and calibrate arrays of mirrors to synthesise fields of light which can be used for rendering images, redirecting thermal energy, and providing illumination. We intend to research and develop mechanisms at both larger scales (&amp;gt;10m arrays) to micro scale (&amp;lt;wavelength of light).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Minimal Latency Laser Graphics Pipeline</title>
+      <link>https://xr-lab.org/publication/haebich-sa-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/haebich-sa-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo da Vinci&#39;s Dreams</title>
+      <link>https://xr-lab.org/artwork/davincisdreams/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/artwork/davincisdreams/</guid>
+      <description>&lt;p&gt;Dreams are mainly driven by intuition, as the prefrontal cortex, responsible for planning and logic, exhibits decreased activity while dreaming. Therefore, seeing a person’s dreams would be the most direct path to understanding their intuitive cognitive processes.&lt;/p&gt;
+
+&lt;p&gt;The goal of this piece is to offer viewers a glimpse into Leonardo’s mental universe. To do so, I have trained a neural network to ‘dream up’ new notebook illustrations, similar in spirit to those of Leonardo. Viewers can interact with this generative process and explore the underlying cognitive processes that attempt to be a modern version of Leonardo’s Renaissance mind.&lt;/p&gt;
+
+&lt;p&gt;Neural networks imitate the learning process of a human Brian: through a combination of observation and trial and error, pathways in the brain leading to successful behavior are reinforced, whereas pathways leading to failure are inhibited. For understanding  signals as diverse as audio, images, and text, neural networks now offer the most successful means of doing so, in some cases even surpassing human accuracy.&lt;/p&gt;
+
+&lt;p&gt;To compress the slow human learning process into manageable time frames, neural networks are now being trained with huge amounts of data and computing power. For example, Nvidia’s StyleGAN was once trained on 2.8 million cat images with computing power equivalent to the world’s fastest supercomputer running for one hour. My approach has been to train StyleGAN with the 1119 pages contained in the Veneranda Biblioteca Ambrosiana’s Codex Atlanticus. This generative adversarial network then conjures up a new body of da Vinci-inspired illustrations.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/1_hu5b239e176d5de0ff6c0f391463ccce61_3765306_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/2_hub7d8c3e84a3c52b5734c09a37ba85d7c_3055481_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/3.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://xr-lab.org/artwork/davincisdreams/gallery/3_hub7d8c3e84a3c52b5734c09a37ba85d7c_2929882_0x190_resize_q80_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards large scale high fidelity collaborative augmented reality</title>
+      <link>https://xr-lab.org/publication/rompapas-towards-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-towards-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Reflectance Estimation for Projection-Based Appearance Control in a Dynamic Light Environment</title>
+      <link>https://xr-lab.org/publication/akiyama-robust-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-robust-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Perceptual and Cognitive Effects of Extreme Augmented Reality Experiences</title>
+      <link>https://xr-lab.org/publication/eckhoff_ismar_19/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff_ismar_19/</guid>
+      <description>
+
+&lt;p&gt;We will investigate perceptual and cognitive responses of users of several extreme Augmented Reality experiences on an Optical See-Through Head-Mounted Display (a). They will see their hands: on fire (b), being covered by dirt &amp;copy;, affected by arthritis (d), a wound (e), and applied with virtual bandage.&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;In this proposed Ph.D. research, we are aiming to create several extreme Augmented Reality (AR) that evoke measurable physiological and neurological responses in the human brain.&lt;/p&gt;
+
+&lt;p&gt;These experiments will run on a platform capable of tracking the user’s body and recreating a volumetric representations of it. On a Head-Mounted Display, we will overlay real-time photo-realistic stereoscopic graphics on the user’s body.&lt;/p&gt;
+
+&lt;p&gt;To investigate our hypotheses, we will build a set of systems each capable of measuring various biomarkers, including cardiac biomarkers, skin conductance, muscle tension, electroencephalogram (EEG) and hormone levels. Additionally, we will use questionnaires and think aloud protocols.&lt;/p&gt;
+
+&lt;p&gt;This research allows insights into the perceptual and cognitive effects unique to AR experiences that can’t be reproduced in VR. These insights are from a highly significant clinical interest in psychology, possibly capable of creating new non-invasive ways of treating or accelerating the therapy of many diseases; e.g., mental disorders such as phobias or Obsessive-Compulsive disorder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integration of Augmented Reality with Pressing Evaluation and Training System for Finger Force Training</title>
+      <link>https://xr-lab.org/publication/ty-integration-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ty-integration-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Positioning Method for Berthing Support Using Fusion of Tightly Coupled GNSS Carrier Phase with IMU and Visual Odometry.</title>
+      <link>https://xr-lab.org/publication/nakamura-robust-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/nakamura-robust-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Missing Interface: Micro-Gestures on Augmented Objects</title>
+      <link>https://xr-lab.org/publication/copic-pucihar-missing-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/copic-pucihar-missing-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Appearance Control by Projection-Induced Illusion</title>
+      <link>https://xr-lab.org/publication/akiyama-perceptual-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-perceptual-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TutAR: Augmented Reality Tutorials for Hands-Only Procedures</title>
+      <link>https://xr-lab.org/publication/eckhoff-vrcai-18/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff-vrcai-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] HoloRoyale: A Large Scale High Fidelity Augmented Reality Game</title>
+      <link>https://xr-lab.org/publication/rompapas-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] HoloRoyale: A Large Scale High Fidelity Augmented Reality Game</title>
+      <link>https://xr-lab.org/publication/rompapas-ismar-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-ismar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] SoliScratch: A Radar Interface for Scratch DJs</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] TutAR: Semi-Automatic Generation of Augmented Reality Tutorials for Medical Education</title>
+      <link>https://xr-lab.org/publication/eckhoff-ismar-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff-ismar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Over My Hand: Using a Personalized Hand in VR to Improve Object Size Estimation, Body Ownership, and Presence</title>
+      <link>https://xr-lab.org/publication/jung-sui-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/jung-sui-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>色恒常性を利用したプロジェクタの色域の知覚的拡張</title>
+      <link>https://xr-lab.org/publication/akiyama-miru-18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-miru-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AR-PETS: Development of an Augmented Reality Supported Pressing Evaluation Training System</title>
+      <link>https://xr-lab.org/publication/plopski-itap-18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/plopski-itap-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality and Animation in Thailand Context</title>
+      <link>https://xr-lab.org/publication/chanthanakone-cmap-18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/chanthanakone-cmap-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handheld Guides in Inspection Tasks: Augmented Reality vs. Picture</title>
+      <link>https://xr-lab.org/publication/polvi-vcg-17/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-vcg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient In-Situ Creation of Augmented Reality Tutorials</title>
+      <link>https://xr-lab.org/publication/plopski-mfi-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/plopski-mfi-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Fence Obstacle Removal for Images with Color Consistency</title>
+      <link>https://xr-lab.org/publication/matsui-apmar-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/matsui-apmar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrightView: Increasing Perceived Brightness of Optical See-Through Head-Mounted Displays through Unnoticeable Incident Light Reduction</title>
+      <link>https://xr-lab.org/publication/mori-2018-vr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/mori-2018-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Projection-Induced Illusion for Controlling Object Color</title>
+      <link>https://xr-lab.org/publication/akiyama-vr-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-vr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Situated Game Level Editing in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/ng-tei-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ng-tei-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Situated Knee Trajectory Visualization for Self Analysis in Cycling</title>
+      <link>https://xr-lab.org/publication/kaplan-ieeevr-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-ieeevr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferability of Spatial Maps: Augmented Versus Virtual Reality Training</title>
+      <link>https://xr-lab.org/publication/caluya-2018-vr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/caluya-2018-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Preference for SharpView-Enhanced Virtual Text during Non-Fixated Viewing</title>
+      <link>https://xr-lab.org/publication/cook-2018-vr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cook-2018-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality versus Virtual Reality for 3D Object Manipulation</title>
+      <link>https://xr-lab.org/publication/krichenbauer-tvcg-17/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-tvcg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Augmented Reality – Augmenting Auditory-Tactile Feedback to Change the Perception of Thickness</title>
+      <link>https://xr-lab.org/publication/lugtenberg-2018-mmm/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lugtenberg-2018-mmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Preliminary Study on the Effects of Virtual and Augmented Reality on the Psychological Response of Users when Hurting Avatars Depicting Friends and Strangers</title>
+      <link>https://xr-lab.org/publication/ty-sigmr-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/ty-sigmr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusion of VSLAM/GNSS/INS for Augmented Reality Navigation in Ports</title>
+      <link>https://xr-lab.org/publication/nakamura-gnss-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/nakamura-gnss-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote Talk</title>
+      <link>https://xr-lab.org/publication/sandor-vric-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-vric-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the ACM Symposium on Spatial User Interaction</title>
+      <link>https://xr-lab.org/publication/sandor-sui-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-sui-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoting Short-Term Gains in Physical Exercise Through Digital Media Creation</title>
+      <link>https://xr-lab.org/publication/kaplan-ace-17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-ace-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Ground Reaction Force Visualization onto Training Video for Sprint Training Support System</title>
+      <link>https://xr-lab.org/publication/taketomi-icat-17/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/taketomi-icat-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Face Swapping Technology Facilitate Mental Imagery Training?</title>
+      <link>https://xr-lab.org/publication/matsumura-icat-17/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/matsumura-icat-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RealME: The Influence of Body and Hand Representations on Body Ownership and Presence</title>
+      <link>https://xr-lab.org/publication/jung-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/jung-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>知覚量に基づく光投影による色制御実現に向けた色知覚モデルの検討</title>
+      <link>https://xr-lab.org/publication/akiyama-sigmr-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-sigmr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>運動学習のための顔交換技術の初期検討</title>
+      <link>https://xr-lab.org/publication/matsumura-sigmr-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/matsumura-sigmr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER] BrightView: Increasing Perceived Brightness in Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-17-2/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-17-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Study of Non-Reversing Magic Mirrors for Augmented Reality Anatomy Learning</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Depth Restoration via Regularization in Curvelet Domain</title>
+      <link>https://xr-lab.org/publication/zhang-apmar-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zhang-apmar-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of IoT and Augmented Reality Combination</title>
+      <link>https://xr-lab.org/publication/akiyama-apmar-17/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-apmar-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effect of Positional Head-Tracking on Task Performance in 3D Modeling User Interfaces</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ccg-17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ccg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Assistive Tabletop Projector-Camera System for the Elderly with Cognitive and Motor Skill Impairments</title>
+      <link>https://xr-lab.org/publication/hyry-itemta-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hyry-itemta-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EyeAR: Refocusable Augmented Reality Content through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-2017-mdpi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-2017-mdpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imperceptible On-Screen Markers for Mobile Interaction on Public Large Displays</title>
+      <link>https://xr-lab.org/publication/yamamoto-2017-ieice/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2017-ieice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the ACM Symposium on Spatial User Interaction</title>
+      <link>https://xr-lab.org/publication/sandor-sui-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-sui-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Poster]Video Guides on Head-Mounted Displays: The Effect of Misalignments on Manual Task Performance</title>
+      <link>https://xr-lab.org/publication/pathirathna-icart-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/pathirathna-icart-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>短距離走トレーニングのための三次元床反力の提示方法の検討</title>
+      <link>https://xr-lab.org/publication/taketomi-kjsg-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/taketomi-kjsg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>退屈な筋力トレーニング法からの脱却の提案: 持続率と生体機能の更なる向上を目指して</title>
+      <link>https://xr-lab.org/publication/kaplan-kjsg-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-kjsg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Contents Arrangement in Handheld Augmented Reality Application Based on Gravity Vector</title>
+      <link>https://xr-lab.org/publication/taketomi-iwmari-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/taketomi-iwmari-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye-Gaze Tracking in Near-Eye Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/plopskiismar/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/plopskiismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The COMPASS Framework for Digital Entertainment: Discussing Augmented Reality Activities for Scouts</title>
+      <link>https://xr-lab.org/publication/santos-icacet-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icacet-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Situ Visualization of Pedaling Forces on Cycling Training Videos</title>
+      <link>https://xr-lab.org/publication/kaplan-smc-16/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-smc-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] EyeAR: Refocusable Augmented Reality Content through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positional Head-Tracking in Immersive VR for 3D Designers</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EyeAR: Empiric Evaluation of a Refocusable Augmented Reality System</title>
+      <link>https://xr-lab.org/publication/rovira-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rovira-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Visuo-Haptic Augmented Reality User Interfaces for Stereo- Tactic Neurosurgery Planning</title>
+      <link>https://xr-lab.org/publication/eck-miar-16/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-miar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Assistance for Elderly to Find Hidden Objects in a Kitchen</title>
+      <link>https://xr-lab.org/publication/asghar-iotcare-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/asghar-iotcare-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Oriented Light Estimation for Outdoor Mobile Augmented Reality</title>
+      <link>https://xr-lab.org/publication/lubke-apmr-16/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lubke-apmr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Nutritional Information and Proposal of Active Planning Support Method for Diet Therapy</title>
+      <link>https://xr-lab.org/publication/kojima-mve-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kojima-mve-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appearance Control in Dynamic Light Environments with a Projector-Camera System</title>
+      <link>https://xr-lab.org/publication/akiyama-ieeevr-16-ws/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-ieeevr-16-ws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Perception of Co-Location Errors during Tool Interaction in Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-icvr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-icvr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-3-dui-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-3-dui-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Clarity of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-ieeevr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-ieeevr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Usability Analytics and Beyond with Human-Centered Data Science</title>
+      <link>https://xr-lab.org/publication/santos-cscw-16/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-cscw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality as Multimedia: the Case for Situated Vocabulary Learning</title>
+      <link>https://xr-lab.org/publication/santos-rptel-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-rptel-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing Perception of Physical Properties Using Multimodal Augmented Reality: Position Paper</title>
+      <link>https://xr-lab.org/publication/lugtenberg-mvar-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/lugtenberg-mvar-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-pattern Indicating Interface for Ambient Assisted Living</title>
+      <link>https://xr-lab.org/publication/yamamoto-nsp-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-nsp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-frame Delayを考慮したローリングシャッターカメラのトラッキング手法の検討</title>
+      <link>https://xr-lab.org/publication/seto-sigmr-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/seto-sigmr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote Talk</title>
+      <link>https://xr-lab.org/publication/sandor-apwmr-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-apwmr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the ACM Symposium on Spatial User Interaction</title>
+      <link>https://xr-lab.org/publication/sandor-sui-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-sui-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visually Perceived Distance Judgments: Tablet-Based Augmented Reality versus the Real World</title>
+      <link>https://xr-lab.org/publication/swan-hci-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/swan-hci-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking the Barriers to True Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-breaking-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-breaking-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise Haptic Device Co-Location for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-vcg-15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-vcg-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SlidAR: A 3D Positioning Method for SLAM-based Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/polvi-cag-15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-cag-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Guidelines for Designing Handheld Augmented Reality in Learning Support</title>
+      <link>https://xr-lab.org/publication/santos-icce-15/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] EyeAR: Physically-Based Depth of Field through Eye Measurements</title>
+      <link>https://xr-lab.org/publication/rompapas-demo-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-demo-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] SharpView: Improved Legibility of Defocussed Content on Optical See-Through Head-Mounted Displays</title>
+      <link>https://xr-lab.org/publication/oshima-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/oshima-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] SlidAR: A 3D Positioning Technique for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/polvi-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Doctoral Consortium] User Study on Augmented Reality User Interfaces for 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER] Towards Estimating Usability Ratings of Handheld Augmented Reality Using Accelerometer Data</title>
+      <link>https://xr-lab.org/publication/santos-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Legibility of Augmented Reality X-Ray</title>
+      <link>https://xr-lab.org/publication/santos-mta-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-mta-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自然特徴点に基づく拘束を付加したDTAMによる三次元形状復元精度の定量評価</title>
+      <link>https://xr-lab.org/publication/sakai-sigmr-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sakai-sigmr-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Standard Usability Questionnaires for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/santos-cga-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-cga-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Learning Support System using Camera Tracking for High School Physics Experiments</title>
+      <link>https://xr-lab.org/publication/shalika-ec-36/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/shalika-ec-36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User Interface Design for the Elderly using a Projection Tabletop System</title>
+      <link>https://xr-lab.org/publication/yamamoto-2015-vaat/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2015-vaat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subjective Evaluation of a Semi-Automatic Optical See-Through Head-Mounted Display Calibration Technique</title>
+      <link>https://xr-lab.org/publication/kenny-ieeevr-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kenny-ieeevr-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[POSTER]Exploiting Depth Information from Tracked Feature Points in Dense Reconstruction for Monocular Cameras</title>
+      <link>https://xr-lab.org/publication/zhang-sigmr-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/zhang-sigmr-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Imperceptible On-Screen Markers with Unsynchronized Cameras</title>
+      <link>https://xr-lab.org/publication/sampaio-sigmr-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sampaio-sigmr-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the IEEE International Symposium on Mixed and Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Dynamic Augmented Reality X-Ray on Google Glass</title>
+      <link>https://xr-lab.org/publication/rompapas-siggraphasia-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/rompapas-siggraphasia-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoring Augmented Reality as Situated Multimedia</title>
+      <link>https://xr-lab.org/publication/santos-icce-14-b/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-14-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Augmented Reality for Situated Vocabulary Learning</title>
+      <link>https://xr-lab.org/publication/santos-icce-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-icce-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Usability Scale for Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/santos-vrst-14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/santos-vrst-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Comprehensive Workspace Calibration for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-ismar/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Towards Augmented Reality User Interfaces in 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-14-b/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-14-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Workspace Calibration for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating a SLAM-based Handheld Augmented Reality Guidance System</title>
+      <link>https://xr-lab.org/publication/polvi-sui-14/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-sui-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-pattern Indicating Interface for Ambient Assisted Living</title>
+      <link>https://xr-lab.org/publication/yamamoto-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Use of Handheld Augmented Reality Authoring and Guidance in Unknown Environments</title>
+      <link>https://xr-lab.org/publication/polvi-kjmr-14/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/polvi-kjmr-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Illumination for Augmented Reality on Mobile Phones</title>
+      <link>https://xr-lab.org/publication/csongei-ieeevr-14/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/csongei-ieeevr-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Research Awards Winter 2014</title>
+      <link>https://xr-lab.org/publication/sandor-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Towards Augmented Reality User Interfaces in 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons learned: Evaluating visualizations for occluded objects in handheld augmented reality</title>
+      <link>https://xr-lab.org/publication/dey-ijhcs-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dey-ijhcs-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the IEEE International Symposium on Mixed and Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Augmented Reality User Interfaces in 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinect for Interactive AR Anatomy Learning</title>
+      <link>https://xr-lab.org/publication/meng-ismar-13/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/meng-ismar-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth Perception in Tablet-Based Augmented Reality at Medium- and Far-Field Distances</title>
+      <link>https://xr-lab.org/publication/kuparinen-sap-13/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kuparinen-sap-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BurnAR: Involuntary Heat Sensations in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/weir-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/weir-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HARP: A Framework for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-ieeevr-13/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-ieeevr-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pursuit of X-ray Vision for Augmented Reality</title>
+      <link>https://xr-lab.org/publication/livingston-12-hfar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/livingston-12-hfar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BurnAR: Feel the Heat</title>
+      <link>https://xr-lab.org/publication/weir-12-ismar/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/weir-12-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClonAR: Rapid Redesign of Real-World Objects</title>
+      <link>https://xr-lab.org/publication/csongei-12-ismar/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/csongei-12-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tablet versus Phone: Depth Perception in Handheld Augmented Reality</title>
+      <link>https://xr-lab.org/publication/dey-12-ismar/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dey-12-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empiric Evaluation of Confirmation Methods for Optical See-Through Head-Mounted Display Calibration</title>
+      <link>https://xr-lab.org/publication/maier-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/maier-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Eye Convergence for Head-mounted Displays Improves User Performance in Virtual Environments</title>
+      <link>https://xr-lab.org/publication/sherstyuk-12-i-3-d/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sherstyuk-12-i-3-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head-turning Approach to Eye-tracking in Immersive Virtual Environments</title>
+      <link>https://xr-lab.org/publication/sherstyuk-12-vr/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sherstyuk-12-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote Talk</title>
+      <link>https://xr-lab.org/publication/yamamoto-ismar-15/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evaluation of Augmented Reality X-Ray Vision for Outdoor Navigation</title>
+      <link>https://xr-lab.org/publication/dey-11-icat/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dey-11-icat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empiric Evaluation of Confirmation Methods for Optical See-Through Head-Mounted Display Calibration</title>
+      <link>https://xr-lab.org/publication/maier-ismar-11/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/maier-ismar-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Semiotic Analysis of the Design Space of Augmented Reality</title>
+      <link>https://xr-lab.org/publication/cameron-ismar-11/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cameron-ismar-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality Visualization Techniques</title>
+      <link>https://xr-lab.org/publication/kalkofen-2011-book/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kalkofen-2011-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BurnAR: Feel the Heat</title>
+      <link>https://xr-lab.org/publication/sandor-2011-ismar/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2011-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTAMM-Plus: Refactoring and Extending PTAMM</title>
+      <link>https://xr-lab.org/publication/nguyen-10-icat/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/nguyen-10-icat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Depth Perception of Photorealistic Mixed Reality Visualizations for Occluded Objects in Outdoor Environments</title>
+      <link>https://xr-lab.org/publication/dey-10-vrst/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dey-10-vrst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Augmented Reality X-Ray System Based on Visual Saliency</title>
+      <link>https://xr-lab.org/publication/sandor-10-ismar/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-10-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and Apparatus for an Augmented Reality X-Ray. US Patent application 12/785,170 (Filed 21 May 2010). Available online at google patent search.</title>
+      <link>https://xr-lab.org/publication/sandor-patent-09/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-patent-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Space-Distorting Visualizations for Rapid Environment Exploration in Mobile Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TINT: Towards a Pure Python Augmented Reality Framework</title>
+      <link>https://xr-lab.org/publication/eck-searis-10/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-searis-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Space-Distorting Visualizations for Rapid Environment Exploration in Mobile Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-09/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical-Virtual Tools for Spatial Augmented Reality User Interfaces</title>
+      <link>https://xr-lab.org/publication/marner-ismar-09/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/marner-ismar-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Wearable Augmented Reality Can Do for You</title>
+      <link>https://xr-lab.org/publication/4814931/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/4814931/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Spatial Perception for Augmented Reality X-Ray Vision</title>
+      <link>https://xr-lab.org/publication/avery-ieeevr-09/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/avery-ieeevr-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating the Mass-Adoption of Augmented Reality through High-Fidelity Prototyping</title>
+      <link>https://xr-lab.org/publication/sandor-iwuvr-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-iwuvr-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the Fifth International Conference on Collaboration Technologies</title>
+      <link>https://xr-lab.org/publication/sandor-collabtech-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-collabtech-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rundle Lantern in Miniature: Simulating Large Scale Non-Planar Displays</title>
+      <link>https://xr-lab.org/publication/porter-rundle-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/porter-rundle-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Augmented Reality In-Situ Menu for Selecting 3D Models</title>
+      <link>https://xr-lab.org/publication/hoang-08-ismar/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hoang-08-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Augmented Reality Weather System</title>
+      <link>https://xr-lab.org/publication/heinrich-ace-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/heinrich-ace-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>See-Through Vision for Mobile Outdoor Augmented Reality</title>
+      <link>https://xr-lab.org/publication/avery-2008-ismar/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/avery-2008-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Processing Method and Apparatus for Specifying Point in Three-Dimensional Space. Japanese patent 2007139373 (Filed 5/2007). US patent application 12/125,773 (Filed 22 May 2008). Available online at google patent search.</title>
+      <link>https://xr-lab.org/publication/sandor-patent-07/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-patent-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Visuo-Haptic Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-prmu-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-prmu-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visuo-Haptic Systems: Half-Mirrors Considered Harmful</title>
+      <link>https://xr-lab.org/publication/sandor-2007-b/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2007-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Processing Method and Apparatus. Japanese patent 2006118446 (Filed 5/2006).</title>
+      <link>https://xr-lab.org/publication/kuroki-2006/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kuroki-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Processing Method and Apparatus. Japanese patent number 2006118446 (Filed 5/2006).</title>
+      <link>https://xr-lab.org/publication/kuroki-patent-06/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kuroki-patent-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Processing Method and Apparatus. Japanese patent application P2007-293412A (Filed 4/2006)</title>
+      <link>https://xr-lab.org/publication/sandor-2006/</link>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information processing method and device for presenting haptics received from a virtual object. Japanese patent 2006117732 (Filed 4/2006). Patent in China, Europe, and US 8,378,997 (Filed 19 April 2007). Available online at google patent search.</title>
+      <link>https://xr-lab.org/publication/sandor-2006-a/</link>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information processing method and device for presenting haptics received from a virtual object. Japanese patent 2006117732 (Filed 4/2006). Patent in China, Europe, and US 8,378,997 (Filed 19 April 2007). Available online at google patent search.</title>
+      <link>https://xr-lab.org/publication/sandor-patent-06/</link>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-patent-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive prototyping for ubiquitous augmented reality user interfaces</title>
+      <link>https://xr-lab.org/publication/hilliges-iui-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hilliges-iui-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons Learned in Designing Ubiquitous Augmented Reality User Interfaces</title>
+      <link>https://xr-lab.org/publication/sandor-2006-uibook/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2006-uibook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersive Mixed-Reality Configuration of Hybrid User Interfaces</title>
+      <link>https://xr-lab.org/publication/hybrid-ismar/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hybrid-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Approach to Automatic Layout for User Interface Elements in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/georgel-05-ismar/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/georgel-05-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rapid Prototyping Software Infrastructure for User Interfaces in Ubiquitous Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Software Toolkit and Authoring Tools for User Interfaces in Ubiquitous Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-2005-diss/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2005-diss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Evaluation of an Augmented Reality Visualization for Directing a Car Driver&#39;s Attention</title>
+      <link>https://xr-lab.org/publication/toennis-ismar-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/toennis-ismar-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual End User Configuration of Hybrid User Interfaces</title>
+      <link>https://xr-lab.org/publication/sandor-2004-hybrid/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2004-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Approach for Experimenting with Tangible Interaction Metaphors</title>
+      <link>https://xr-lab.org/publication/hilliges-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hilliges-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An AR Workbench for Experimenting with Attentive User Interfaces</title>
+      <link>https://xr-lab.org/publication/novak-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/novak-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Development Methodology for Augmented Reality User Interfaces</title>
+      <link>https://xr-lab.org/publication/kulas-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kulas-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual End User Configuration of Hybrid User Interfaces</title>
+      <link>https://xr-lab.org/publication/sandor-04-sigmm/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-04-sigmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herding Sheep: Live System Development for Distributed Augmented Reality</title>
+      <link>https://xr-lab.org/publication/macwilli-2003-sheep/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/macwilli-2003-sheep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Studierstube and DWARF</title>
+      <link>https://xr-lab.org/publication/dwarf-2003-integrating/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dwarf-2003-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Begrenzt offen: Mac OS X als Portierungsziel</title>
+      <link>https://xr-lab.org/publication/macwilli-2003-ix/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/macwilli-2003-ix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Architecture Concept for Ubiqutous Computing Aware Wearable Computers</title>
+      <link>https://xr-lab.org/publication/bauer-2002/</link>
+      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/bauer-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHEEP: The Shared Environment Entertainment Pasture</title>
+      <link>https://xr-lab.org/publication/sandor-02-ismar/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-02-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Component-Based Augmented Reality Framework</title>
+      <link>https://xr-lab.org/publication/dwarf-2001-design/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dwarf-2001-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUIML: A Language for the Generation of Multimodal Human-Computer Interfaces</title>
+      <link>https://xr-lab.org/publication/sandor-2001-cuiml/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2001-cuiml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic Gesture Recognition</title>
+      <link>https://xr-lab.org/project/finger-device/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/finger-device/</guid>
+      <description>&lt;p&gt;This project aims to build the connection between humans and digital content through an easy to set up and natural interaction method that turns everyday objects into intuitive and creative interfaces. This could be achieved by acoustic gesture recognition which adds interactivity on the object surfaces by detecting the sound produced when performing a gesture. This technique will be used to enable interaction on physical objects for manipulation in the Internet of Things (IoT) , peripheral smart devices, Augmented Reality (AR), and Virtual Reality (VR) environments. It is also possible to customize tangible interfaces for specific applications and people with special needs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AR Therapies for PTSD</title>
+      <link>https://xr-lab.org/project/ar-ptsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/ar-ptsd/</guid>
+      <description>&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/project/ar-ptsd/teaser.png&#34; /&gt;
+    &lt;/div&gt;
+    
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&amp;ldquo;Globally, it is estimated that up to 1 billion children aged 2–17 years, have experienced physical, sexual, emotional violence and neglect” [1], and 30% of the abused child is likely to develop Post-traumatic stress disorder (PTSD) [2]; 354 million adult war survivors are suffering from PTSD [3]; At where the natural disaster occurred, 70.7% of survivors will suffer from acute PTSD [4]. PTSD has not only high prevalence but also high lethality, which is accompanied by multiple physical and mental comorbidities as well as strong suicidal tendencies [5-7]. This doctoral research aims to contribute to the development of PTSD treatment by investigating the potential of Augmented Reality (AR) narrative in treating PTSD. This four-year research project consists of three steps. In the first stage of research, we will conduct a comparative study between AR and VR narratives with participants without mental illnesses to verify whether AR narratives work better in eliciting the emotional engagement of the participants than VR narratives. In the second stage, we will create a system that integrates AR narratives with prolonged exposure (PE) treatment and experiment it with PTSD patients to verify its treatment efficacy. In the final stage, a semi-automatic and patient-authored AR system is expected to be achieved, through which the patients can design their unique exposure environment via voice input. This doctoral research project will provide valuable experimental samples and scientific evidences for the research of psychotherapy, narrative studies, and AR application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AvatarMeeting: An Augmented Reality Remote Interaction System With Personalized Avatars</title>
+      <link>https://xr-lab.org/project/avatar-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/avatar-meeting/</guid>
+      <description>&lt;p&gt;To further enhance the immersion, we involve avatars in remote interactions harnessing Head Mounted Display (HMD) based Augmented Reality (AR). In this demonstration, we present AvatarMeeting to enable users to meet with remote peers through interactive, personalized avatars, just like face to face. Specifically, we propose a novel framework including a consumer-grade set-up, a complete transmission scheme, and a processing pipeline, which consists of prescan modeling, pose detection, and action reconstruction. Moreover, we introduce an angle based reconstruction approach to empower the avatar to perform the same actions as each real remote person does in real-time smoothly while keeping a good avatar shape.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Immersive Projection</title>
+      <link>https://xr-lab.org/project/interactive-immersive-proj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/interactive-immersive-proj/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Spiritual World&amp;rdquo; is an interactive immersive projection trying to build an inner world to show the self-reflection process of participants visually and show the relationship between participants. Experiencing the &amp;ldquo;Spiritual World&amp;rdquo; is like entering other people&amp;rsquo;s inner world or let other people get into your inner world. The interaction between participants will be visually displayed to the surrounding.&lt;/p&gt;
+
+&lt;p&gt;The image and skeleton of audiences will be captured by Azure Kinect, then the captured data will be projected to the TV mirror and the surrounding walls to create the &amp;ldquo;Spiritual World&amp;rdquo;, aiming to turn the indescribable and uncertain interaction and intimacy between people into raw and surreal visuals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VIRTUAL PSYCHOTECHNICS: SIMULATING THE VISUAL PHENOMENOLOGY OF HALLUCINATION</title>
+      <link>https://xr-lab.org/project/psychotechnics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/psychotechnics/</guid>
+      <description>&lt;p&gt;This research investigates the capacity for immersive virtual reality (VR) and augmented reality (AR) to simulate the perceptual phenomena of altered states of consciousness. The thesis aims to answer the following question; what are the philosophical, scientific and technological links between altered states of consciousness and technology which have given rise to the increasing use of VR and AR as empirical tools for simulating meditative and psychedelic brain states. The hypothesis of this research draws from the philosophy of technology and theories of consciousness in the neurosciences to argue that the immersive qualities of VR and AR technologies mediate altered states of consciousness. These theoretical frameworks will inform the production of AR and VR systems that will be used in experimental studies to determine whether these technologies have the capacity for capturing the visual phenomenology of profound psychological experiences which physiological brain imaging technologies are incapable of articulating.  The first experiment will involve the development of a VR meditation system that digitally simulates the visualization techniques in Vajrayana buddhist meditation while using EEG brain computer interface to create bio feedback between the virtual simulations of buddhist cosmology and the users meditative state. This artwork proposes that VR buddhist meditation apps are the continuation of a tradition of visual art used as meditation aids in Tibetan and Tantric Buddhism.  The second experiment is an art science collaboration that draws from neuroimaging research on psychedelic brain states which has demonstrated increased cerebral blood flow and decreased alpha brain wave activity as key indicators of altered states of consciousness. Alpha activity is usually associated with filtering ‘stimulus irrelevant’ input in the visual cortex and reduced alpha is proposed to have a ‘disinhibitory’ effect producing anarchic patterns of stimulation associated with hallucinations. An acknowledged gap in this research is that examining only the ‘neural correlates of consciousness’ of hallucination neglects the visual phenomenological experience of these states which would be aided by the ‘improved capture of visual hallucinations.’ A mixed reality system will be developed for inducing hallucinations based on predictive processing and sensorimotor contingency theories of visual consciousness through the simulation of simple and complex imagery which is responsive to the eye tracking of the hololens system.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

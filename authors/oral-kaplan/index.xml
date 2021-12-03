@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oral Kaplan | XRL</title>
+    <link>https://xr-lab.org/authors/oral-kaplan/</link>
+      <atom:link href="https://xr-lab.org/authors/oral-kaplan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oral Kaplan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Oral Kaplan</title>
+      <link>https://xr-lab.org/authors/oral-kaplan/</link>
+    </image>
+    
+    <item>
+      <title>Towards Situated Knee Trajectory Visualization for Self Analysis in Cycling</title>
+      <link>https://xr-lab.org/publication/kaplan-ieeevr-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-ieeevr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoting Short-Term Gains in Physical Exercise Through Digital Media Creation</title>
+      <link>https://xr-lab.org/publication/kaplan-ace-17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-ace-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>退屈な筋力トレーニング法からの脱却の提案: 持続率と生体機能の更なる向上を目指して</title>
+      <link>https://xr-lab.org/publication/kaplan-kjsg-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-kjsg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Situ Visualization of Pedaling Forces on Cycling Training Videos</title>
+      <link>https://xr-lab.org/publication/kaplan-smc-16/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-smc-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

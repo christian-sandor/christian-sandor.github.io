@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Krichenbauer | XRL</title>
+    <link>https://xr-lab.org/authors/max-krichenbauer/</link>
+      <atom:link href="https://xr-lab.org/authors/max-krichenbauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Max Krichenbauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Max Krichenbauer</title>
+      <link>https://xr-lab.org/authors/max-krichenbauer/</link>
+    </image>
+    
+    <item>
+      <title>Augmented Reality versus Virtual Reality for 3D Object Manipulation</title>
+      <link>https://xr-lab.org/publication/krichenbauer-tvcg-17/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-tvcg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effect of Positional Head-Tracking on Task Performance in 3D Modeling User Interfaces</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ccg-17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ccg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Assistive Tabletop Projector-Camera System for the Elderly with Cognitive and Motor Skill Impairments</title>
+      <link>https://xr-lab.org/publication/hyry-itemta-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/hyry-itemta-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positional Head-Tracking in Immersive VR for 3D Designers</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Doctoral Consortium] User Study on Augmented Reality User Interfaces for 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A User Interface Design for the Elderly using a Projection Tabletop System</title>
+      <link>https://xr-lab.org/publication/yamamoto-2015-vaat/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2015-vaat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Towards Augmented Reality User Interfaces in 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-14-b/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-14-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Towards Augmented Reality User Interfaces in 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Augmented Reality User Interfaces in 3D Media Production</title>
+      <link>https://xr-lab.org/publication/krichenbauer-ismar-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/krichenbauer-ismar-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

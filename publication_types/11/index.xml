@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>11 | XRL</title>
+    <link>https://xr-lab.org/publication_types/11/</link>
+      <atom:link href="https://xr-lab.org/publication_types/11/index.xml" rel="self" type="application/rss+xml" />
+    <description>11</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>11</title>
+      <link>https://xr-lab.org/publication_types/11/</link>
+    </image>
+    
+    <item>
+      <title>Display device, and display method for aerial image</title>
+      <link>https://xr-lab.org/publication/yamamoto-2018-display/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2018-display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of polarization and diffractive artifact resolution in retro-imaging systems</title>
+      <link>https://xr-lab.org/publication/powell-2017-control/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/powell-2017-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARCHEOptiques</title>
+      <link>https://xr-lab.org/publication/alvaro-archeop-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-archeop-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Arrays</title>
+      <link>https://xr-lab.org/publication/alvaro-doit-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-doit-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Songe d&#39;une Nuit d&#39;Hiver (A Midwinter Night&#39;s Dream)</title>
+      <link>https://xr-lab.org/publication/alvaro-doitwaiwan-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-doitwaiwan-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brilliant Cube</title>
+      <link>https://xr-lab.org/publication/alvaro-brilliant-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-brilliant-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybernetic RattenKonig</title>
+      <link>https://xr-lab.org/publication/alvaro-cybernetic-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-cybernetic-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Arrays</title>
+      <link>https://xr-lab.org/publication/alvaro-l-achi-12-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-l-achi-12-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Arrays</title>
+      <link>https://xr-lab.org/publication/alvaro-seam-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-seam-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It&#39;s a Donnie World</title>
+      <link>https://xr-lab.org/publication/alvaro-donnie-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-donnie-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

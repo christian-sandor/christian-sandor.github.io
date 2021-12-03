@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippe Pinel | XRL</title>
+    <link>https://xr-lab.org/authors/philippe-pinel/</link>
+      <atom:link href="https://xr-lab.org/authors/philippe-pinel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philippe Pinel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Philippe Pinel</title>
+      <link>https://xr-lab.org/authors/philippe-pinel/</link>
+    </image>
+    
+    <item>
+      <title>A-me and BrainCloud: Art-Science Interrogations of Localization in Neuroscience</title>
+      <link>https://xr-lab.org/publication/puig-art-science-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/puig-art-science-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neuroscience social network project</title>
+      <link>https://xr-lab.org/publication/puig-neuroscience-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/puig-neuroscience-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

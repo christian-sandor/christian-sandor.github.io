@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takashi Komuro | XRL</title>
+    <link>https://xr-lab.org/authors/takashi-komuro/</link>
+      <atom:link href="https://xr-lab.org/authors/takashi-komuro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takashi Komuro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Takashi Komuro</title>
+      <link>https://xr-lab.org/authors/takashi-komuro/</link>
+    </image>
+    
+    <item>
+      <title>In-air typing interface for mobile devices with vibration feedback</title>
+      <link>https://xr-lab.org/publication/niikura-air-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/niikura-air-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Display System based on Adaptive Image Projection to a Deformable Tangible Screen</title>
+      <link>https://xr-lab.org/publication/yoshihiro-2010/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yoshihiro-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The deformable workspace: A membrane between real and virtual space</title>
+      <link>https://xr-lab.org/publication/watanabe-deformable-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/watanabe-deformable-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Object Representation Using a Tangible Screen</title>
+      <link>https://xr-lab.org/publication/takahito-2006/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/takahito-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

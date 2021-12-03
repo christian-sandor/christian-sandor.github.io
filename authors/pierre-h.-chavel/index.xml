@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre H. Chavel | XRL</title>
+    <link>https://xr-lab.org/authors/pierre-h.-chavel/</link>
+      <atom:link href="https://xr-lab.org/authors/pierre-h.-chavel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre H. Chavel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Pierre H. Chavel</title>
+      <link>https://xr-lab.org/authors/pierre-h.-chavel/</link>
+    </image>
+    
+    <item>
+      <title>Dedicated Optoelectronic Stochastic Parallel Processor (OSPP) for real-time image processing: motion detection demonstration and design of a hybrid CMOS/SEED based prototype</title>
+      <link>https://xr-lab.org/publication/alvaro-ao-2001/</link>
+      <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/alvaro-ao-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of Optoelectronic implementation of cellular automata for complex vision algorithms</title>
+      <link>https://xr-lab.org/publication/chavel-optoelectronic-2001/</link>
+      <pubDate>Thu, 01 Jun 2000 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/chavel-optoelectronic-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optoelectronic cellular automata for video real-time vision</title>
+      <link>https://xr-lab.org/publication/chavel-optoelectronic-2000/</link>
+      <pubDate>Mon, 01 May 2000 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/chavel-optoelectronic-2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

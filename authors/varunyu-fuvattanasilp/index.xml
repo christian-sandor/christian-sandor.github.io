@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Varunyu Fuvattanasilp | XRL</title>
+    <link>https://xr-lab.org/authors/varunyu-fuvattanasilp/</link>
+      <atom:link href="https://xr-lab.org/authors/varunyu-fuvattanasilp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Varunyu Fuvattanasilp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Varunyu Fuvattanasilp</title>
+      <link>https://xr-lab.org/authors/varunyu-fuvattanasilp/</link>
+    </image>
+    
+    <item>
+      <title>Efficient In-Situ Creation of Augmented Reality Tutorials</title>
+      <link>https://xr-lab.org/publication/plopski-mfi-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/plopski-mfi-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Contents Arrangement in Handheld Augmented Reality Application Based on Gravity Vector</title>
+      <link>https://xr-lab.org/publication/taketomi-iwmari-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/taketomi-iwmari-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

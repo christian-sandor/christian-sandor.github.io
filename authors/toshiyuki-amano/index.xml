@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toshiyuki Amano | XRL</title>
+    <link>https://xr-lab.org/authors/toshiyuki-amano/</link>
+      <atom:link href="https://xr-lab.org/authors/toshiyuki-amano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toshiyuki Amano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Toshiyuki Amano</title>
+      <link>https://xr-lab.org/authors/toshiyuki-amano/</link>
+    </image>
+    
+    <item>
+      <title>Illusory light: Perceptual appearance control using a projection-induced illusion</title>
+      <link>https://xr-lab.org/publication/akiyama-illusory-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-illusory-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Reflectance Estimation for Projection-Based Appearance Control in a Dynamic Light Environment</title>
+      <link>https://xr-lab.org/publication/akiyama-robust-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-robust-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Appearance Control by Projection-Induced Illusion</title>
+      <link>https://xr-lab.org/publication/akiyama-perceptual-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-perceptual-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>色恒常性を利用したプロジェクタの色域の知覚的拡張</title>
+      <link>https://xr-lab.org/publication/akiyama-miru-18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-miru-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Projection-Induced Illusion for Controlling Object Color</title>
+      <link>https://xr-lab.org/publication/akiyama-vr-18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-vr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>知覚量に基づく光投影による色制御実現に向けた色知覚モデルの検討</title>
+      <link>https://xr-lab.org/publication/akiyama-sigmr-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-sigmr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appearance Control in Dynamic Light Environments with a Projector-Camera System</title>
+      <link>https://xr-lab.org/publication/akiyama-ieeevr-16-ws/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/akiyama-ieeevr-16-ws/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

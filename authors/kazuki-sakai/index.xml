@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazuki Sakai | XRL</title>
+    <link>https://xr-lab.org/authors/kazuki-sakai/</link>
+      <atom:link href="https://xr-lab.org/authors/kazuki-sakai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kazuki Sakai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Kazuki Sakai</title>
+      <link>https://xr-lab.org/authors/kazuki-sakai/</link>
+    </image>
+    
+    <item>
+      <title>自然特徴点に基づく拘束を付加したDTAMによる三次元形状復元精度の定量評価</title>
+      <link>https://xr-lab.org/publication/sakai-sigmr-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sakai-sigmr-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

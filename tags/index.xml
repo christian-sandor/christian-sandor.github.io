@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | XRL</title>
+    <link>https://xr-lab.org/tags/</link>
+      <atom:link href="https://xr-lab.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Tags</title>
+      <link>https://xr-lab.org/tags/</link>
+    </image>
+    
+    <item>
+      <title>xrl</title>
+      <link>https://xr-lab.org/tags/xrl/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/xrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interaction shader</title>
+      <link>https://xr-lab.org/tags/interaction-shader/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/interaction-shader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive projection</title>
+      <link>https://xr-lab.org/tags/interactive-projection/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/interactive-projection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laser display</title>
+      <link>https://xr-lab.org/tags/laser-display/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/laser-display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low latencyfeedback</title>
+      <link>https://xr-lab.org/tags/low-latencyfeedback/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/low-latencyfeedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>augmented reality</title>
+      <link>https://xr-lab.org/tags/augmented-reality/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/augmented-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game design</title>
+      <link>https://xr-lab.org/tags/game-design/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High fidelity</title>
+      <link>https://xr-lab.org/tags/high-fidelity/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/high-fidelity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large scale interaction</title>
+      <link>https://xr-lab.org/tags/large-scale-interaction/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/large-scale-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finger force training</title>
+      <link>https://xr-lab.org/tags/finger-force-training/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/finger-force-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamification</title>
+      <link>https://xr-lab.org/tags/gamification/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/gamification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pressing evaluation and training system</title>
+      <link>https://xr-lab.org/tags/pressing-evaluation-and-training-system/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/pressing-evaluation-and-training-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kinetic interface</title>
+      <link>https://xr-lab.org/tags/kinetic-interface/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/kinetic-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liquid metal</title>
+      <link>https://xr-lab.org/tags/liquid-metal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/liquid-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-rigid interface</title>
+      <link>https://xr-lab.org/tags/non-rigid-interface/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/non-rigid-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programmable matter</title>
+      <link>https://xr-lab.org/tags/programmable-matter/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/programmable-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rheological interface</title>
+      <link>https://xr-lab.org/tags/rheological-interface/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/rheological-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tactile feedback</title>
+      <link>https://xr-lab.org/tags/tactile-feedback/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/tactile-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tangible drops</title>
+      <link>https://xr-lab.org/tags/tangible-drops/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/tangible-drops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audio feedback</title>
+      <link>https://xr-lab.org/tags/audio-feedback/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/audio-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>haptic interaction</title>
+      <link>https://xr-lab.org/tags/haptic-interaction/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/haptic-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodality</title>
+      <link>https://xr-lab.org/tags/multimodality/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/multimodality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>object density</title>
+      <link>https://xr-lab.org/tags/object-density/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/object-density/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physical property perception</title>
+      <link>https://xr-lab.org/tags/physical-property-perception/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/physical-property-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aerial Image</title>
+      <link>https://xr-lab.org/tags/aerial-image/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/aerial-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Layered Display</title>
+      <link>https://xr-lab.org/tags/dual-layered-display/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/dual-layered-display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual View Display</title>
+      <link>https://xr-lab.org/tags/dual-view-display/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/dual-view-display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floating Display</title>
+      <link>https://xr-lab.org/tags/floating-display/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/floating-display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retro-Reflection</title>
+      <link>https://xr-lab.org/tags/retro-reflection/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/retro-reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beam Splitter</title>
+      <link>https://xr-lab.org/tags/beam-splitter/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/beam-splitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflective Polarizer Film</title>
+      <link>https://xr-lab.org/tags/reflective-polarizer-film/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/reflective-polarizer-film/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retroreflector</title>
+      <link>https://xr-lab.org/tags/retroreflector/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/retroreflector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hands-free operation</title>
+      <link>https://xr-lab.org/tags/hands-free-operation/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/hands-free-operation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information presentation</title>
+      <link>https://xr-lab.org/tags/information-presentation/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/information-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>navigation aids</title>
+      <link>https://xr-lab.org/tags/navigation-aids/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/navigation-aids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>state-of-the-art system</title>
+      <link>https://xr-lab.org/tags/state-of-the-art-system/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/state-of-the-art-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wearable augmented reality</title>
+      <link>https://xr-lab.org/tags/wearable-augmented-reality/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/wearable-augmented-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wearable computersTinmith</title>
+      <link>https://xr-lab.org/tags/wearable-computerstinmith/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/tags/wearable-computerstinmith/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

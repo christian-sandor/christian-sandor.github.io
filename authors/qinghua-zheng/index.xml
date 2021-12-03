@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qinghua Zheng | XRL</title>
+    <link>https://xr-lab.org/authors/qinghua-zheng/</link>
+      <atom:link href="https://xr-lab.org/authors/qinghua-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qinghua Zheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Qinghua Zheng</title>
+      <link>https://xr-lab.org/authors/qinghua-zheng/</link>
+    </image>
+    
+    <item>
+      <title>AvatarMeeting: An Augmented Reality Remote Interaction System With Personalized Avatars</title>
+      <link>https://xr-lab.org/publication/wang-acm-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/wang-acm-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

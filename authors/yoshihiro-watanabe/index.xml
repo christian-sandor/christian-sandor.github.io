@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoshihiro Watanabe | XRL</title>
+    <link>https://xr-lab.org/authors/yoshihiro-watanabe/</link>
+      <atom:link href="https://xr-lab.org/authors/yoshihiro-watanabe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yoshihiro Watanabe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Yoshihiro Watanabe</title>
+      <link>https://xr-lab.org/authors/yoshihiro-watanabe/</link>
+    </image>
+    
+    <item>
+      <title>Generic method for crafting deformable interfaces to physically augment smartphones</title>
+      <link>https://xr-lab.org/publication/watanabe-generic-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/watanabe-generic-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skin Games</title>
+      <link>https://xr-lab.org/publication/cassinelli-skin-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-skin-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-air typing interface for mobile devices with vibration feedback</title>
+      <link>https://xr-lab.org/publication/niikura-air-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/niikura-air-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Display System based on Adaptive Image Projection to a Deformable Tangible Screen</title>
+      <link>https://xr-lab.org/publication/yoshihiro-2010/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yoshihiro-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camera-less Smart Laser Projector</title>
+      <link>https://xr-lab.org/publication/cassinelli-camera-2010/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-camera-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am near my navel: learning mappings between location and skin</title>
+      <link>https://xr-lab.org/publication/reynolds-i-2009/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/reynolds-i-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The deformable workspace: A membrane between real and virtual space</title>
+      <link>https://xr-lab.org/publication/watanabe-deformable-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/watanabe-deformable-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manipulating Perception</title>
+      <link>https://xr-lab.org/publication/stetten-manipulating-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/stetten-manipulating-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

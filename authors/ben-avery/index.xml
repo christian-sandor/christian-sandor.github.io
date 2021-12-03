@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Avery | XRL</title>
+    <link>https://xr-lab.org/authors/ben-avery/</link>
+      <atom:link href="https://xr-lab.org/authors/ben-avery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Avery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Ben Avery</title>
+      <link>https://xr-lab.org/authors/ben-avery/</link>
+    </image>
+    
+    <item>
+      <title>Improving Spatial Perception for Augmented Reality X-Ray Vision</title>
+      <link>https://xr-lab.org/publication/avery-ieeevr-09/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/avery-ieeevr-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

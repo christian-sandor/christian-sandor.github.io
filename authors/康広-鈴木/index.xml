@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>康広 鈴木 | XRL</title>
+    <link>https://xr-lab.org/authors/%E5%BA%B7%E5%BA%83-%E9%88%B4%E6%9C%A8/</link>
+      <atom:link href="https://xr-lab.org/authors/%E5%BA%B7%E5%BA%83-%E9%88%B4%E6%9C%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>康広 鈴木</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>康広 鈴木</title>
+      <link>https://xr-lab.org/authors/%E5%BA%B7%E5%BA%83-%E9%88%B4%E6%9C%A8/</link>
+    </image>
+    
+    <item>
+      <title>渦輪ディスプレイの提案</title>
+      <link>https://xr-lab.org/publication/weko-67517-1/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/weko-67517-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

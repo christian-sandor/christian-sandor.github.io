@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Reicher | XRL</title>
+    <link>https://xr-lab.org/authors/thomas-reicher/</link>
+      <atom:link href="https://xr-lab.org/authors/thomas-reicher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Reicher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Thomas Reicher</title>
+      <link>https://xr-lab.org/authors/thomas-reicher/</link>
+    </image>
+    
+    <item>
+      <title>An Architecture Concept for Ubiqutous Computing Aware Wearable Computers</title>
+      <link>https://xr-lab.org/publication/bauer-2002/</link>
+      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/bauer-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Component-Based Augmented Reality Framework</title>
+      <link>https://xr-lab.org/publication/dwarf-2001-design/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/dwarf-2001-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUIML: A Language for the Generation of Multimodal Human-Computer Interfaces</title>
+      <link>https://xr-lab.org/publication/sandor-2001-cuiml/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2001-cuiml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

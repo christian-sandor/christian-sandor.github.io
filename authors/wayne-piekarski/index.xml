@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wayne Piekarski | XRL</title>
+    <link>https://xr-lab.org/authors/wayne-piekarski/</link>
+      <atom:link href="https://xr-lab.org/authors/wayne-piekarski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wayne Piekarski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Wayne Piekarski</title>
+      <link>https://xr-lab.org/authors/wayne-piekarski/</link>
+    </image>
+    
+    <item>
+      <title>See-Through Vision for Mobile Outdoor Augmented Reality</title>
+      <link>https://xr-lab.org/publication/avery-2008-ismar/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/avery-2008-ismar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

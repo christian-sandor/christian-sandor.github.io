@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karlton Powell | XRL</title>
+    <link>https://xr-lab.org/authors/karlton-powell/</link>
+      <atom:link href="https://xr-lab.org/authors/karlton-powell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karlton Powell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Karlton Powell</title>
+      <link>https://xr-lab.org/authors/karlton-powell/</link>
+    </image>
+    
+    <item>
+      <title>Control of polarization and diffractive artifact resolution in retro-imaging systems</title>
+      <link>https://xr-lab.org/publication/powell-2017-control/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/powell-2017-control/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

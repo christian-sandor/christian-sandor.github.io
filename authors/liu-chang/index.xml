@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/liu-chang/</link>
+      <atom:link href="https://xr-lab.org/authors/liu-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/liu-chang/</link>
+    </image>
+    
+    <item>
+      <title>AR Therapies for PTSD</title>
+      <link>https://xr-lab.org/project/ar-ptsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/ar-ptsd/</guid>
+      <description>&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://xr-lab.org/project/ar-ptsd/teaser.png&#34; /&gt;
+    &lt;/div&gt;
+    
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&amp;ldquo;Globally, it is estimated that up to 1 billion children aged 2–17 years, have experienced physical, sexual, emotional violence and neglect” [1], and 30% of the abused child is likely to develop Post-traumatic stress disorder (PTSD) [2]; 354 million adult war survivors are suffering from PTSD [3]; At where the natural disaster occurred, 70.7% of survivors will suffer from acute PTSD [4]. PTSD has not only high prevalence but also high lethality, which is accompanied by multiple physical and mental comorbidities as well as strong suicidal tendencies [5-7]. This doctoral research aims to contribute to the development of PTSD treatment by investigating the potential of Augmented Reality (AR) narrative in treating PTSD. This four-year research project consists of three steps. In the first stage of research, we will conduct a comparative study between AR and VR narratives with participants without mental illnesses to verify whether AR narratives work better in eliciting the emotional engagement of the participants than VR narratives. In the second stage, we will create a system that integrates AR narratives with prolonged exposure (PE) treatment and experiment it with PTSD patients to verify its treatment efficacy. In the final stage, a semi-automatic and patient-authored AR system is expected to be achieved, through which the patients can design their unique exposure environment via voice input. This doctoral research project will provide valuable experimental samples and scientific evidences for the research of psychotherapy, narrative studies, and AR application.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

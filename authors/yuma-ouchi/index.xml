@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuma Ouchi | XRL</title>
+    <link>https://xr-lab.org/authors/yuma-ouchi/</link>
+      <atom:link href="https://xr-lab.org/authors/yuma-ouchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuma Ouchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Yuma Ouchi</title>
+      <link>https://xr-lab.org/authors/yuma-ouchi/</link>
+    </image>
+    
+    <item>
+      <title>短距離走トレーニングのための三次元床反力の提示方法の検討</title>
+      <link>https://xr-lab.org/publication/taketomi-kjsg-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/taketomi-kjsg-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

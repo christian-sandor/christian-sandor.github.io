@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoshitake Yasuhide | XRL</title>
+    <link>https://xr-lab.org/authors/yoshitake-yasuhide/</link>
+      <atom:link href="https://xr-lab.org/authors/yoshitake-yasuhide/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yoshitake Yasuhide</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Yoshitake Yasuhide</title>
+      <link>https://xr-lab.org/authors/yoshitake-yasuhide/</link>
+    </image>
+    
+    <item>
+      <title>退屈な筋力トレーニング法からの脱却の提案: 持続率と生体機能の更なる向上を目指して</title>
+      <link>https://xr-lab.org/publication/kaplan-kjsg-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/kaplan-kjsg-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/wanghin-hui/</link>
+      <atom:link href="https://xr-lab.org/authors/wanghin-hui/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/wanghin-hui/</link>
+    </image>
+    
+    <item>
+      <title>Interactive Immersive Projection</title>
+      <link>https://xr-lab.org/project/interactive-immersive-proj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/interactive-immersive-proj/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Spiritual World&amp;rdquo; is an interactive immersive projection trying to build an inner world to show the self-reflection process of participants visually and show the relationship between participants. Experiencing the &amp;ldquo;Spiritual World&amp;rdquo; is like entering other people&amp;rsquo;s inner world or let other people get into your inner world. The interaction between participants will be visually displayed to the surrounding.&lt;/p&gt;
+
+&lt;p&gt;The image and skeleton of audiences will be captured by Azure Kinect, then the captured data will be projected to the TV mirror and the surrounding walls to create the &amp;ldquo;Spiritual World&amp;rdquo;, aiming to turn the indescribable and uncertain interaction and intimacy between people into raw and surreal visuals.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

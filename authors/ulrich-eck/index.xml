@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ulrich Eck | XRL</title>
+    <link>https://xr-lab.org/authors/ulrich-eck/</link>
+      <atom:link href="https://xr-lab.org/authors/ulrich-eck/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ulrich Eck</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Ulrich Eck</title>
+      <link>https://xr-lab.org/authors/ulrich-eck/</link>
+    </image>
+    
+    <item>
+      <title>TutAR: Augmented Reality Tutorials for Hands-Only Procedures</title>
+      <link>https://xr-lab.org/publication/eckhoff-vrcai-18/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff-vrcai-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] TutAR: Semi-Automatic Generation of Augmented Reality Tutorials for Medical Education</title>
+      <link>https://xr-lab.org/publication/eckhoff-ismar-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eckhoff-ismar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Study of Non-Reversing Magic Mirrors for Augmented Reality Anatomy Learning</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Visuo-Haptic Augmented Reality User Interfaces for Stereo- Tactic Neurosurgery Planning</title>
+      <link>https://xr-lab.org/publication/eck-miar-16/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-miar-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Perception of Co-Location Errors during Tool Interaction in Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-icvr-16/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-icvr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise Haptic Device Co-Location for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/sandor-vcg-15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-vcg-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Comprehensive Workspace Calibration for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-ismar/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Workspace Calibration for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinect for Interactive AR Anatomy Learning</title>
+      <link>https://xr-lab.org/publication/meng-ismar-13/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/meng-ismar-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BurnAR: Involuntary Heat Sensations in Augmented Reality</title>
+      <link>https://xr-lab.org/publication/weir-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/weir-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HARP: A Framework for Visuo-Haptic Augmented Reality</title>
+      <link>https://xr-lab.org/publication/eck-ieeevr-13/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-ieeevr-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BurnAR: Feel the Heat</title>
+      <link>https://xr-lab.org/publication/weir-12-ismar/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/weir-12-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClonAR: Rapid Redesign of Real-World Objects</title>
+      <link>https://xr-lab.org/publication/csongei-12-ismar/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/csongei-12-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BurnAR: Feel the Heat</title>
+      <link>https://xr-lab.org/publication/sandor-2011-ismar/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2011-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Space-Distorting Visualizations for Rapid Environment Exploration in Mobile Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TINT: Towards a Pure Python Augmented Reality Framework</title>
+      <link>https://xr-lab.org/publication/eck-searis-10/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/eck-searis-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Space-Distorting Visualizations for Rapid Environment Exploration in Mobile Mixed Reality</title>
+      <link>https://xr-lab.org/publication/sandor-ismar-09/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/sandor-ismar-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rundle Lantern in Miniature: Simulating Large Scale Non-Planar Displays</title>
+      <link>https://xr-lab.org/publication/porter-rundle-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/porter-rundle-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

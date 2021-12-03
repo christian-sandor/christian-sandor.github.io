@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naoko Ogawa | XRL</title>
+    <link>https://xr-lab.org/authors/naoko-ogawa/</link>
+      <atom:link href="https://xr-lab.org/authors/naoko-ogawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Naoko Ogawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Naoko Ogawa</title>
+      <link>https://xr-lab.org/authors/naoko-ogawa/</link>
+    </image>
+    
+    <item>
+      <title>Real World Oriented Interaction System with Microorganisms and Its Preliminary Study</title>
+      <link>https://xr-lab.org/publication/naoko-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/naoko-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

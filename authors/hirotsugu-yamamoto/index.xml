@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hirotsugu Yamamoto | XRL</title>
+    <link>https://xr-lab.org/authors/hirotsugu-yamamoto/</link>
+      <atom:link href="https://xr-lab.org/authors/hirotsugu-yamamoto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hirotsugu Yamamoto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Hirotsugu Yamamoto</title>
+      <link>https://xr-lab.org/authors/hirotsugu-yamamoto/</link>
+    </image>
+    
+    <item>
+      <title>Display device, and display method for aerial image</title>
+      <link>https://xr-lab.org/publication/yamamoto-2018-display/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/yamamoto-2018-display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarized aerial imaging by retro-reflection for 2.5 d floating image displays</title>
+      <link>https://xr-lab.org/publication/tokuda-2016-polarized/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/tokuda-2016-polarized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R2D2 w/ AIRR: Real Time &amp; Real Space Double-Layered Display with Aerial Imaging by Retro-Reflection</title>
+      <link>https://xr-lab.org/publication/10-1145-2818466-2818484/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/10-1145-2818466-2818484/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephane Perrin | XRL</title>
+    <link>https://xr-lab.org/authors/stephane-perrin/</link>
+      <atom:link href="https://xr-lab.org/authors/stephane-perrin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephane Perrin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>Stephane Perrin</title>
+      <link>https://xr-lab.org/authors/stephane-perrin/</link>
+    </image>
+    
+    <item>
+      <title>Smart laser-scanner for 3D human-machine interface</title>
+      <link>https://xr-lab.org/publication/cassinelli-smart-2005/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-smart-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesture recognition using laser-based tracking system</title>
+      <link>https://xr-lab.org/publication/perrin-gesture-2004/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/perrin-gesture-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markerless laser-based tracking for real-time 3D gesture acquisition</title>
+      <link>https://xr-lab.org/publication/cassinelli-markerless-2004/</link>
+      <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/cassinelli-markerless-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-Based Finger Tracking System Suitable for MOEMS Integration</title>
+      <link>https://xr-lab.org/publication/perrin-laser-based-2003/</link>
+      <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/perrin-laser-based-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

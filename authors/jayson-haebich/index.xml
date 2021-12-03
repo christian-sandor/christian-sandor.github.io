@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRL</title>
+    <link>https://xr-lab.org/authors/jayson-haebich/</link>
+      <atom:link href="https://xr-lab.org/authors/jayson-haebich/index.xml" rel="self" type="application/rss+xml" />
+    <description>XRL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xr-lab.org/img/logo/xrl_black.png</url>
+      <title>XRL</title>
+      <link>https://xr-lab.org/authors/jayson-haebich/</link>
+    </image>
+    
+    <item>
+      <title>Classifying Cycling Hazards in Egocentric Data</title>
+      <link>https://xr-lab.org/publication/haebich-2021-classifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/haebich-2021-classifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifying Cycling Hazards in Egocentric Data</title>
+      <link>https://xr-lab.org/project/cycling/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/project/cycling/</guid>
+      <description>&lt;p&gt;Since cyclists are highly sensitive to road surface conditions and hazards they require more detailed information when navigating their route. To facilitate a better understanding of what causes hazardous conditions to cyclists we created a dataset of classified hazardous cycling conditions. Egocentric cycling footage and IMU data was collected in Hong Kong and Australia on various types of cycling infrastructure using sensors attached to the cyclist. By collecting both video and IMU data we were able to identify moments where the cyclist was experiencing sudden braking or uncomfortable cycling conditions as indicated by the IMU. We then extracted videos from these moments and classified them using Amazon Mechanical Turk.&lt;/p&gt;
+
+&lt;p&gt;This project was sponsored by Amazon and was created for the  EPIC @ CVPR 2020 Dataset challenge. This data is publicly available at the link below for anyone to use or modify under the Creative Commons Attribution 4.0 International License.&lt;/p&gt;
+
+&lt;p&gt;This dataset can be downloaded from the following link:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1htHvoTT7OHlfCrQsivGa3W6aRV38BTHw&#34; target=&#34;_blank&#34;&gt;Dataset&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When using this data set please cite the following paper:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xr-lab.org/publication/haebich-2021-classifying/&#34; target=&#34;_blank&#34;&gt;Classifying Cycling Hazards in Egocentric Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Minimal Latency Laser Graphics Pipeline</title>
+      <link>https://xr-lab.org/publication/haebich-sa-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xr-lab.org/publication/haebich-sa-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
